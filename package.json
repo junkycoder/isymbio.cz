@@ -2,7 +2,7 @@
   "name": "isymbio.cz",
   "version": "1.0.0",
   "description": "Webík pro Tomáše Fraňka",
-  "main": "app/index.js",
+  "main": "web/index.js",
   "scripts": {
     "test": "tap ./*.spec.js"
   },
