@@ -2,16 +2,17 @@
   "name": "isymbio.cz",
   "version": "1.0.0",
   "description": "Webík pro Tomáše Fraňka",
-  "main": "web/index.js",
+  "main": "app/index.js",
   "scripts": {
-    "test": "tap ./*.spec.js",
-    "dev": "nodemon ."
+    "test": "tap ./**/*.spec.js",
+    "dev": "nodemon ./dev/index.js",
+    "start": "node ./app/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/junkycoder/isymbio.cz.git"
   },
-  "author": "Dan Hromada r <hromada.dan@gmail.com>",
+  "author": "Dan Hromada <hromada.dan@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/junkycoder/isymbio.cz/issues"
