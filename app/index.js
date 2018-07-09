@@ -15,9 +15,10 @@ module.exports = () => {
     try {
         debug('Stand up, webserver');
         http.createServer((request, response) => {
-            let filePath = '.' + request.url;
-            if (filePath == './') filePath = './index.html';
-
+            let filePath =
+                request.url === '/'
+                    ? './web/index.html'
+                    : `./web${request.url}`;
             debug(`New request ${filePath}`);
 
             const extname = path.extname(filePath);
@@ -47,8 +48,8 @@ module.exports = () => {
             fs.readFile(filePath, function(error, content) {
                 if (error) {
                     if (error.code == 'ENOENT') {
+                        debug(`Not found`);
                         fs.readFile('./web/404.html', function(error, content) {
-                            if (error) debug('App error', error);
                             debug(`App response ./web/404.html`);
                             response.writeHead(200, {
                                 'Content-Type': contentType,
@@ -56,6 +57,7 @@ module.exports = () => {
                             response.end(content, 'utf-8');
                         });
                     } else {
+                        debug('App error 500');
                         response.writeHead(500);
                         response.end(
                             'Sorry, check with the site admin for error: ' +
@@ -64,10 +66,12 @@ module.exports = () => {
                         );
                         response.end();
                     }
-                } else {
-                    response.writeHead(200, { 'Content-Type': contentType });
-                    response.end(content, 'utf-8');
+                    return;
                 }
+
+                debug(`App response ${filePath}`);
+                response.writeHead(200, { 'Content-Type': contentType });
+                response.end(content, 'utf-8');
             });
         }).listen(port);
         debug(`Ready and listening on http://localhost:${port}`);

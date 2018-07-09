@@ -7,8 +7,12 @@
 require('dotenv').config();
 
 const http = require('http');
-const port = process.env.PORT || 3000;
 const debug = require('debug')('dev');
+
+(() => {
+    debug('Starting generator');
+    require('./generator')();
+})();
 
 (() => {
     debug('Starting app');
