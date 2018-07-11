@@ -62,3 +62,9 @@ typings/
 
 # Generated static website
 web/
+
+# Temporary dir
+tmp/
+
+# OS X finder metafiles
+.DS_Store
