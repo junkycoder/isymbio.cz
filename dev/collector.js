@@ -1,21 +1,22 @@
-const debug = require('debug')('dev:collector');
+const debug = require('debug')('isymbio:dev:collector');
 const puppeteer = require('puppeteer');
-const promisify = require('../lib/promisify');
-const fs = require('fs-extra');
+const save = require('../lib/save');
 
-module.exports = async function(source_url, destination_path) {
+module.exports = async function(links, { target_dir }) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    try {
-        await page.goto(source_url, { waitUntil: 'networkidle2' });
-    } catch (error) {
-        debug(`Can't browse ${source_url} page`, error);
+    for (let index = 0; index < links.length; index++) {
+        const link = links[index];
+
+        try {
+            await page.goto(link.url, { waitUntil: 'networkidle2' });
+            const data = await page.evaluate(collector);
+            await save(`${target_dir}/${link.id}.json`, data);
+        } catch (error) {
+            debug(`Can't browse ${link.url} page\n`, error);
+        }
     }
-
-    const data = await page.evaluate(collector);
-
-    await save(destination_path + '.json', data);
 
     await browser.close();
 };
@@ -30,15 +31,3 @@ function collector() {
         links: [...document.querySelectorAll('a[href]')].map(link => link.href),
     };
 }
-const save = async (filename, data) => {
-    try {
-        fs.ensureFileSync(filename);
-
-        fs.writeJsonSync(filename, data, {
-            spaces: 2,
-        }),
-            debug('Created JSON file', filename);
-    } catch (error) {
-        debug('Can not create JSON file', error);
-    }
-};

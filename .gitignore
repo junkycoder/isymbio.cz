@@ -68,3 +68,6 @@ tmp/
 
 # OS X finder metafiles
 .DS_Store
+
+# VScode
+.vscode
