@@ -1,6 +1,5 @@
 ---
 title: Kontakty
-layout: article.hbs
 ---
 ## [Kontakty](clanky.php?id=1)
 

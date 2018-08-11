@@ -1,6 +1,5 @@
 ---
 title: Elektronické pomůcky pro zrakově postižené
-layout: article.hbs
 ---
 ## [Elektronické pomůcky pro zrakově postižené](clanky.php?id=10)
 

@@ -1,6 +1,5 @@
 ---
 title: Kamerová zvětšovací lupa VOCATEX
-layout: article.hbs
 ---
 ## [Kamerová zvětšovací lupa VOCATEX](clanky.php?id=22)
 

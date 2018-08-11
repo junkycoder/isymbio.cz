@@ -1,6 +1,5 @@
 ---
 title: SYMBIO Access devices s.r.o.
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

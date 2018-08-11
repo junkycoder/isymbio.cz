@@ -1,6 +1,5 @@
 ---
 title: Kapesní kamerové lupy
-layout: article.hbs
 ---
 ## [Kapesní kamerové lupy](clanky.php?id=23)
 

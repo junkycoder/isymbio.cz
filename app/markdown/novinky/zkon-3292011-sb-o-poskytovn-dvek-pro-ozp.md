@@ -1,6 +1,5 @@
 ---
 title: Zákon č.329/2011 Sb. o poskytování dávek pro OZP
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

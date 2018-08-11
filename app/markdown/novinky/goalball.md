@@ -1,6 +1,5 @@
 ---
 title: GOALBALL
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

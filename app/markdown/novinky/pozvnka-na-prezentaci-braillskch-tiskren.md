@@ -1,6 +1,5 @@
 ---
 title: Pozvánka na prezentaci Braillských tiskáren
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

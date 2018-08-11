@@ -1,6 +1,5 @@
 ---
 title: informace k příspěvku na zvláštní pomůcku
-layout: article.hbs
 ---
 ## [informace k příspěvku na zvláštní pomůcku](clanky.php?id=18)
 

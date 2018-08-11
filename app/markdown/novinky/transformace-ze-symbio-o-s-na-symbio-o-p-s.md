@@ -1,6 +1,5 @@
 ---
 title: Transformace ze SYMbiO, o. s. na SYMBIO, o. p. s.
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

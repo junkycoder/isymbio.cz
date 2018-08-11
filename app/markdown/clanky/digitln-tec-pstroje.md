@@ -1,6 +1,5 @@
 ---
 title: Digitální čtecí přístroje
-layout: article.hbs
 ---
 ## [Digitální čtecí přístroje](clanky.php?id=28)
 

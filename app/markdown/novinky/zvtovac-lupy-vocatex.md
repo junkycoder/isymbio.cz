@@ -1,6 +1,5 @@
 ---
 title: Zvětšovací lupy Vocatex
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

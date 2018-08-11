@@ -1,6 +1,5 @@
 ---
 title: Apple Počítače kompenzační pomůcky
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

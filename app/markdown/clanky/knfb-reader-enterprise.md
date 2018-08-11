@@ -1,6 +1,5 @@
 ---
 title: KNFB Reader Enterprise
-layout: article.hbs
 ---
 ## [KNFB Reader Enterprise](clanky.php?id=50)
 

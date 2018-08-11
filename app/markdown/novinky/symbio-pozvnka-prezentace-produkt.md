@@ -1,6 +1,5 @@
 ---
 title: SYMBIO Pozvánka - Prezentace produktů
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

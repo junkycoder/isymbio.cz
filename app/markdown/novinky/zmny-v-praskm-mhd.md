@@ -1,6 +1,5 @@
 ---
 title: Změny v Pražském MHD
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

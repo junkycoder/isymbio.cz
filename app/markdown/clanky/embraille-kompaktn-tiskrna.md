@@ -1,6 +1,5 @@
 ---
 title: EmBraille - kompaktní tiskárna
-layout: article.hbs
 ---
 ## [EmBraille - kompaktní tiskárna](clanky.php?id=56)
 

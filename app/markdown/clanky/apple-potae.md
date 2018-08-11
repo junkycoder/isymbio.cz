@@ -1,6 +1,5 @@
 ---
 title: Apple počítače
-layout: article.hbs
 ---
 ## [Apple počítače](clanky.php?id=49)
 

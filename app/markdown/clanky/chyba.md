@@ -1,6 +1,5 @@
 ---
 title: Chyba
-layout: article.hbs
 ---
 ## [Chyba](clanky.php?id=)
 

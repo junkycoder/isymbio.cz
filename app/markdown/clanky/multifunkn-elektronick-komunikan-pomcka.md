@@ -1,6 +1,5 @@
 ---
 title: Multifunkční elektronická komunikační pomůcka
-layout: article.hbs
 ---
 ## [Multifunkční elektronická komunikační pomůcka](clanky.php?id=41)
 

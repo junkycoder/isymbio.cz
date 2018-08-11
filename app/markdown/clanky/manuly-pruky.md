@@ -1,6 +1,5 @@
 ---
 title: Manuály / Příručky
-layout: article.hbs
 ---
 ## [Manuály / Příručky](clanky.php?id=45)
 

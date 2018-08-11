@@ -1,6 +1,5 @@
 ---
 title: Informace Národní rady zdravotně postižených
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

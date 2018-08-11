@@ -1,6 +1,5 @@
 ---
 title: VOCATEX Split Screen
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

@@ -1,6 +1,5 @@
 ---
 title: SpotDot - tiskárna se soutiskem
-layout: article.hbs
 ---
 ## [SpotDot - tiskárna se soutiskem](clanky.php?id=54)
 

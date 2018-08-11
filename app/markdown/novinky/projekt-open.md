@@ -1,6 +1,5 @@
 ---
 title: Projekt OPEN
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

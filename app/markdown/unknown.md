@@ -1,6 +1,5 @@
 ---
 title: NovinkyOdběr novinek
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

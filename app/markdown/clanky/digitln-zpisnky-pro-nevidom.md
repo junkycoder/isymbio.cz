@@ -1,6 +1,5 @@
 ---
 title: Digitální zápisníky pro nevidomé
-layout: article.hbs
 ---
 ## [Digitální zápisníky pro nevidomé](clanky.php?id=24)
 

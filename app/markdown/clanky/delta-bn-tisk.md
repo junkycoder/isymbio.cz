@@ -1,6 +1,5 @@
 ---
 title: Delta - běžný tisk
-layout: article.hbs
 ---
 ## [Delta - běžný tisk](clanky.php?id=59)
 

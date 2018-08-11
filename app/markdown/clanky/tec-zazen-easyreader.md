@@ -1,6 +1,5 @@
 ---
 title: Čtecí zařízení EasyReader
-layout: article.hbs
 ---
 ## [Čtecí zařízení EasyReader](clanky.php?id=29)
 

@@ -1,6 +1,5 @@
 ---
 title: Odečítací program JAWS
-layout: article.hbs
 ---
 ## [Odečítací program JAWS](clanky.php?id=52)
 

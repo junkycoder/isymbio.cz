@@ -1,6 +1,5 @@
 ---
 title: Hlasové syntézy
-layout: article.hbs
 ---
 ## [Hlasové syntézy](clanky.php?id=40)
 

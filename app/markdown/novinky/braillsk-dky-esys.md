@@ -1,6 +1,5 @@
 ---
 title: Braillské řádky ESYS
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

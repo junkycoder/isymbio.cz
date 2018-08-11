@@ -1,6 +1,5 @@
 ---
 title: Ceník produktů
-layout: article.hbs
 ---
 ## [Ceník produktů](clanky.php?id=51)
 

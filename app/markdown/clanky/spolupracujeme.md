@@ -1,6 +1,5 @@
 ---
 title: Spolupracujeme
-layout: article.hbs
 ---
 ## [Spolupracujeme](clanky.php?id=9)
 

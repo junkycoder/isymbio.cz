@@ -1,6 +1,5 @@
 ---
 title: Podpořili nás
-layout: article.hbs
 ---
 ## [Podpořili nás](clanky.php?id=20)
 

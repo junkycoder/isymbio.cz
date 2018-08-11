@@ -1,6 +1,5 @@
 ---
 title: Začínáme s iPhone / iPad
-layout: article.hbs
 ---
 ## [Začínáme s iPhone / iPad](clanky.php?id=47)
 

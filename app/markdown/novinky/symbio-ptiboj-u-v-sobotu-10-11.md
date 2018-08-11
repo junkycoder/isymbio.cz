@@ -1,6 +1,5 @@
 ---
 title: SYMBIO pětiboj už v sobotu 10. 11.
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

@@ -1,6 +1,5 @@
 ---
 title: Novela 329/2011 Sb. O dávkách OZP
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

@@ -1,6 +1,5 @@
 ---
 title: Braillské řádky Esys
-layout: article.hbs
 ---
 ## [Braillské řádky Esys](clanky.php?id=30)
 

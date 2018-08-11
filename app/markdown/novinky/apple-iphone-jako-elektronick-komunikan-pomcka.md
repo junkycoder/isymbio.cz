@@ -1,6 +1,5 @@
 ---
 title: APPLE iPhone jako elektronická komunikační pomůcka
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

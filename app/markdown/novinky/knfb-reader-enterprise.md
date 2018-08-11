@@ -1,6 +1,5 @@
 ---
 title: KNFB Reader Enterprise
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

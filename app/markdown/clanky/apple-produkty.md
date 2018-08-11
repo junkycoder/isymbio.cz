@@ -1,6 +1,5 @@
 ---
 title: Apple produkty
-layout: article.hbs
 ---
 ## [Apple produkty](clanky.php?id=55)
 

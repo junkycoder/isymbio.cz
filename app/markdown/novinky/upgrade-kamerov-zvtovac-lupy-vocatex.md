@@ -1,6 +1,5 @@
 ---
 title: UPGRADE Kamerové zvětšovací lupy Vocatex
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

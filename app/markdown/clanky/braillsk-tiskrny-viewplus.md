@@ -1,6 +1,5 @@
 ---
 title: Braillské tiskárny ViewPlus
-layout: article.hbs
 ---
 ## [Braillské tiskárny ViewPlus](clanky.php?id=57)
 

@@ -1,6 +1,5 @@
 ---
 title: Apple Watch
-layout: article.hbs
 ---
 ## [Apple Watch](clanky.php?id=48)
 

@@ -1,6 +1,5 @@
 ---
 title: Pozvánka na "nultý ročník SYMBIO PĚTIBOJ"
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

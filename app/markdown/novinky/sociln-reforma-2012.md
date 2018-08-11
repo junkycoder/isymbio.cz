@@ -1,6 +1,5 @@
 ---
 title: SOCIÁLNÍ REFORMA 2012
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

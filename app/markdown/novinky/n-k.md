@@ -1,6 +1,5 @@
 ---
 title: NÁŠ KŮŇ
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

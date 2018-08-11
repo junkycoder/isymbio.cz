@@ -1,6 +1,5 @@
 ---
 title: Columbia - traktorový tisk
-layout: article.hbs
 ---
 ## [Columbia - traktorový tisk](clanky.php?id=58)
 

@@ -1,6 +1,5 @@
 ---
 title: Pozvánka
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

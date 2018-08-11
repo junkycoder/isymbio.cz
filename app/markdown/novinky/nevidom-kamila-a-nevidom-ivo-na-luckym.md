@@ -1,6 +1,5 @@
 ---
 title: NEVIDOMÁ KAMILA A NEVIDOMÝ IVOŠ NA LUCKYM
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

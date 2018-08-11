@@ -1,6 +1,5 @@
 ---
 title: NOVINKA - Easy Reader
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

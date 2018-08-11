@@ -1,6 +1,5 @@
 ---
 title: Zvětšovací program Magic
-layout: article.hbs
 ---
 ## [Zvětšovací program Magic](clanky.php?id=34)
 

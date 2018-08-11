@@ -1,6 +1,5 @@
 ---
 title: Kamerové kapesní lupy Zoomax
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

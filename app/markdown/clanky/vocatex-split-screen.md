@@ -1,6 +1,5 @@
 ---
 title: Vocatex Split Screen
-layout: article.hbs
 ---
 ## [Vocatex Split Screen](clanky.php?id=38)
 

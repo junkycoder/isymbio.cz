@@ -1,6 +1,5 @@
 ---
 title: HLEDÁME POMOC
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

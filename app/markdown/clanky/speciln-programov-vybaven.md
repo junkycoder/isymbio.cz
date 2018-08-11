@@ -1,6 +1,5 @@
 ---
 title: Speciální programové vybavení
-layout: article.hbs
 ---
 ## [Speciální programové vybavení](clanky.php?id=33)
 

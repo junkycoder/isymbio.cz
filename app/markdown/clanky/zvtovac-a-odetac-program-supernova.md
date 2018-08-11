@@ -1,6 +1,5 @@
 ---
 title: Zvětšovací a odečítací program SuperNova
-layout: article.hbs
 ---
 ## [Zvětšovací a odečítací program SuperNova](clanky.php?id=39)
 

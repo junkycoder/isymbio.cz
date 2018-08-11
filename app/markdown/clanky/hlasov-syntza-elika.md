@@ -1,6 +1,5 @@
 ---
 title: Hlasová syntéza Eliška
-layout: article.hbs
 ---
 ## [Hlasová syntéza Eliška](clanky.php?id=53)
 

@@ -1,6 +1,5 @@
 ---
 title: Kapesní lupy Compact
-layout: article.hbs
 ---
 ## [Kapesní lupy Compact](clanky.php?id=43)
 

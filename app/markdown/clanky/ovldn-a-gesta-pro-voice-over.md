@@ -1,6 +1,5 @@
 ---
 title: Ovládání a gesta pro Voice Over
-layout: article.hbs
 ---
 ## [Ovládání a gesta pro Voice Over](clanky.php?id=46)
 

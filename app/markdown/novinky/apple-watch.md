@@ -1,6 +1,5 @@
 ---
 title: Apple Watch
-layout: article.hbs
 ---
 ## [Novinky](index.php)
 

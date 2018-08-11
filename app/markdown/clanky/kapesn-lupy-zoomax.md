@@ -1,6 +1,5 @@
 ---
 title: Kapesní lupy Zoomax
-layout: article.hbs
 ---
 ## [Kapesní lupy Zoomax](clanky.php?id=44)
 
