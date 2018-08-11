@@ -1,0 +1,170 @@
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    hgroup,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+        display: block
+    }
+
+    * {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box
+    }
+
+    html {
+        font-size: 87.5%;
+        line-height: 1.57143em
+        -webkit-text-size-adjust: 100%
+    }
+
+    body {
+        text-rendering: optimizeLegibility;
+        font-family: Arial, Helvetica, sans-serif
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;;
+
+        font-size: 1.6em;
+        line-height: 1.3em;
+        margin-bottom: .78571em
+    }
+
+    h2 {
+        font-family: Arial, Helvetica, sans-serif;;
+
+        font-size: 1.3em;
+        line-height: 1em;
+        margin-bottom: .62857em
+    }
+
+    h3 {
+        font-family: Arial, Helvetica, sans-serif;;
+
+        font-size: 1.15em;
+        line-height: 1em;
+        margin-bottom: .47143em
+    }
+
+    p {
+        margin-bottom: 1.57143em;
+        hyphens: auto
+    }
+
+    hr {
+        height: 1px;
+        border: 0;
+        margin: -1px auto 1.57143em auto
+    }
+
+    ul,
+    ol {
+        margin-bottom: .31429em
+    }
+
+    ul ul,
+    ul ol,
+    ol ul,
+    ol ol {
+        margin-bottom: 0px
+    }
+
+    ol li:before {
+        content: counter(ol) ".";
+        counter-increment: ol;
+        text-align: right;
+        display: inline-block;
+        min-width: 1em;
+        margin-right: 0.5em
+    }
+
+    b,
+    strong {
+        font-family: "AvenirNext-Bold"
+    }
+
+    i,
+    em {
+        font-family: "AvenirNext-Italic"
+    }
+
+    code {
+        font-family: "Menlo-Regular"
+    }
+
+    .text-overflow-ellipsis {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap
+    }
+
+    p {
+        margin-bottom: 0.1em
+    }
+
+    hr {
+        margin-bottom: 0.7em;
+        margin-top: 0.7em
+    }
+
+    ul li {
+        text-indent: -0.35em
+    }
+
+    ul li:before {
+        content: "•";
+        display: inline-block;
+        margin-right: 0.3em
+    }
+
+    ul ul {
+        margin-left: 1.25714em
+    }
+
+    ol li {
+        text-indent: -1.45em
+    }
+
+    ol ol {
+        margin-left: 1.25714em
+    }
+
+    img {
+        max-width: 100%;
+        height: auto
+    }
+
+    table {
+        border-collapse: collapse;
+        border-spacing: 0
+    }
+
+    caption,
+    th,
+    td {
+        text-align: left;
+        font-weight: normal;
+        vertical-align: middle
+    }
+
+    a img {
+        border: none
+    }

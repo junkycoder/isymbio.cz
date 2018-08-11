@@ -1,0 +1,22 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "make",
+        "test": "echo \"Just static website, no tests needed.\" && exit 0"
+    },
+    "keywords": [],
+    "author": "Dan Hromada <hromada.dan@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "handlebars": "^4.0.11",
+        "jstransformer-handlebars": "^1.1.0",
+        "jstransformer-mini-handlebars": "^0.5.0",
+        "metalsmith": "^2.3.0",
+        "metalsmith-drafts": "0.0.1",
+        "metalsmith-layouts": "^2.1.0",
+        "metalsmith-markdown": "^0.2.2",
+        "metalsmith-permalinks": "^0.5.0"
+    }
+}

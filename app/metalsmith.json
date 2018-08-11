@@ -1,0 +1,10 @@
+{
+    "source": "./markdown",
+    "destination": "../web",
+    "plugins": {
+        "metalsmith-markdown": true,
+        "metalsmith-layouts": {
+            "engine": "handlebars"
+        }
+    }
+}
