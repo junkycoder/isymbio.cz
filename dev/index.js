@@ -36,6 +36,7 @@ const debug = require('debug')('isymbio:dev');
 })();
 
 (async () => {
+    return;
     const pages = require('../tmp/isymbio-pages-list.json')
         .sort((a, b) => a.score < b.score)
         .filter(
@@ -47,12 +48,22 @@ const debug = require('debug')('isymbio:dev');
                 page.url.startsWith('http://isymbio.cz'),
         );
 
-    console.log(pages);
-
     try {
         await require('./collector')(pages, {
             target_dir: __dirname + '/../tmp',
         });
+    } catch (error) {
+        debug('Error:\n', error);
+    }
+})();
+
+(async () => {
+    const pages = require('../tmp/isymbio-pages-list.json').sort(
+        (a, b) => a.score < b.score,
+    );
+
+    try {
+        await require('./generator')(pages);
     } catch (error) {
         debug('Error:\n', error);
     }

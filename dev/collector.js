@@ -24,6 +24,7 @@ module.exports = async function(links, { target_dir }) {
 function collector() {
     return {
         title: document.title,
+        link: location.href,
         navigation: [...document.querySelectorAll('#sidebar li a')].map(
             link => ({ url: link.href, text: link.innerText }),
         ),

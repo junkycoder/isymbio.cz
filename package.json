@@ -1,34 +1,36 @@
 {
-  "name": "isymbio.cz",
-  "version": "1.0.0",
-  "description": "Webík pro Tomáše Fraňka",
-  "main": "app/index.js",
-  "scripts": {
-    "test": "tap ./**/*.spec.js",
-    "dev": "nodemon -e hbs,js ./dev/index.js",
-    "start": "node ./app/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/junkycoder/isymbio.cz.git"
-  },
-  "author": "Dan Hromada <hromada.dan@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/junkycoder/isymbio.cz/issues"
-  },
-  "homepage": "https://github.com/junkycoder/isymbio.cz#readme",
-  "devDependencies": {
-    "crypto": "^1.0.1",
-    "debug": "^3.1.0",
-    "dotenv": "^6.0.0",
-    "fs-extra": "^6.0.1",
-    "glob": "^7.1.2",
-    "hbs": "^4.0.1",
-    "nodemon": "^1.17.5",
-    "normalize-url": "^3.2.0",
-    "puppeteer": "^1.5.0",
-    "query-string": "^6.1.0",
-    "tap": "^12.0.1"
-  }
+    "name": "isymbio.cz",
+    "version": "1.0.0",
+    "description": "Webík pro Tomáše Fraňka",
+    "main": "app/index.js",
+    "scripts": {
+        "test": "tap ./**/*.spec.js",
+        "dev": "nodemon -e hbs,js ./dev/index.js",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/junkycoder/isymbio.cz.git"
+    },
+    "author": "Dan Hromada <hromada.dan@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/junkycoder/isymbio.cz/issues"
+    },
+    "homepage": "https://github.com/junkycoder/isymbio.cz#readme",
+    "devDependencies": {
+        "crypto": "^1.0.1",
+        "debug": "^3.1.0",
+        "dotenv": "^6.0.0",
+        "fs-extra": "^6.0.1",
+        "glob": "^7.1.2",
+        "hbs": "^4.0.1",
+        "nodemon": "^1.17.5",
+        "normalize-url": "^3.2.0",
+        "now": "^11.3.9",
+        "puppeteer": "^1.5.0",
+        "query-string": "^6.1.0",
+        "tap": "^12.0.1",
+        "turndown": "^4.0.2"
+    }
 }
