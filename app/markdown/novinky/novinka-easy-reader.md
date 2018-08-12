@@ -1,9 +1,9 @@
 ---
 title: NOVINKA - Easy Reader
 ---
-## [Novinky](index.php)
+# Novinky
 
-### NOVINKA - Easy Reader
+## NOVINKA - Easy Reader
 
 Easy Reader je novinka na českém trhu pro nevidomé nebo těžce zrakově postižené. Jedná se o jednoduché čtecí zařízení  
   
@@ -30,8 +30,3 @@ S dalšímy dotazy nás neváhejte kontaktovat na
   
 SYMBIO, o. p. s.  
 www.symbio-ops.cz
-
-  
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=0&id=46)

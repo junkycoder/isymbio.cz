@@ -1,14 +1,14 @@
 ---
 title: Apple produkty
 ---
-## [Apple produkty](clanky.php?id=55)
+# Apple produkty
 
 Produkty Apple jako kompenzační pomůcky pro lidi se zrakovým handicapem jsou rozšířeny po celém světě a ani v České republice tomu není jinak.  
 Specializujeme se na Apple produkty od roku 2014 a od té doby jsme se dostali na vrchol poskytování Apple produktů mezi zrakově postižené.  
 Umíme zajistit kompletní podporu, spolupracujeme s českými a zahraničními Apple distributory. Jako samotní uživatelé víme co Apple umí a dělá pro lidi s handicapem a nejen pro ně.  
   
 
-### Proč Apple od nás?
+## Proč Apple od nás?
 
   
 \- Sami jsme těžce zrakově postižení uživatelé Apple  
@@ -25,13 +25,9 @@ Umíme zajistit kompletní podporu, spolupracujeme s českými a zahraničními 
 \- Pomůžeme s vyřízením žádosti o zvláštní příspěvek na Úřadu práce dle §329/2011 Sb.  
   
 
-### Kategorie produktů
+## Kategorie produktů
 
   
 [Multifunkční elektronická komunikační pomůcka](clanky.php?id=41)    
 [Apple počítače](clanky.php?id=49)  
 [Apple Watch](clanky.php?id=48)
-
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=1&id=55)

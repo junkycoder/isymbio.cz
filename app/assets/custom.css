@@ -1,4 +1,4 @@
- /* Font size */
+/* Font size */
 
 html {
     font-size: 18px;
@@ -6,8 +6,9 @@ html {
 }
 
 article {
-    transition: font-size .2s ease;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: font-size 0.2s ease;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
     font-weight: 300;
 }
 
@@ -24,28 +25,28 @@ article a {
 body {
     background-color: #fcfcfc;
     color: #545454;
-    transition: background-color .2s ease, color .2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 body.invert-colors {
     background-color: #030303;
-    color: #ABABAB;
+    color: #ababab;
 }
 
 a {
-    color: #CB6D1B;
-    transition: color .2s ease;
+    color: #cb6d1b;
+    transition: color 0.2s ease;
 }
 
 body.invert-colors a {
-    color: #3492E4;
+    color: #3492e4;
 }
 
 h1,
 h2,
 h3 {
     color: #333;
-    transition: color .2s ease;
+    transition: color 0.2s ease;
 }
 
 body.invert-colors h1,
@@ -56,7 +57,7 @@ body.invert-colors h3 {
 
 hr {
     background-color: #dedede;
-    transition: background-color .2s ease;
+    transition: background-color 0.2s ease;
 }
 
 body.invert-colors hr {
@@ -66,42 +67,41 @@ body.invert-colors hr {
 ul li::before,
 ol li::before {
     color: #e06e73;
-    transition: color .2s ease;
+    transition: color 0.2s ease;
 }
 
 body.invert-colors ul li::before,
 body.invert-colors ol li::before {
-    color: #1F918C;
+    color: #1f918c;
 }
 
 header svg g {
-    transition: fill .2s ease;
+    transition: fill 0.2s ease;
 }
 
 header svg:hover g {
-    fill: #CB6D1B;
+    fill: #cb6d1b;
 }
 
 body.invert-colors header svg g {
-    fill: #3492E4;
+    fill: #3492e4;
 }
-
 
 body.invert-colors header svg:hover g {
     fill: #fff;
 }
 
 nav a {
-    transition: background-color .2s ease, color .2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 nav a:hover {
-    background-color: #CB6D1B;
+    background-color: #cb6d1b;
     color: #fcfcfc;
 }
 
 body.invert-colors nav a:hover {
-    background-color: #3492E4;
+    background-color: #3492e4;
     color: #fff;
 }
 
@@ -121,10 +121,9 @@ body.invert-colors nav a.active:hover {
     background-color: #000;
 }
 
-
 .toolbox__button svg g {
     fill: #000;
-    transition: fill .2s ease;
+    transition: fill 0.2s ease;
 }
 
 body.invert-colors .toolbox__button svg g {
@@ -132,13 +131,12 @@ body.invert-colors .toolbox__button svg g {
 }
 
 .toolbox__button.invert svg g {
-    fill: #CB6D1B;
+    fill: #cb6d1b;
 }
 
 body.invert-colors .toolbox__button.invert svg g {
-    fill: #3492E4;
+    fill: #3492e4;
 }
-
 
 /* Layout and design */
 
@@ -149,6 +147,9 @@ body {
     padding: 1.57143em 3.14286em;
 }
 
+main {
+    flex: 1;
+}
 
 header h1 {
     text-indent: -200%;
@@ -181,7 +182,7 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
 
     padding: 0.8rem;
-    transition: background-color .2s ease, color .2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 nav a:hover {

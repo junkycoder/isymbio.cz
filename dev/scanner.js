@@ -1,6 +1,7 @@
 const debug = require('debug')('isymbio:dev:scanner');
 const puppeteer = require('puppeteer');
 const { hashURLAsID } = require('../lib/crypto');
+const nanoid = require('nanoid');
 const normalizeUrl = require('normalize-url');
 const save = require('../lib/save');
 
@@ -16,16 +17,12 @@ module.exports = async function scanner(
     let urls = {};
 
     try {
-        urls = require(output_file).reduce(
-            (page, map) => (map[page.id] = page),
-            urls,
-        );
+        urls = require(output_file);
     } catch (error) {
         debug(error);
         urls = {
-            [hashURLAsID(entry_url)]: {
-                id: hashURLAsID(entry_url),
-                url: normalizeUrl(entry_url),
+            [normalizeUrl(entry_url)]: {
+                id: nanoid(),
             },
         };
     }
@@ -50,7 +47,7 @@ module.exports = async function scanner(
         }
 
         // Update url record
-        urls[page_to_visit.id] = page_to_visit;
+        urls[page_to_visit.url] = page_to_visit;
 
         // Remove visited url from queue
         url_list_queue = freshPagesList(urls);
@@ -77,18 +74,12 @@ module.exports = async function scanner(
                 return;
             }
 
-            const id = hashURLAsID(url);
-
-            if (urls.hasOwnProperty(id)) {
-                urls[id].score = 1 + (urls[id].score || 0);
+            if (urls.hasOwnProperty(url)) {
+                urls[url].score = 1 + (urls[url].score || 0);
                 return;
             }
 
-            urls[id] = {
-                id,
-                url,
-            };
-
+            urls[url] = { url };
             unique_urls_count++;
         });
 
@@ -108,9 +99,9 @@ module.exports = async function scanner(
 
 const freshPagesList = urls =>
     Object.keys(urls)
-        .filter(id => urls[id].visited != true)
-        .filter(id => urls[id].error == undefined)
-        .map(id => urls[id]);
+        .filter(url => urls[url].visited != true)
+        .filter(url => urls[url].error == undefined)
+        .map(url => ({ url, id: nanoid() }));
 
 const trycatch = func => (...args) => {
     try {

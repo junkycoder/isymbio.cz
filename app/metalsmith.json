@@ -3,6 +3,9 @@
     "destination": "../web",
     "plugins": {
         "metalsmith-markdown": true,
+        "metalsmith-permalinks": {
+            "pattern": ":type/:name"
+        },
         "metalsmith-layouts": {
             "default": "article.hbs",
             "engine": "handlebars"

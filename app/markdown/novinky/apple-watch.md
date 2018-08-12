@@ -1,9 +1,9 @@
 ---
 title: Apple Watch
 ---
-## [Novinky](index.php)
+# Novinky
 
-### Apple Watch
+## Apple Watch
 
 Pro spuštění ani fungování Apple Watch není potřeba SIM karta. Hodinky fungují jako prodloužená ruka především pro iPhone, ale své uplatnění si najde i  
 mezi ostatními Apple zařízeními jako je MacBook.  
@@ -38,8 +38,3 @@ zvolit jeden z přednastavených ciferníků. Pokud chceme tento ciferník zvoli
 ale chceme změnit některou komplikaci na daném ciferníku, provedeme švih nahoru nebo dolů jedním prstem a najdeme možnost upravit. Tu následně potvrdíme  
 dvojitým poklepáním. Šviháním vpravo se přesouváme po jednotlivých komplikacích a švihem nahoru nebo dolů měníme aplikace, které je možné pro komplikaci  
 nastavit.
-
-  
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=0&id=64)

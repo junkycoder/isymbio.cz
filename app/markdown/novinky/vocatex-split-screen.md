@@ -1,9 +1,9 @@
 ---
 title: VOCATEX Split Screen
 ---
-## [Novinky](index.php)
+# Novinky
 
-### VOCATEX Split Screen
+## VOCATEX Split Screen
 
 Split Screen vám umožní rozdělení obrazu na monitoru kamerové zvětšovací lupy Vocatex Plus nebo na vašem počítači nebo notebooku.  
   
@@ -20,8 +20,3 @@ SYMBIO, o. p. s.
 Telefon: +420 739 094 745  
 E-mail: [info@symbio-ops.cz](mailform.php?mail=info@symbio-ops.cz)  
 www.symbio-ops.cz
-
-  
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=0&id=53)

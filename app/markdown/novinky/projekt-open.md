@@ -1,9 +1,9 @@
 ---
 title: Projekt OPEN
 ---
-## [Novinky](index.php)
+# Novinky
 
-### Projekt OPEN
+## Projekt OPEN
 
 Vážení nadšenci, příznivci, pozorovatelé...  
 ráda Vám, nejen textem, přiblížím naši činnost: Jezdectví lidí se zrakovým, nebo jiným handicapem.  
@@ -32,8 +32,3 @@ Větší skupiny dle struktury a požadavků cena dohodou.
 S sebou doporučuji převlečení i přezutí do prostředí větrnějšího a špinavějšího.  
 Domluvit se na podrobnostech se mnou můžete na tel: 605 253 254.  
 Na shledání se těší Ester Balcarová
-
-  
-  
-
-Komentáře: [1 komentářů](komentare.php?typ2=0&id=25)

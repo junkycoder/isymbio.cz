@@ -25,10 +25,6 @@ function collector() {
     return {
         title: document.title,
         link: location.href,
-        navigation: [...document.querySelectorAll('#sidebar li a')].map(
-            link => ({ url: link.href, text: link.innerText }),
-        ),
         content: document.querySelector('#content').innerHTML,
-        links: [...document.querySelectorAll('a[href]')].map(link => link.href),
     };
 }

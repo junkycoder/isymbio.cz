@@ -1,6 +1,6 @@
 ---
 title: Chyba
 ---
-## [Chyba](clanky.php?id=)
+# Chyba
 
 Požadovaný článek nebyl nalezen. Možná byl smazán.

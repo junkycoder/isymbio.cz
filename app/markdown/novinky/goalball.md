@@ -1,9 +1,9 @@
 ---
 title: GOALBALL
 ---
-## [Novinky](index.php)
+# Novinky
 
-### GOALBALL
+## GOALBALL
 
 18\. 4 až 20. 4. se koná po velmi dlouhé době v Praze mezinárodní goalballový turnaj s názvem  
 Prague Goalball Champions Cup 2014  
@@ -75,8 +75,3 @@ semifinal
 28 16:00 P25 P26  
 final  
 29 17:00 V25 V26
-
-  
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=0&id=42)

@@ -1,9 +1,9 @@
 ---
 title: Transformace ze SYMbiO, o. s. na SYMBIO, o. p. s.
 ---
-## [Novinky](index.php)
+# Novinky
 
-### Transformace ze SYMbiO, o. s. na SYMBIO, o. p. s.
+## Transformace ze SYMbiO, o. s. na SYMBIO, o. p. s.
 
 Občanské sdružení SYMBIO s platností od 8. 1. 2014 se transformovalo na obecně prospěšnou společnost s názvem  
 SYMBIO, o. p. s.  
@@ -49,8 +49,3 @@ a kontaktní mail
 [info@symbio-ops.cz](mailform.php?mail=info@symbio-ops.cz)  
 Berte prosím tuto změnu na vědomí a už teď prosíme využívejte novou adresu pro návštěvu našich stránek a nový kontaktní mail.  
 Vaše SYMBIO, o. p. s.
-
-  
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=0&id=43)

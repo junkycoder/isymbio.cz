@@ -1,9 +1,9 @@
 ---
 title: KNFB Reader Enterprise
 ---
-## [Novinky](index.php)
+# Novinky
 
-### KNFB Reader Enterprise
+## KNFB Reader Enterprise
 
 Aplikace KNFB Reader Enterprise  
 OCR čtečka dokumentů ve vašem chytrém telefonu.  
@@ -46,8 +46,3 @@ Díky všem výše popsaným funkcím může KNFB Reader sloužit jako skvělí 
 \* UPOZORNĚNÍ*  
 V App Store a Google Play naleznete i samostatnou verzi KNFB Reader (bez označení Enterprise) za stejnou cenu. Jedná se o stejný program od stejného výrobce, ale bez možnosti mít KNFB Reader na dvou zařízeních.  
 Pro další informace a případné objednávky nás neváhejte kontaktovat.
-
-  
-  
-
-Komentáře: [0 komentářů](komentare.php?typ2=0&id=67)
