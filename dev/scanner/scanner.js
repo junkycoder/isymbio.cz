@@ -1,31 +1,27 @@
 const debug = require('debug')('isymbio:dev:scanner');
 const puppeteer = require('puppeteer');
-const { hashURLAsID } = require('../lib/crypto');
+const { hashURLAsID } = require('../../lib/crypto');
 const nanoid = require('nanoid');
 const normalizeUrl = require('normalize-url');
-const save = require('../lib/save');
+const save = require('../../lib/save');
 
 module.exports = async function scanner(
     entry_url,
-    output_file,
+    initialState,
     { shouldFollow },
+    callback,
 ) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     // Kdyz udelam vobjekt, nebudu muset resit unikatni zaznamy
-    let urls = {};
-
-    try {
-        urls = require(output_file);
-    } catch (error) {
-        debug(error);
-        urls = {
-            [normalizeUrl(entry_url)]: {
-                id: nanoid(),
-            },
-        };
-    }
+    let urls = initialState
+        ? initialState
+        : {
+              [normalizeUrl(entry_url)]: {
+                  id: nanoid(),
+              },
+          };
 
     debug('Initial urls object initialized\n', urls);
     let url_list_queue = freshPagesList(urls);
@@ -43,7 +39,7 @@ module.exports = async function scanner(
             page_to_visit.visited = true;
         } catch (error) {
             // Mark as errored
-            page_to_visit.error = error;
+            page_to_visit.error = error.message;
         }
 
         // Update url record
@@ -86,15 +82,13 @@ module.exports = async function scanner(
         url_list_queue = freshPagesList(urls);
 
         debug(`... thereof ${unique_urls_count} unique.`);
-
-        await save(output_file, urls);
     }
 
     debug(
-        `Scan for ${entry_url} complete. Collected ${
-            Object.keys(urls).length
-        } page URLs -- ${output_file}`,
+        `Scan for ${entry_url} complete. Collected ${Object.keys(urls).length}`,
     );
+
+    callback(urls);
 };
 
 const freshPagesList = urls =>
