@@ -1,7 +1,6 @@
 const debug = require('debug')('isymbio:dev:generator');
 const save = require('../lib/save');
 const glob = require('glob');
-const cheerio = require('cheerio');
 
 module.exports = async function(source_dir, handler) {
     const service = new (require('turndown'))({

@@ -62,7 +62,7 @@ const save = require('../lib/save');
 })();
 
 (async () => {
-    // return;
+    return;
     const pages = require('../tmp/isymbio-clean-pages-list.json').sort(
         (a, b) => a.score < b.score,
     );
@@ -77,10 +77,27 @@ const save = require('../lib/save');
     } catch (error) {
         debug('Error:\n', error);
     }
+})();
+
+(async () => {
+    const pages = require('../tmp/isymbio-clean-pages-list.json');
+
+    try {
+        await require('./permalinker')(
+            pages,
+            __dirname + '/../tmp/app',
+            data => {
+                console.log(data.content);
+            },
+        );
+    } catch (error) {
+        debug('Error:\n', error);
+    }
+
     // })();
 
     // (async () => {
-    //     return;
+    return;
     try {
         await require('./generator')(
             __dirname + '/../tmp/app',

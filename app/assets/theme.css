@@ -87,15 +87,6 @@
         margin-bottom: 0px
     }
 
-    ol li:before {
-        content: counter(ol) ".";
-        counter-increment: ol;
-        text-align: right;
-        display: inline-block;
-        min-width: 1em;
-        margin-right: 0.5em
-    }
-
     b,
     strong {
         font-family: "AvenirNext-Bold"
@@ -127,12 +118,6 @@
 
     ul li {
         text-indent: -0.35em
-    }
-
-    ul li:before {
-        content: "•";
-        display: inline-block;
-        margin-right: 0.3em
     }
 
     ul ul {

@@ -1,7 +1,6 @@
 const debug = require('debug')('isymbio:dev:transformator');
 const save = require('../lib/save');
 const fs = require('fs-extra');
-
 const cheerio = require('cheerio');
 
 module.exports = async function(pages, handler) {
@@ -84,8 +83,6 @@ transform._type = data => {
         type,
     };
 };
-
-const yes = true;
 
 transform.content = data => {
     const $ = cheerio.load(data.content);
