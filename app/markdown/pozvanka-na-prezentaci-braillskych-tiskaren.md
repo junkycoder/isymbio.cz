@@ -8,14 +8,14 @@ title: Pozvánka na prezentaci Braillských tiskáren
 Vážení přátelé, příznivci a uživatelé Braillského písma.  
 Ať aktivní uživatelé, příležitostní čtenáři nebo připravující tolik potřebné materiály pro zrakově postižené.  
 Tímto Vás zveme na odpoledne, kde budou představeny nové produkty Americké společnosti ViewPlus v oblasti Braillského a reliéfního tisku s možnostmi grafických  
-úprav, návrhů, vlastních předloh a kombinace Braillského písma a černotisku. | [více zde ...](news.php?id=70)
+úprav, návrhů, vlastních předloh a kombinace Braillského písma a černotisku. | [více zde ...](/novinky/pozvanka-na-prezentaci-braillskych-tiskaren/)
 
 * * *
 
 ## Novela 329/2011 Sb. O dávkách OZP
 
 Novelizovaný zákon 329/2011 Sb. o dávkách pro osoby se zdravotním postižením platný od  
-1\. 1. 2018, který se týká příspěvku na zvláštní pomůcku. | [více zde ...](news.php?id=69)
+1\. 1. 2018, který se týká příspěvku na zvláštní pomůcku. | [více zde ...](/novinky/novela-3292011-sb-o-davkach-ozp/)
 
 * * *
 

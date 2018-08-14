@@ -24,7 +24,7 @@ Vstupy a výstupy:
 \- Klávesnice a myš Conect IT nebo Logitech  
 \- Reprobedny Logitech 2.0  
 Monitor vybíráme vždy individuálně ke zrakovým potřebám klienta.  
-Digitální čtecí zařízení lze doplnit i o [Braillské řádky Esys](clanky.php?id=30)    
+Digitální čtecí zařízení lze doplnit i o [Braillské řádky Esys](/clanky/braillske-radky-esys/)    
   
 Speciální programové vybavení digitálních čtecích zařízení:  
 [Odečítací program JAWS](clanky.php?id=25)  

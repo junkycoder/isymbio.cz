@@ -33,6 +33,6 @@ V tomto výčtu bychom mohli dále pokračovat, podobných aplikací je v obchod
 Samozřejmě vám poradíme, doporučíme a i na přání vyzkoušíme přístupnost aplikace.  
 iPhone se řadí na přední příčky nejprodávanějších chytrých telefonů na celém světě a jedná se o špičkové zařízení díky svému hardwarovému vybavení a využití kdekoliv a kdykoliv.  
 V případě jakýchkoliv otázek či zájmu o ukázku nás kontaktujte viz:  
-[Kontakty](clanky.php?id=1)  
+[Kontakty](/clanky/kontakty/)  
 O iPhone se toho dá říct mnohem více a praktická ukázka vám do vašich představ vnese reálný pohled.  
 Na tuto pomůcku lze žádat zvláštní příspěvek u příslušného Úřadu práce.

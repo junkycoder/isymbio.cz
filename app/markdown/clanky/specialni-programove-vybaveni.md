@@ -7,14 +7,14 @@ Digitální zápisníky, digitální čtecí zařízení,digitální kamerové l
 Díky speciálním programům může uživatel efektivně pracovat s kancelářským balíkem Microsoft Office, s OCR programy, zejména s oblíbeným ABBYY Fine readerem a i práce na internetu je velmi dobře zpřístupněná.  
   
 Pro konkrétní informace včetně ceníku speciálních programů si vyberte s následujících možností.  
-[Odečítací program JAWS](clanky.php?id=52)    
-[Zvětšovací program Magic](clanky.php?id=34)    
-[Zvětšovací a odečítací program SuperNova](clanky.php?id=39)  
-[Hlasové syntézy](clanky.php?id=40)  
-[Hlasová syntéza Eliška](clanky.php?id=53)    
+[Odečítací program JAWS](/clanky/odecitaci-program-jaws/)    
+[Zvětšovací program Magic](/clanky/zvetsovaci-program-magic/)    
+[Zvětšovací a odečítací program SuperNova](/clanky/zvetsovaci-a-odecitaci-program-supernova/)  
+[Hlasové syntézy](/clanky/hlasove-syntezy/)  
+[Hlasová syntéza Eliška](/clanky/hlasova-synteza-eliska/)    
   
 
 ## Speciální aplikace pro chytré telefony
 
   
-[KNFB Reader Enterprise](clanky.php?id=50)
+[KNFB Reader Enterprise](/clanky/knfb-reader-enterprise/)

@@ -1,19 +1,18 @@
 const debug = require('debug')('isymbio:dev:transformator');
-const save = require('../lib/save');
 const fs = require('fs-extra');
 const cheerio = require('cheerio');
 
-module.exports = async function(pages, handler) {
+module.exports = async function({ pages, links }, getPageData, handler) {
     for (let index = 0; index < pages.length; index++) {
         const { id, url } = pages[index];
-        const data = require(`../tmp/${id}.json`);
+        const data = getPageData(id);
 
         handler(
             {
                 id,
                 url,
             },
-            transform(data)(
+            transform(data, links)(
                 transform.title,
                 transform._name,
                 transform._type,
@@ -25,9 +24,9 @@ module.exports = async function(pages, handler) {
     debug(`All pages transformed and updated.`);
 };
 
-function transform({ title, link, content }) {
+function transform({ title, link, content }, links) {
     return (...transformers) =>
-        transformers.reduce((data, transformer) => transformer(data), {
+        transformers.reduce((data, transformer) => transformer(data, links), {
             title,
             link,
             content,
@@ -84,9 +83,10 @@ transform._type = data => {
     };
 };
 
-transform.content = data => {
+transform.content = (data, links) => {
     const $ = cheerio.load(data.content);
 
+    // Shift headline levels -1
     $('h1, h2, h3, h4, h5').each((index, element) => {
         const level = element.tagName.substr(1);
         const title = $(element).text();
@@ -94,9 +94,36 @@ transform.content = data => {
         $(element).replaceWith(`<h${level - 1}>${title}</h${level - 1}>`);
     });
 
+    // Replace links
+    $('a[href]').each((index, element) => {
+        let href = $(element)
+            .attr('href')
+            .replace(' ', '');
+
+        href = href
+            .replace(/^http:\/\/isymbio.cz/gi, '')
+            .replace(/^http:\/\/symbio-ops.cz/gi, '');
+
+        if (
+            href.startsWith('http') === false &&
+            href.startsWith('/') === false
+        ) {
+            href = '/' + href;
+        }
+
+        if (href.startsWith('/mailform.php')) {
+            href = href.replace('/mailform.php?mail=', 'mailto:');
+        }
+
+        if (links.hasOwnProperty(href)) {
+            element.attribs.href = links[href];
+        }
+    });
+
     // komentare - trash to remove
     $('.postmeta').remove();
 
+    // Get clean HTML
     let content = $('.post')
         .html()
         .trim();

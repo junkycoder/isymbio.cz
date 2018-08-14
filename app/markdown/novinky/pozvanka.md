@@ -13,15 +13,15 @@ Na českém trhu s kompenzačními pomůckami jsme od roku 2011.
 Zaměřujeme se na nové speciální kompenzační pomůcky pro zrakově postižené s kombinacemi zvětšovacího a hlasového výstupu.  
 Co nabízíme?  
 \- Digitální kamerové lupy s hlasovým výstupem  
-[http://symbio-ops.cz/clanky.php?id=22]( http://symbio-ops.cz/clanky.php?id=22)  
+[http://symbio-ops.cz/clanky.php?id=22](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
 \- Speciální čtecí zařízení s hlasovým výstupem (čtecí přístroj pro dokumenty Easy Reader)  
-[http://symbio-ops.cz/clanky.php?id=29]( http://symbio-ops.cz/clanky.php?id=29)  
+[http://symbio-ops.cz/clanky.php?id=29](/clanky/cteci-zarizeni-easyreader/)  
 a další:  
 \- Kamerové kapesní lupy Optelec, Ecare,  
 \- Počítače a notebooky se zvětšovacími a hlasovými výstupy (Super Nova, JAWS, Magic, Zoom-Tex) včetně jejich příslušenství jako jsou scanery, multifunkční zařízení atd.  
 \- Produkty APPLE, které upravujeme a nastavujeme pro nevidomé nebo těžce zrakově postižené (iPhone, iPad, Mac book, iMac, Mac Pro)  
 a dále Braillské řádky, které nejsou zcela závislí na počítačích či noteboocích.  
-[http://symbio-ops.cz/clanky.php?id=30]( http://symbio-ops.cz/clanky.php?id=30)  
+[http://symbio-ops.cz/clanky.php?id=30](/clanky/braillske-radky-esys/)  
 Tyto řádky můžou také sloužit jako zápisníky, organizér a podobně.  
   
 Máme zkušenosti při vyřizování příspěvku na zvláštní pomůcky u příslušných Úřadů práce a aktivně jsme schopni pomoci klientům při vyřizování žádosti.  

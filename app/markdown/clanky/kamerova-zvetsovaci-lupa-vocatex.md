@@ -54,7 +54,7 @@ Ve verzi Standard je zahrnuto 16 barevných kombinací ve verzi Plus je zahrnuto
 Verze Standard nabízí z funkcí pro čtení režimy fotorežim / pozitiv / negativ,  
 barevné kombinace a funkce pro režim sloupce.  
 Ve verzi Vocatex Plus je od roku 2015 zahrnuta i možnost rozdělení obrazovky pomocí funkce  
-[Vocatex Split Screen](clanky.php?id=38)  
+[Vocatex Split Screen](/clanky/vocatex-split-screen/)  
 
 ### Uživatelské příručky ke stažení:
 

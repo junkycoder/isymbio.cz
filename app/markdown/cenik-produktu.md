@@ -14,7 +14,7 @@ Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme ve
 ## Kamerové zvětšovací lupy Vocatex s hlasovým výstupem
 
   
-[Kamerová zvětšovací lupa VOCATEX](clanky.php?id=22)  
+[Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
 Vocatex Standard 22" - 105 900 Kč  
 Vocatex Standard 28" - 110 900 Kč  
 Vocatex Standard 32" - 114 900 Kč  
@@ -28,7 +28,7 @@ Vocatex Plus 40" - 132 900 Kč
 ## Kapesní kamerové lupy Zoomax
 
   
-[Kapesní lupy Zoomax](clanky.php?id=44)  
+[Kapesní lupy Zoomax](/clanky/kapesni-lupy-zoomax/)  
 Zoomax M5" - 21 000 Kč  
 Zoomax M5" L - 23 000 Kč  
 Zoomax M5" XL - 25 000 Kč  
@@ -46,7 +46,7 @@ Zoomax M5" Plus XXL - 26 000 Kč
 ## Kapesní kamerové lupy Compact
 
   
-[Kapesní lupy Compact](clanky.php?id=43)  
+[Kapesní lupy Compact](/clanky/kapesni-lupy-compact/)  
 Compact 4" HD - 25 000 Kč  
 Compact 5" HD - 30 000 Kč  
   
@@ -54,7 +54,7 @@ Compact 5" HD - 30 000 Kč
 ## Braillské řádky / displeje / zápisníky
 
   
-[Braillské řádky Esys](clanky.php?id=30)  
+[Braillské řádky Esys](/clanky/braillske-radky-esys/)  
 Esys 12 - 35 000 Kč  
 Esys 24 - 68 000 Kč  
 Esys Light - 82 000 Kč  
@@ -68,7 +68,7 @@ Esys 80 Plus - 194 000 Kč
 ## Čtecí zařízení EasyReader
 
   
-[Čtecí zařízení EasyReader](clanky.php?id=29)  
+[Čtecí zařízení EasyReader](/clanky/cteci-zarizeni-easyreader/)  
 EasyReader - 69 000 Kč  
 Nožní pedál - 2 500 Kč  
   
@@ -76,7 +76,7 @@ Nožní pedál - 2 500 Kč
 ## Braillské tiskárny ViewPlus
 
   
-[Braillské tiskárny ViewPlus](clanky.php?id=57)  
+[Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
 EmBraille, kompaktní tiskárna s možností tisku na normální papír nebo traktorový podavač - 39 000 Kč  
 Columbia, traktorový tisk - 89 000 Kč  
 Delta, tisk na normální papír - 99 000 Kč  
@@ -100,7 +100,7 @@ SMA Upgrade o dvě verze - 12 000 Kč
 ## SuperNova
 
   
-[Zvětšovací a odečítací program SuperNova](clanky.php?id=39)  
+[Zvětšovací a odečítací program SuperNova](/clanky/zvetsovaci-a-odecitaci-program-supernova/)  
 SuperNova zvětšovač SMA 2 UPG - 25 300 Kč  
 SuperNova Zvětšovač s hlasovou podporou SMA 2 UPG - 33 900 Kč  
 SuperNova Zvětšovač a odečítač SMA 2 UPG - 56 000 Kč  
@@ -123,7 +123,7 @@ ZoomText Zvětšovač s hlasovou podporou odečítače SMA UPG USB - 50 000 Kč
 ## Hlasové syntézy
 
   
-[Hlasové syntézy](clanky.php?id=40)  
+[Hlasové syntézy](/clanky/hlasove-syntezy/)  
 1 hlas Kobaspeech 3 - 2 500 Kč  
 2 hlasy Kobaspeech 3 - 4 200 Kč  
 Každý další hlas Kobaspeech 3 - 1 300 Kč  
@@ -134,7 +134,7 @@ Eliška InfoVox - 12 000 Kč
 ## Speciální aplikace pro iOS
 
   
-[KNFB Reader Enterprise](clanky.php?id=50)  
+[KNFB Reader Enterprise](/clanky/knfb-reader-enterprise/)  
 KNFB Reader Enterprise - 2 990 Kč  
 Blind Square včetně instalace a zaškolení - 1 500 Kč  
 Voice Dream reader, iDos, Text Grabber, MBraille – na vyžádání

@@ -1,5 +1,4 @@
 const debug = require('debug')('isymbio:dev:generator');
-const save = require('../lib/save');
 const glob = require('glob');
 
 module.exports = async function(source_dir, handler) {

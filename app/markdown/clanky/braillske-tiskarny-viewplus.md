@@ -19,7 +19,7 @@ V současné době pro náročnější texty v braillském písmu je zapotřebí
 ## Typy braillských tiskáren
 
   
-[EmBraille - kompaktní tiskárna](clanky.php?id=56)  
-[Delta - běžný tisk](clanky.php?id=59)  
-[Columbia - traktorový tisk](clanky.php?id=58)  
-[SpotDot - tiskárna se soutiskem](clanky.php?id=54)
+[EmBraille - kompaktní tiskárna](/clanky/embraille-kompaktni-tiskarna/)  
+[Delta - běžný tisk](/clanky/delta-bezny-tisk/)  
+[Columbia - traktorový tisk](/clanky/columbia-traktorovy-tisk/)  
+[SpotDot - tiskárna se soutiskem](/clanky/spotdot-tiskarna-se-soutiskem/)

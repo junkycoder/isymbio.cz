@@ -3,5 +3,5 @@ title: Kapesní kamerové lupy
 ---
 # Kapesní kamerové lupy
 
-[Kapesní lupy Zoomax](clanky.php?id=44)  
-[Kapesní lupy Compact](clanky.php?id=43)
+[Kapesní lupy Zoomax](/clanky/kapesni-lupy-zoomax/)  
+[Kapesní lupy Compact](/clanky/kapesni-lupy-compact/)

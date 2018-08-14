@@ -13,7 +13,7 @@ a využívat všechny funkce Vocatex Plus a zároveň pracovat v prostředí Win
 Využití programu Split Screen je podmíněno vybavením počítače speciálním programem ZoomText 10 a vyšší, Gigabitovou síťovou kartou, nebo redukcí USB 3  
 to Ethernet, operační systém Windows Wista, 7, 8, 8.1 a vyšší 32/64 bit.  
 Další informace včetně návodu a instalačních souborů naleznete na odkazu:  
-[http://symbio-ops.cz/clanky.php?id=38]( http://symbio-ops.cz/clanky.php?id=38)  
+[http://symbio-ops.cz/clanky.php?id=38](/clanky/vocatex-split-screen/)  
 V případě prezentace či dalších informací nás neváhejte kontaktovat.  
 Tomáš Franěk  
 SYMBIO, o. p. s.  

@@ -28,6 +28,6 @@ Umíme zajistit kompletní podporu, spolupracujeme s českými a zahraničními 
 ## Kategorie produktů
 
   
-[Multifunkční elektronická komunikační pomůcka](clanky.php?id=41)    
-[Apple počítače](clanky.php?id=49)  
-[Apple Watch](clanky.php?id=48)
+[Multifunkční elektronická komunikační pomůcka](/clanky/multifunkcni-elektronicka-komunikacni-pomucka/)    
+[Apple počítače](/clanky/apple-pocitace/)  
+[Apple Watch](/clanky/apple-watch/)

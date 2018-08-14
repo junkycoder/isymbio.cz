@@ -41,4 +41,4 @@ Vlastnosti Access Suite
 SuperNova je kompatibilní s operačním systémem Windows 7, 8, 8.1 Pro i nově s nejnovější verzí Windows 10.  
 Podpora rozhraní SAPI 4 a 5.  
 SuperNova je plně kompatibilní s Braillskými řádky Esys od společnosti Eurobraille.  
-[Braillské řádky Esys](clanky.php?id=30)
+[Braillské řádky Esys](/clanky/braillske-radky-esys/)

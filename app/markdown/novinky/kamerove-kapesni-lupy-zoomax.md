@@ -53,10 +53,10 @@ Parametry Zoomax Snow 7" HD
 \- Rozměry: šířka 195 mm, výška 139 mm, hloubka 25 mm  
   
 Další informace včetně Foto a ceníku naleznete:  
-[http://isymbio.cz/clanky.php?id=44]( http://isymbio.cz/clanky.php?id=44)  
+[http://isymbio.cz/clanky.php?id=44](/clanky/kapesni-lupy-zoomax/)  
 Tyto lupy budou samozřejmě jako novinka představeny na naší prezentaci, která se koná příští týden...  
 Více o připravované prezentaci zde  
-[http://isymbio.cz/clanky.php?id=44]( http://isymbio.cz/clanky.php?id=44)  
+[http://isymbio.cz/clanky.php?id=44](/clanky/kapesni-lupy-zoomax/)  
 a na Facebooku:  
 https://www.facebook.com/symbioos/  
 Tomáš Franěk  

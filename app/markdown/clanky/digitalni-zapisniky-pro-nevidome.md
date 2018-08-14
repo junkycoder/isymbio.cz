@@ -6,7 +6,7 @@ title: Digitální zápisníky pro nevidomé
 Digitální zápisník je sestava, která se skládá z Notebooku, Ultrabooku či Netbooku.  
 Digitální zápisník je vybaven speciálními programy pro nevidomé nebo těžce zrakově postižené, které umožní práci ve Windows a dalšími běžnými programy a aplikacemi, které jsou upraveny a nastaveny pro komfortní práci nevidomého uživatele.  
 Notebooky vybíráme vždy dle potřeb klienta (velikost displeje, váha, bez či s numerickým blokem) a poté navrhneme vhodnou hardwarovou konfiguraci. Snažíme se co nejvíce přiblížit potřebám klienta a jeho zrakovému postižení.  
-Digitální zápisník je možné doplnit o [Braillské řádky Esys](clanky.php?id=30) , které převádějí elektronický text z obrazovky do bodového písma pro nevidomé.  
+Digitální zápisník je možné doplnit o [Braillské řádky Esys](/clanky/braillske-radky-esys/) , které převádějí elektronický text z obrazovky do bodového písma pro nevidomé.  
   
 Speciální programové vybavení digitálních zápisníků:  
 [Odečítací program JAWS](clanky.php?id=25)    
