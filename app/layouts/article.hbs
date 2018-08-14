@@ -63,13 +63,13 @@
                 </svg>
             </a>
             <script>
-                const invertButton = document.querySelector('#toggle-invert-colors')
+                var invertButton = document.querySelector('#toggle-invert-colors')
                 invertButton.addEventListener('click', (e) => {
                     e.preventDefault();
                     document.body.classList.toggle('invert-colors');
                     invertButton.classList.toggle('invert');
                 })
-                const zoomButton = document.querySelector('#toggle-zoom-font');
+                var zoomButton = document.querySelector('#toggle-zoom-font');
                 zoomButton.addEventListener('click', (e) => {
                     e.preventDefault();
                     document.documentElement.classList.toggle('zoom-font-size');
@@ -79,6 +79,20 @@
         </aside>
         <article>
             {{{ contents }}}
+            <script>
+                document.querySelectorAll('a[href]').forEach((link) => {
+                    let href = link.href.replace(location.origin, '').replace('#', '');
+
+                    if (href != '/' && href[href.length] != '/') {
+                        href += '/';
+                    }
+
+                    if (href == location.pathname) {
+                        link.classList.add('active');
+                    }
+
+                })
+            </script>
         </article>
     </main>
 </body>
