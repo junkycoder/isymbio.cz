@@ -3,7 +3,7 @@ title: Columbia - traktorový tisk
 ---
 # Columbia - traktorový tisk
 
-[![](admin/upload/Columbia.jpg)](admin/upload/Columbia.jpg)    
+[![](admin/upload/Columbia.jpg)](/soubory/Columbia.jpg)    
 VP Columbia je braillská tiskárna nejen Braillova písma, ale i velmi kvalitní tiskárna reliéfní grafiky.  
 Díky možnosti rozlišení 100 DPI a 7 úrovní výšky grafiky lze vytisknout vámi vytvořený obrázek, který si i po delší době zachovává velmi dobrou kvalitu braillských bodů díky technologii VP Tiger.  
 VP Columbia je vhodná pro domácí využití, do škol, institucí a tam kde je potřeba tisk velkoobjemových braillských dokumentů.  

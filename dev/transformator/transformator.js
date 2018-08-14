@@ -98,7 +98,8 @@ transform.content = (data, links) => {
     $('a[href]').each((index, element) => {
         let href = $(element)
             .attr('href')
-            .replace(' ', '');
+            .replace(/^ /, '');
+        // .replace(' ', ''); // Causes bug on downloader cuz some files hase spaces in its names
 
         href = href
             .replace(/^http:\/\/isymbio.cz/gi, '')
@@ -109,6 +110,13 @@ transform.content = (data, links) => {
             href.startsWith('/') === false
         ) {
             href = '/' + href;
+        }
+
+        // Replace upload links
+
+        if (href.startsWith('/admin/upload/')) {
+            let new_href = href.replace('/admin/upload/', '/soubory/');
+            element.attribs.href = new_href;
         }
 
         if (href.startsWith('/mailform.php')) {

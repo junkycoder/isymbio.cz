@@ -3,7 +3,7 @@ title: EmBraille - kompaktní tiskárna
 ---
 # EmBraille - kompaktní tiskárna
 
-[![](admin/upload/EmBraille.jpg)](admin/upload/EmBraille.jpg)    
+[![](admin/upload/EmBraille.jpg)](/soubory/EmBraille.jpg)    
 VP EmBraille je malá a kompaktní tiskárna s možností braillského a reliéfního tisku, která se hodí jakémukoli uživateli braillského písma do domácnosti nebo kanceláře.  
 Její přednosti jsou možnosti tisku jak na běžný papír o maximální velikosti A4, tak i na traktorový papír, díky dalšímu vestavěnému podavači.  
 Je to nejlevnější a nejmenší alternativa braillských tiskáren společnosti ViewPlus, která uspokojí všechny nenáročné uživatele.  

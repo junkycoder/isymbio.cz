@@ -3,7 +3,7 @@ title: SpotDot - tiskárna se soutiskem
 ---
 # SpotDot - tiskárna se soutiskem
 
-[![](admin/upload/SpotDot.jpg)](admin/upload/SpotDot.jpg)    
+[![](admin/upload/SpotDot.jpg)](/soubory/SpotDot.jpg)    
 VP Spot Dot je braillská a reliéfní tiskárna s možností barevného tisku, kterou využijete nejen k výtiskům braillských dokumentů, ale i při nutnosti barevného tisku pro uživatelé, kteří ještě využívají svůj zrak. VP SpotDot je vhodný pro školy nebo instituce a pro uživatele, kteří se teprve učí číst a pracovat s braillským textem či reliéfní grafikou.  
 Dokument s braillským textem, grafikou a barevným tiskem vytvoříte v programu "TSS" a v doplňku Tiger designer.  
 VP SpotDot Díky svému integrovanému modulu HP a kvalitními tiskovými hlavami se o vše postará sám.  

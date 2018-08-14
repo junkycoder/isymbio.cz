@@ -1,6 +1,7 @@
 {
     "source": "./markdown",
     "destination": "../web",
+    "clean": false,
     "plugins": {
         "metalsmith-markdown": true,
         "metalsmith-permalinks": {

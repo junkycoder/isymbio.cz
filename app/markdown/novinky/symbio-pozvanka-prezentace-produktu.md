@@ -27,7 +27,7 @@ https://www.facebook.com/symbioos/
 nebo na webových stránkách:  
 www.isymbio.cz  
 a pozvánka ve formátu *pdf je zde:  
-[http://isymbio.cz/admin/upload/SYMBIO_Pozvanka.pdf]( http://isymbio.cz/admin/upload/SYMBIO_Pozvanka.pdf)  
+[http://isymbio.cz/admin/upload/SYMBIO_Pozvanka.pdf](/soubory/SYMBIO_Pozvanka.pdf)  
   
 Na setkání se těší Tomáš Franěk a kolektiv SYMBIO Access devices  
 Telefon: 739 094 745  

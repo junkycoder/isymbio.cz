@@ -3,7 +3,7 @@ title: Braillské tiskárny ViewPlus
 ---
 # Braillské tiskárny ViewPlus
 
-[![](admin/upload/logo_viewplus.jpg)](admin/upload/logo_viewplus.jpg)    
+[![](admin/upload/logo_viewplus.jpg)](/soubory/logo_viewplus.jpg)    
 Braillské tiskárny od americké společnosti ViewPlus jsou skvělé řešení pro všechny uživatelé potřebující nejen tisk braillského písma, ale i reliéfní grafiky.  
 V nabídce jsou tiskárny pro domácí použití pro nenáročné uživatelé, ale i tiskárny pro instituce, školská zařízení a tam kde je potřeba tisk velkoobjemových výtisků v Braillově písmu.  
 Tiskárny ViewPlus umožnují tisk na běžné formáty papírů A4 nebo tzv. traktorový papír v nejrůznějších šířkách.  

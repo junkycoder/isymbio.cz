@@ -3,7 +3,7 @@ title: Čtecí zařízení EasyReader
 ---
 # Čtecí zařízení EasyReader
 
-[![](admin/upload/ER2012_1.jpg)](admin/upload/ER2012_1.jpg) [![](admin/upload/ER2012_2.jpg)](admin/upload/ER2012_2.jpg) Čtecí přístroj EasyReader od belgické firmy [Koba Vision](http://www.kobavision.be/en) [![](admin/upload/koba v3.png)](admin/upload/koba v3.png)  
+[![](admin/upload/ER2012_1.jpg)](/soubory/ER2012_1.jpg) [![](admin/upload/ER2012_2.jpg)](/soubory/ER2012_2.jpg) Čtecí přístroj EasyReader od belgické firmy [Koba Vision](http://www.kobavision.be/en) [![](admin/upload/koba v3.png)](/soubory/koba v3.png)  
 je zařízení, které velmi rychle a přesně naskenuje a přečte texty například knihy, noviny, účty, faktury nebo příbalové letáky k lékům.  
 EasyReader je vybaven českou hlasovou sintézou [Eliška](http://www.symbio-ops.cz/clanky.php?id=26)  
 od společnosti Acapela a českou hlasovou syntézou Zuzana včetně dalších jazyků a syntéz od společnosti Nuance pro čtení dokumentů v cizých jazycích.  
@@ -23,4 +23,4 @@ Napájení ze sítě: 15V DC; 2,00A (MAX); Max. Výkon: 303
 ## Dokumenty ke stažení
 
   
-[Easy Reader Manual](admin/upload/easy_reader_manual.pdf)
+[Easy Reader Manual](/soubory/easy_reader_manual.pdf)

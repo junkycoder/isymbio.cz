@@ -3,7 +3,7 @@ title: Braillské řádky Esys
 ---
 # Braillské řádky Esys
 
-Esys je řada 12 až 80 znakových braillských řádků s funkcemi zápisníku od Francouzské společnosti [EUROBRAILLE](http://www.eurobraille.com) [![](admin/upload/Logo + eurobraille fond blanc.png)](admin/upload/Logo + eurobraille fond blanc.png)  
+Esys je řada 12 až 80 znakových braillských řádků s funkcemi zápisníku od Francouzské společnosti [EUROBRAILLE](http://www.eurobraille.com) [![](admin/upload/Logo + eurobraille fond blanc.png)](/soubory/Logo + eurobraille fond blanc.png)  
 Braillské řádky nabízí moderní design a mnoho oblastí užití.  
 Braillské řádky mohou být používány samostatně, nebo v kombinaci s odečítači pro osobní počítače s Windows a Mac/Apple, ale také s odečítači pro mobilní telefony.  
 Klávesnice s deseti klávesami vám dává možnost používat standardní kombinace kláves a to jak pro psaní, tak pro pohyb v textu v osmi nebo šesti bodovém zápisu.  
@@ -50,7 +50,7 @@ Přizpůsobujte uživatelská nastavení a aktualizujte na nejnovější verzi f
 
 ## Esys 12
 
-[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-12_01.jpg)](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-12_01.jpg)  
+[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-12_01.jpg)](/soubory/--- A4 ---Fond_Blanc_Image_Esys-12_01.jpg)  
 Je nejmenší, nejlehčí a nejkomplexnější braillský displej na trhu.  
 Pohodlně se vejde do vaší kapsy a je tak vhodný pro čtení knih a velkých dokumentů, nebo pro psaní poznámek na cestách.  
 Je ideální pro využití s mobilními telefony, včetně Iphone, iPad, iPod  
@@ -73,7 +73,7 @@ Technické parametry:
 
 ## Esys 24
 
-[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-24_01.jpg)](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-24_01.jpg)  
+[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-24_01.jpg)](/soubory/--- A4 ---Fond_Blanc_Image_Esys-24_01.jpg)  
 Je vynikající zařízení pro použití na cestách, stejně jako u vašeho počítače.  
 Díky malým rozměrům je vhodný pro to abyste jej měli všude s sebou, ale díky tomu že nabízí větší braillský displej najde praktické využití také ve spojení s mobilním telefonem, přenosným počítačem nebo Ipadem.  
 zároveň může sloužit jako ideální příslušenství k vaší profesionální pracovní stanici.  
@@ -96,7 +96,7 @@ Technické parametry:
 
 ## Esys light
 
-[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esyslight_01.jpg)](admin/upload/--- A4 ---Fond_Blanc_Image_Esyslight_01.jpg)  
+[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esyslight_01.jpg)](/soubory/--- A4 ---Fond_Blanc_Image_Esyslight_01.jpg)  
 Moderní braillský řádek který je možné připojit přes USB port nebo bluetooth k vašemu přenosnému nebo stolnímu počítači vybavenému odečítačem obrazovky.  
 Cena 82 000 Kč  
 Technické parametry:  
@@ -114,7 +114,7 @@ Technické parametry:
 
 ## Esys 40
 
-[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-40_01.jpg)](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-40_01.jpg)  
+[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-40_01.jpg)](/soubory/--- A4 ---Fond_Blanc_Image_Esys-40_01.jpg)  
 Lehký a multifunkční, využijete jej jak pro zpracování dat, tak pro psaní poznámek.  
 Díky svému ergonomickému designu je velmi vhodný v kombinaci se stolním i přenosným počítačem, nabízí tedy jak mobilitu tak používání na jednom místě.  
 Cena 99 000 Kč  
@@ -136,7 +136,7 @@ Technické parametry:
 
 ## Esys 64
 
-[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-64_01.jpg)](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-64_01.jpg)  
+[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-64_01.jpg)](/soubory/--- A4 ---Fond_Blanc_Image_Esys-64_01.jpg)  
 Je 64. znakový braillský řádek který můžete pomocí USB nebo BlueTooth připojit k počítači vybavenému odečítačem obrazovky.  
 Informace je možné zadávat jak pomocí vestavěné klávesnice, tak pomocí klávesnice vašeho počítače.  
 Interní funkce poznámkový blok, Agenda, Alarm clock a kalkulačka, které jsou v případě tohoto řádku volitelné umožňují psát poznámky, číst knihy a spravovat vaši agendu na cestách.  
@@ -160,7 +160,7 @@ Technické parametry:
 
 ## Esys 80
 
-[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-80_01.jpg)](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-80_01.jpg)  
+[![](admin/upload/--- A4 ---Fond_Blanc_Image_Esys-80_01.jpg)](/soubory/--- A4 ---Fond_Blanc_Image_Esys-80_01.jpg)  
 Je osmdesáti znakový braillský řádek který je možné připojit přes USB nebo BlueTooth k počítači vybavenému odečítačem obrazovky.  
 Stejně jako u Esys 64 řádku je možné funkcionalitu vylepšit o volitelné interní funkce.  
 Esys 80 je ideálním nástrojem ve spojením s profesionálními pracovními stanicemi nebo telefonními ústřednami.  
@@ -185,4 +185,4 @@ Technické parametry:
 ## Soubory ke stažení
 
   
-[Esys - Uživatelská příručka](admin/upload/Esys_uzivatelska_prirucka.pdf)
+[Esys - Uživatelská příručka](/soubory/Esys_uzivatelska_prirucka.pdf)
