@@ -15,6 +15,9 @@
 
 <body>
     <header>
+        <h1>
+            Symbio Access devices
+        </h1>
         <a class="logo-link" href="/" title="Úvodní stránka SYMBIO Access devices">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 112" version="1.1" width="304px" height="112px">
                 <g transform="matrix(0.03040304034948349, 0, 0, 0.030403314158320427, -15.02403259277344, -14.293267250061035)">
@@ -27,24 +30,32 @@
                 </g>
             </svg>
         </a>
-        <h1>
-            <a href="/" title="Úvodní stránka Symbio Access devices">Symbio Access devices</a>
-        </h1>
         <nav class="desktop-navigation">
             <a href="/">Úvodní stránka</a>
-            <a href="/elektronicke-pomucky-pro-zrakove-postizene">Elektronické pomůcky</a>
-            <a href="/kontakty">Kontakty</a>
-            <a href="/cenik-produktu">Ceník produktů</a>
-            <a href="/manualy-prirucky">Manuály a příručky</a>
+            <a href="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</a>
+            <a href="/kontakty/">Kontakty</a>
+            <a href="/cenik-produktu/">Ceník produktů</a>
+            <a href="/manualy-prirucky/">Manuály a příručky</a>
         </nav>
-        <select class="mobile-navigation">
+        <select class="mobile-navigation" id="navigation">
             <option value="/" disabled selected>Hlavní navigace</option>
             <option value="/">Úvodní stránka</option>
-            <option value="/elektronicke-pomucky-pro-zrakove-postizene">Elektronické pomůcky</option>
-            <option value="/kontakty">Kontakty</option>
-            <option value="/cenik-produktu">Ceník produktů</option>
-            <option value="/manualy-prirucky">Manuály a příručky</option>
+            <option value="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</option>
+            <option value="/kontakty/">Kontakty</option>
+            <option value="/cenik-produktu/">Ceník produktů</option>
+            <option value="/manualy-prirucky/">Manuály a příručky</option>
         </select>
+        <script>
+            (function () {
+                var navigation = document.querySelector('#navigation');
+
+                navigation.addEventListener('change', function (e) {
+                    location.href = e.target.value
+                });
+
+                navigation.value = location.pathname;
+            })()
+        </script>
     </header>
     <main>
         <aside class="toolbox">
@@ -63,35 +74,39 @@
                 </svg>
             </a>
             <script>
-                var invertButton = document.querySelector('#toggle-invert-colors')
-                invertButton.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    document.body.classList.toggle('invert-colors');
-                    invertButton.classList.toggle('invert');
-                })
-                var zoomButton = document.querySelector('#toggle-zoom-font');
-                zoomButton.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    document.documentElement.classList.toggle('zoom-font-size');
-                    zoomButton.classList.toggle('invert');
-                })
+                    (function () {
+                        var invertButton = document.querySelector('#toggle-invert-colors')
+                        invertButton.addEventListener('click', function (e) {
+                            e.preventDefault();
+                            document.body.classList.toggle('invert-colors');
+                            invertButton.classList.toggle('invert');
+                        })
+                        var zoomButton = document.querySelector('#toggle-zoom-font');
+                        zoomButton.addEventListener('click', function (e) {
+                            e.preventDefault();
+                            document.documentElement.classList.toggle('zoom-font-size');
+                            zoomButton.classList.toggle('invert');
+                        })
+                    })();
             </script>
         </aside>
         <article>
             {{{ contents }}}
             <script>
-                document.querySelectorAll('a[href]').forEach((link) => {
-                    let href = link.href.replace(location.origin, '').replace('#', '');
+                (function () {
+                    document.querySelectorAll('a[href]').forEach(function (link) {
+                        var href = link.href.replace(location.origin, '').replace('#', '');
 
-                    if (href != '/' && href[href.length] != '/') {
-                        href += '/';
-                    }
+                        if (href != '/' && href[href.length - 1] != '/') {
+                            href += '/';
+                        }
 
-                    if (href == location.pathname) {
-                        link.classList.add('active');
-                    }
+                        if (href == location.pathname) {
+                            link.classList.add('active');
+                        }
 
-                })
+                    })
+                })()
             </script>
         </article>
     </main>
