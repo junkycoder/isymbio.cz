@@ -11,8 +11,8 @@ APPLE produkty. To vše spřístupněno zrakově postiženým.
 
 Nabízíme široké spektrum kompenzačních a elektronických pomůcek pro nevidomé a
 zrakově postižené. Na většinu kompenzačních pomůcek se dá žádat o příspěvek u
-příslušného Úřadu Práce. **Příspěvek** může být ve výši **až 90% z celkové ceny
-pomůcky** a ve výjimečných případech až 100%.
+příslušného Úřadu Práce. **Příspěvek** může být ve výši **až 90% z celkové ceny**
+**pomůcky** a ve výjimečných případech až 100%.
 
 ## Poradenství
 

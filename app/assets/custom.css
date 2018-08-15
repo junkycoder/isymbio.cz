@@ -120,11 +120,11 @@ body.invert-colors .toolbox__button svg g {
     fill: #fff;
 }
 
-.toolbox__button.invert svg g {
+.toolbox__button.is-on svg g {
     fill: #cb6d1b;
 }
 
-body.invert-colors .toolbox__button.invert svg g {
+body.invert-colors .toolbox__button.is-on svg g {
     fill: #3492e4;
 }
 

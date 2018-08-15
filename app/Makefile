@@ -1,7 +1,8 @@
 generate: node_modules
 	npx metalsmith
+	rm -rf ../web/assets
 	mkdir ../web/assets
-	cp assets/* ../web/assets
+	cp -f assets/* ../web/assets
 
 node_modules: package.json
 	npm install
