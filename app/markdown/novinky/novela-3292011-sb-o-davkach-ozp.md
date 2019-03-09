@@ -1,9 +1,7 @@
 ---
 title: Novela 329/2011 Sb. O dávkách OZP
+date: 2018-04-25
 ---
-# Novinky
-
-## Novela 329/2011 Sb. O dávkách OZP
 
 Novelizovaný zákon 329/2011 Sb. o dávkách pro osoby se zdravotním postižením platný od  
 1\. 1. 2018, který se týká příspěvku na zvláštní pomůcku.  
@@ -15,8 +13,8 @@ Na příspěvek na zvláštní pomůcku mají nárok osoby od jednoho roku věku
 Na tomto místě však čtenáře důrazně upozorňujeme, že příspěvek na pořízení motorového vozidla je dostupný pouze osobám s těžkou vadou nosného nebo pohybového ústrojí a osobám s těžkou nebo hlubokou mentální retardací, příspěvek na úpravu bytu pak jen prvně jmenovaným. Osobám se zrakovým postižením není přes snahu o zpřístupnění příspěvku na úpravu bytu dostupný žádný z nich.  
   
 Aby osoba měla na příspěvek na zvláštní pomůcku nárok, musí splnit ještě následující podmínky:  
-• zvláštní pomůcka umožní osobě sebeobsluhu nebo ji potřebuje k realizaci pracovního uplatnění, k přípravě na budoucí povolání, k získávání informací, vzdělávání anebo ke styku s okolím;  
-• osoba může zvláštní pomůcku využívat ve svém sociálním prostředí.  
+* zvláštní pomůcka umožní osobě sebeobsluhu nebo ji potřebuje k realizaci pracovního uplatnění, k přípravě na budoucí povolání, k získávání informací, vzdělávání anebo ke styku s okolím;  
+* osoba může zvláštní pomůcku využívat ve svém sociálním prostředí.  
 My se na dále budeme věnovat pouze příspěvkům pro zrakově postižené, kompletní novelizovaný zákon naleznete na odkaze:  
 [http://www.zmenyzakonu.cz/zakon.aspx?id=34765]( http://www.zmenyzakonu.cz/zakon.aspx?id=34765)  
 Kategorie zrakového postižení  
@@ -28,7 +26,7 @@ d. ztráta jednoho oka nebo ztráta visu jednoho oka se závažnější poruchou
   
 Osobám se zrakovým postižením všech kategorií a) až d) uvedeným výše je dostupný příspěvek na tyto pomůcky:  
   
-1\. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
+1. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
 a) kalkulátor s hlasovým výstupem,  
 b) digitální zápisník pro zrakově postižené s hlasovým výstupem nebo braillským displejem,  
 c) speciální programové vybavení pro zrakově postižené,  
@@ -36,7 +34,7 @@ d) elektronická orientační pomůcka pro zrakově postižené a hluchoslepé; 
 e) multifunkční elektronická komunikační pomůcka pro zrakově postižené a hluchoslepé; jedná se o stolní nebo mobilní telefony se zvětšenou a kontrastní klávesnicí, ozvučené mobilní telefony nebo tablety se speciálními funkcemi či příslušenstvím pro zrakově postižené,  
 f) měřící přístroje pro domácnost s hlasovým nebo hmatovým výstupem.  
   
-2\. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. a) a b) přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
+2. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. a) a b) přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
 a) vodicí pes,  
 b) psací stroj pro nevidomé,  
 c) popisovači kleště pro nevidomé,  
@@ -46,10 +44,10 @@ f) tiskárna reliéfních znaků pro nevidomé,
 g) hlasové popisovače pro nevidomé a hluchoslepé,  
 h) digitální čtecí přístroj pro nevidomé s hlasovým výstupem.  
   
-3\. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. a) až c) přílohy k zákonu, je určena tato zvláštní pomůcka:  
+3. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. a) až c) přílohy k zákonu, je určena tato zvláštní pomůcka:  
 diktafon.  
   
-4\. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. b) až d) přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
+4. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. b) až d) přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
 a) kamerová zvětšovací lupa,  
 b) digitální zvětšovací lupa.  
   
@@ -81,12 +79,12 @@ Pro lhůty rozhodování platí ustanovení správního řádu, tedy správní o
 Proti nepravomocnému rozhodnutí Krajské pobočky ÚP je možné se odvolat, odvolacím orgánem je MPSV. Platí klasická pravidla pro odvolací lhůty ve správním řízení, tedy 15 dnů od oznámení rozhodnutí.  
   
 Žadatel je ze zákona povinen:  
-• podrobit se lékařskému vyšetření svého zdravotního stavu dle pokynů okresní či České správy sociálního zabezpečení, předložit žádané lékařské zprávy, které jsou významné pro vypracování posudku, popř. poskytnout jinou žádanou součinnost za tímto účelem.  
+* podrobit se lékařskému vyšetření svého zdravotního stavu dle pokynů okresní či České správy sociálního zabezpečení, předložit žádané lékařské zprávy, které jsou významné pro vypracování posudku, popř. poskytnout jinou žádanou součinnost za tímto účelem.  
   
 Příjemce (tedy úspěšný žadatel) příspěvku má pak za povinnost získaný příspěvek nebo jeho poměrnou část vrátit, pokud ode dne vyplacení příspěvku:  
-• Nepoužije do tří měsíců celého příspěvku na nákup pomůcky, ,  
-• do šedesáti kalendářních měsíců (pěti let) pozbude vlastnictví pomůcky, na kterou byl příspěvek určen,  
-• do šedesáti měsíců přestane pomůcku užívat; zde však platí několik výjimek. Příspěvek ani poměrná část se nevrací, pokud příjemce přestal pomůcku užívat z důvodu změny zdravotního stavu nebo když příjemce příspěvku zemře.  
+* Nepoužije do tří měsíců celého příspěvku na nákup pomůcky, ,  
+* do šedesáti kalendářních měsíců (pěti let) pozbude vlastnictví pomůcky, na kterou byl příspěvek určen,  
+* do šedesáti měsíců přestane pomůcku užívat; zde však platí několik výjimek. Příspěvek ani poměrná část se nevrací, pokud příjemce přestal pomůcku užívat z důvodu změny zdravotního stavu nebo když příjemce příspěvku zemře.  
   
 Příjemce příspěvku je povinen písemně ohlásit Úřadu práce skutečnosti uvedené výše do osmi dnů od doby, kdy nastaly.  
   

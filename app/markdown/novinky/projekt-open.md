@@ -1,9 +1,7 @@
 ---
 title: Projekt OPEN
+date: 2012-08-27
 ---
-# Novinky
-
-## Projekt OPEN
 
 Vážení nadšenci, příznivci, pozorovatelé...  
 ráda Vám, nejen textem, přiblížím naši činnost: Jezdectví lidí se zrakovým, nebo jiným handicapem.  
@@ -16,13 +14,13 @@ Pro pokročilé nabízíme „práci na kruhu“ ve všech chodech, či samostat
 Pro zájemce o jezdecký sport jsme připraveni Vám poskytnout přiježděného koně v základní úloze (i skoky) a zprostředkovat profesionální trénink.  
   
 Co POSKYTUJEME:  
-\- JSME VÁM K DISPOZICI COBY ZPROSTŘEDKOVATELÉ SETKÁNÍ S NAŠÍM KONĚM  
--BUDEME VÁM NÁPOMOCNI PŘI ZÁŽITKU Z JÍZDY NA KONI  
--PODPOŘÍME VÁŠ ZÁJEM VYDAT SE CESTOU V SYMBIOSE S KONĚM  
+- JSME VÁM K DISPOZICI COBY ZPROSTŘEDKOVATELÉ SETKÁNÍ S NAŠÍM KONĚM  
+- BUDEME VÁM NÁPOMOCNI PŘI ZÁŽITKU Z JÍZDY NA KONI  
+- PODPOŘÍME VÁŠ ZÁJEM VYDAT SE CESTOU V SYMBIOSE S KONĚM  
   
 Co NEPOSKYTUJEME:  
--NEJSME hiporehabilitace  
--NEJSME jezdecká škola  
+- NEJSME hiporehabilitace  
+- NEJSME jezdecká škola  
   
 Zájmu o svezení se na koni Vašeho doprovodu event. celé rodiny po dohodě samozřejmě vyhovím. Ale počítáme i s možností, že přijedete samostatně na zastávku autobusu, kde Vás mohu čekat.  
 Koně máme ustájeného v Praze 4 - Písnici ve stájích v Zátoňské ulici. Spojení busem 113 z Kačerova na konečnou do zastávky "Písnice" nebo do zastávky Ke Březině busem číslo 331 a 333 taktéž z Kačerova.  

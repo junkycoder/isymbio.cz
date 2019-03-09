@@ -1,11 +1,8 @@
 ---
 title: SOCIÁLNÍ REFORMA 2012
+date: 2011-12-07
 ---
-# Novinky
-
-## SOCIÁLNÍ REFORMA 2012
-
-informace k sociální reformě, která vejde v platnost 1. 1. 2012 a co bychom měli udělat...  
+Informace k sociální reformě, která vejde v platnost 1. 1. 2012 a co bychom měli udělat...  
   
 Sociální reforma a její aktuální dopady na osoby se zrakovým postižením  
   

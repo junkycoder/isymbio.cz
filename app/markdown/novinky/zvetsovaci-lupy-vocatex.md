@@ -1,9 +1,8 @@
 ---
 title: Zvětšovací lupy Vocatex
+date: 2015-03-26
 ---
-# Novinky
 
-## Zvětšovací lupy Vocatex
 
 Kamerová zvětšovací lupa s hlasovým výstupem "VOCATEX" je s dílny Belgické společnosti Koba Vision  
 Jednou z hlavních předností VOCATEX je jeho hlasový výstup a funkce čtení.  
@@ -22,28 +21,28 @@ VOCATEX je vybaven VGA a HDMI vstupy, můžete tak VOCATEX připojit k vašemu P
 VOCATEX je lokalizován do českého jazyka.  
   
 Zobrazovací funkce VOCATEX:  
-\- Nastavení jasu  
-\- Nastavení osvětlení kamery  
-\- Čtecí linka  
-\- Čtecí rámeček  
-\- Čtecí okno (Tikr)  
-\- Funkce fotorežim / pozitiv / negativ  
-\- Auto fokus  
-\- Nastavení pozadí  
-\- Funkce přehled  
-\- až 28 barevných kombinací  
+- Nastavení jasu  
+- Nastavení osvětlení kamery  
+- Čtecí linka  
+- Čtecí rámeček  
+- Čtecí okno (Tikr)  
+- Funkce fotorežim / pozitiv / negativ  
+- Auto fokus  
+- Nastavení pozadí  
+- Funkce přehled  
+- až 28 barevných kombinací  
   
 Čtecí funkce VOCATEX:  
-\- České hlasové syntézy Eliška a Zuzana  
-\- Více než 30 dalších jazyků na výběr  
-\- Více než 60 hlasových syntéz  
-\- Režim sloupcového čtení  
-\- Nastavení hlasitosti a rychlosti čtení  
-\- Aktualizace slova ve čtecím rámečku  
-\- Nepřetržité čtení  
-\- Možnost posunu zpět / vpřed o slovo či větu  
-\- Možnost rychlého výběru syntézy nebo jazyka  
-\- Hlasová nápověda  
+- České hlasové syntézy Eliška a Zuzana  
+- Více než 30 dalších jazyků na výběr  
+- Více než 60 hlasových syntéz  
+- Režim sloupcového čtení  
+- Nastavení hlasitosti a rychlosti čtení  
+- Aktualizace slova ve čtecím rámečku  
+- Nepřetržité čtení  
+- Možnost posunu zpět / vpřed o slovo či větu  
+- Možnost rychlého výběru syntézy nebo jazyka  
+- Hlasová nápověda  
   
 VOCATEX se dodává ve dvou verzích VOCATEX Standard a VOCATEX Plus.  
 V obou verzích je plně zahrnuto více než 30 jazyků a přes 60 hlasových syntéz.  
@@ -51,8 +50,7 @@ Ve verzi Standard je zahrnuto 16 barevných kombinací ve verzi Plus je zahrnuto
 Verze Standard nabízí z funkcí pro čtení režimy fotorežim / pozitiv / negativ,  
 barevné kombinace a funkce pro režim sloupce.  
   
-Ceník a další informace o kamerových lupách Vocatex naleznete zde:  
-[http://www.symbio-ops.cz/clanky.php?id=22]( http://www.symbio-ops.cz/clanky.php?id=22)  
+Ceník a další informace o kamerových lupách Vocatex [naleznete zde](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
   
   
 Tomáš Franěk, SYMBIO, o. p. s.

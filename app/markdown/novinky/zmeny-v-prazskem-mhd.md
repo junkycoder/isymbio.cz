@@ -1,9 +1,7 @@
 ---
 title: Změny v Pražském MHD
+date: 2012-08-27
 ---
-# Novinky
-
-## Změny v Pražském MHD
 
 Od 1. 9. se výrazně mění struktura Pražské hromadné dopravy. Do našich stájí v Písnici se to ale výrazně dotýkat nebude. Linka 113 bude stále jezdit do zastávky Ke Březině či na konečnou Písnice, ale s delšími intervali, které budou vyplňovat linky 331 a 333  
   

@@ -1,11 +1,9 @@
 ---
 title: Informace Národní rady zdravotně postižených
+date: 2013-04-30
 ---
-# Novinky
 
-## Informace Národní rady zdravotně postižených
-
-nformace k jednání poslanecké sněmovny o sociálních kartách a příspěvvcích zdravotně postiženým  
+Informace k jednání poslanecké sněmovny o sociálních kartách a příspěvvcích zdravotně postiženým  
   
 Vážení přátelé,  
   

@@ -1,33 +1,31 @@
 ---
 title: KNFB Reader Enterprise
+date: 2017-07-19
 ---
-# Novinky
-
-## KNFB Reader Enterprise
 
 Aplikace KNFB Reader Enterprise  
 OCR čtečka dokumentů ve vašem chytrém telefonu.  
 KNFB Reader vám umožní přečíst vámi vyfocený text, ať už se jedná o poštovní zásilku, smlouvy, návody k použití a spousty dalších věcí, které běžně máte kolem sebe. Podobně jako skenujete, tak můžete předlohu vyfotit. OCR ihned rozpozná text a zobrazí jej a může ihned  
 předčítat v několika světových jazycích včetně češtiny, a to vše bez nutnosti připojení k internetu. Důležitá data a slovníky si totiž KNFB Reader Enterprise stáhne do telefonu při instalaci. Samotná instalace má pouze okolo 100 MB.  
   
-\- V rámci dalších textových aplikací lze dokument formátovat  
-\- Uložení vyfoceného a rozpoznaného dokumentu  
-\- Možnost sdílení s jinými aniž by měli KNFB Reader (Zpráva, mail, Messenger, Facebook, atd.)  
+- V rámci dalších textových aplikací lze dokument formátovat  
+- Uložení vyfoceného a rozpoznaného dokumentu  
+- Možnost sdílení s jinými aniž by měli KNFB Reader (Zpráva, mail, Messenger, Facebook, atd.)  
   
 Funkce KNFB Reader Enterprise:  
-\- Indikace náklonu (vibrace telefonu vám pomohou co nejpřesněji vyfotit předlohu)  
-\- Detekce viditelných rohů  
-\- Orientace na šířku  
-\- Automatický blesk  
-\- Průzkumník souborů  
-\- Nastavení automatického čtení  
-\- Zvýraznění čtených slov  
-\- Typ, velikost, barva textu  
-\- Nastavení pozadí a vzdálenost řádků  
-\- Hlasitost a rychlost řeči  
-\- Číst / pozastavit  
-\- Velmi srozumitelné hlasové syntézy pro čtení (  
-\- Možnost automatické zálohy na Drop Box  
+- Indikace náklonu (vibrace telefonu vám pomohou co nejpřesněji vyfotit předlohu)  
+- Detekce viditelných rohů  
+- Orientace na šířku  
+- Automatický blesk  
+- Průzkumník souborů  
+- Nastavení automatického čtení  
+- Zvýraznění čtených slov  
+- Typ, velikost, barva textu  
+- Nastavení pozadí a vzdálenost řádků  
+- Hlasitost a rychlost řeči  
+- Číst / pozastavit  
+- Velmi srozumitelné hlasové syntézy pro čtení (  
+- Možnost automatické zálohy na Drop Box  
   
 Jazyky KNFB Reader Enterprise:  
 Angličtina, Arabština, Čeština, Čínština, Dánština, Finština, Francouzština, Hebrejština, Hindština, Indonéština, Italština, Japonština, Korejština, Maďarština, Němčina, Nizozemština, Norština, Polština, Portugalština, Rumunština, Ruština, Řečtina, Slovenština, Španělština, Švédština, Thajština, Turečtina  
@@ -43,6 +41,6 @@ Aplikace je také vhodná pro všechny slabozraké nebo pro lidi, kteří mají 
 Díky všem výše popsaným funkcím může KNFB Reader sloužit jako skvělí a užitečný doplněk při práci s dokumenty a být jako součást vaší kanceláře.  
   
   
-\* UPOZORNĚNÍ*  
+**UPOZORNĚNÍ**  
 V App Store a Google Play naleznete i samostatnou verzi KNFB Reader (bez označení Enterprise) za stejnou cenu. Jedná se o stejný program od stejného výrobce, ale bez možnosti mít KNFB Reader na dvou zařízeních.  
 Pro další informace a případné objednávky nás neváhejte kontaktovat.

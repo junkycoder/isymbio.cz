@@ -1,9 +1,7 @@
 ---
 title: Apple Watch
+date: 2017-03-06
 ---
-# Novinky
-
-## Apple Watch
 
 Pro spuštění ani fungování Apple Watch není potřeba SIM karta. Hodinky fungují jako prodloužená ruka především pro iPhone, ale své uplatnění si najde i  
 mezi ostatními Apple zařízeními jako je MacBook.  

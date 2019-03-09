@@ -1,9 +1,7 @@
 ---
 title: HLEDÁME POMOC
+date: 2011-08-12
 ---
-# Novinky
-
-## HLEDÁME POMOC
 
 nově vznikající sdružení hledá pomoc k naplnění svých cílů a předsevzetí  
   

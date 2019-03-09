@@ -1,9 +1,7 @@
 ---
 title: NOVINKA - Easy Reader
+date: 2015-01-21
 ---
-# Novinky
-
-## NOVINKA - Easy Reader
 
 Easy Reader je novinka na českém trhu pro nevidomé nebo těžce zrakově postižené. Jedná se o jednoduché čtecí zařízení  
   
@@ -26,7 +24,7 @@ Vstupy: 2x USB; jack konektor 3,5
 Napájení ze sítě: 15V DC; 2,00A (MAX); Max. Výkon: 303  
   
 S dalšímy dotazy nás neváhejte kontaktovat na  
-[info@symbio-ops.cz](mailform.php?mail=info@symbio-ops.cz)  
+[info@symbio-ops.cz](mailto:info@symbio-ops.cz)  
   
 SYMBIO, o. p. s.  
 www.symbio-ops.cz

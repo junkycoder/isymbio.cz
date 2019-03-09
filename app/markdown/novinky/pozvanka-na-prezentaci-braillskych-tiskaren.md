@@ -1,9 +1,7 @@
 ---
 title: Pozvánka na prezentaci Braillských tiskáren
+date: 2018-04-25
 ---
-# Novinky
-
-## Pozvánka na prezentaci Braillských tiskáren
 
 Vážení přátelé, příznivci a uživatelé Braillského písma.  
 Ať aktivní uživatelé, příležitostní čtenáři nebo připravující tolik potřebné materiály pro zrakově postižené.  
@@ -23,8 +21,7 @@ Od 14:30 možný příchod návštěvníků (nutná registrace u vstupu)
 15:00 – Zahájení, prezentace Braillských tiskáren, ukázky  
 16:30 – možnost vyzkoušení, debata a volná zábava, raut  
 19:00 – předpokládaný konec  
-Přihlášky prosíme zasílejte elektronicky na adresu  
-[info@isymbio.cz](mailform.php?mail=info@isymbio.cz)  
+Přihlášky prosíme zasílejte elektronicky na adresu [info@isymbio.cz](mailto:info@isymbio.cz)  
 nejdéle do půlnoci 10. Května 2018. Prosíme o uvedení Vašeho celého jména včetně jména případného doprovodu.  
 Vaší registraci potvrdíme, avšak s přihlášením neotálejte.  
 Aula má omezenou kapacitu.  

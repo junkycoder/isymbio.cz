@@ -1,20 +1,19 @@
 ---
 title: SYMBIO Pozvánka - Prezentace produktů
+date: 2016-05-25
 ---
-# Novinky
-
-## SYMBIO Pozvánka - Prezentace produktů
 
 Vážení uživatelé a příznivci výpočetní techniky, komunikačních pomůcek a dalších elektronických zařízení pro lidi se zrakovým handicapem.  
 Tímto si Vás dovolujeme pozvat na prezentaci a ukázky různých kompenzačních pomůcek a zařízení, které jsou určeny právě pro uživatele s tímto postižením.  
 K vidění, vyzkoušení včetně odborného výkladu budou k dispozici pomůcky s nejnovějšími možnostmi hardware včetně operačních systémů a příslušenství.  
   
-\* Produkty společnosti Apple, a to iPhone, včetně nejnovějšího modelu iPhone SE, iPad, MacBook, MacBook Air, iMac a velmi diskutované Apple Watch, včetně různých příslušenství k těmto zařízením  
-\* Počítače a notebooky s operačním systémem Windows 10 s hlasovými a zvětšovacími výstupy  
-\* Kamerová zvětšovací lupa s hlasovým výstupem Vocatex  
-\* Čtečka dokumentů EasyReader  
-\* Braillské řádky Esys a novinka Elektronický zápisník EsyTime (Notebook s braillským displejem a klávesnicí), které Vám přijede představit zástupce společnosti EUROBRAILLE  
-\* Kapesní kamerové lupy  
+* Produkty společnosti Apple, a to iPhone, včetně nejnovějšího modelu iPhone SE, iPad, MacBook, MacBook Air, iMac a velmi diskutované Apple Watch, včetně různých příslušenství k těmto zařízením  
+* Počítače a notebooky s operačním systémem Windows 10 s hlasovými a zvětšovacími výstupy  
+* Kamerová zvětšovací lupa s hlasovým výstupem Vocatex  
+* Čtečka dokumentů EasyReader  
+* Braillské řádky Esys a novinka Elektronický zápisník EsyTime (Notebook s braillským displejem a klávesnicí), které Vám přijede představit zástupce společnosti EUROBRAILLE  
+* Kapesní kamerové lupy  
+
 Prezentace se koná ve dnech pondělí a úterý 20. a 21. června 2016 od 10:00 do 20:00 hodin v příjemném prostředí Vinného baru Slámovka, Spálená 31, Praha 1, kde pro Vás bude připraveno několik druhů vína, včetně dalšího občerstvení a u některých produktů tematické překvapení.  
 Důležité informace:  
 Vinný bar Slámovka se nachází ve Spálené ulici na Národní třídě cca 100 metrů od tramvajové zastávky ve směru Karlovo náměstí.  
