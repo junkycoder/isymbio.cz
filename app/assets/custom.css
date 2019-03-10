@@ -16,6 +16,12 @@ article a {
     font-weight: 400;
 }
 
+article img {
+    display: block;
+    margin: 16px 16px 16px 0;
+    width: 320px;
+}
+
 .zoom-font-size article {
     font-size: 24px;
     line-height: 1.6;
@@ -31,7 +37,7 @@ body {
 
 body.invert-colors {
     background-color: #030303;
-    color: #ababab;
+    color: #fbfbfb;
 }
 
 a {
