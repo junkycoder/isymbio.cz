@@ -1,7 +1,6 @@
 ---
 title: Kamerová zvětšovací lupa VOCATEX
 ---
-# Kamerová zvětšovací lupa VOCATEX
 
 [![](admin/upload/Vocatex.jpg)](/soubory/Vocatex.jpg)  
 Kamerová zvětšovací lupa "VOCATEX" je s dílny Belgické společnosti [Koba Vision](http://www.kobavision.be/en) [![](admin/upload/koba v3.png)](/soubory/koba v3.png)  
@@ -23,30 +22,30 @@ VOCATEX je lokalizován do českého jazyka.
 
 ## Zobrazovací funkce VOCATEX:
 
-\- Nastavení jasu  
-\- Nastavení osvětlení kamery  
-\- Čtecí linka  
-\- Čtecí rámeček  
-\- Čtecí okno (Tikr)  
-\- Funkce fotorežim / pozitiv / negativ  
-\- Auto fokus  
-\- Nastavení pozadí  
-\- Funkce přehled  
-\- až 28 barevných kombinací  
+- Nastavení jasu  
+- Nastavení osvětlení kamery  
+- Čtecí linka  
+- Čtecí rámeček  
+- Čtecí okno (Tikr)  
+- Funkce fotorežim / pozitiv / negativ  
+- Auto fokus  
+- Nastavení pozadí  
+- Funkce přehled  
+- až 28 barevných kombinací  
   
 
 ## Čtecí funkce VOCATEX:
 
-\- České hlasové syntézy Eliška a Zuzana  
-\- Více než 30 dalších jazyků na výběr  
-\- Více než 60 hlasových syntéz  
-\- Režim sloupcového čtení- Automatické rozpoznání jazyka  
-\- Nastavení hlasitosti a rychlosti čtení  
-\- Aktualizace slova ve čtecím rámečku  
-\- Nepřetržité čtení  
-\- Možnost posunu zpět / vpřed o slovo či větu  
-\- Možnost rychlého výběru syntézy nebo jazyka  
-\- Hlasová nápověda  
+- České hlasové syntézy Eliška a Zuzana  
+- Více než 30 dalších jazyků na výběr  
+- Více než 60 hlasových syntéz  
+- Režim sloupcového čtení- Automatické rozpoznání jazyka  
+- Nastavení hlasitosti a rychlosti čtení  
+- Aktualizace slova ve čtecím rámečku  
+- Nepřetržité čtení  
+- Možnost posunu zpět / vpřed o slovo či větu  
+- Možnost rychlého výběru syntézy nebo jazyka  
+- Hlasová nápověda  
   
 VOCATEX se dodává ve dvou verzích VOCATEX Standard a VOCATEX Plus.  
 V obou verzích je plně zahrnuto více než 30 jazyků a přes 60 hlasových syntéz.  

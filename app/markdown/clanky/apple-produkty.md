@@ -1,7 +1,6 @@
 ---
 title: Apple produkty
 ---
-# Apple produkty
 
 Produkty Apple jako kompenzační pomůcky pro lidi se zrakovým handicapem jsou rozšířeny po celém světě a ani v České republice tomu není jinak.  
 Specializujeme se na Apple produkty od roku 2014 a od té doby jsme se dostali na vrchol poskytování Apple produktů mezi zrakově postižené.  

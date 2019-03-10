@@ -1,7 +1,6 @@
 ---
 title: Elektronické pomůcky pro zrakově postižené
 ---
-# Elektronické pomůcky pro zrakově postižené
 
 SYMBIO Access devices s.r.o. nabízí široké spektrum kompenzačních a elektronických pomůcek pro nevidomé a zrakově postižené.  
 Níže naleznete nabídku speciálně upravených notebooků (digitální zápisník) a speciálně upravených stolních počítačů (digitální čtecí přístroj), které jsou vybaveny speciálními odečítacími a zvětšovacími programy pro zrakově postižené.  

@@ -1,5 +1,6 @@
 ---
 title: SYMBIO Access devices
+homepage: true
 ---
 
 # Jsme SYMBIO Access devices

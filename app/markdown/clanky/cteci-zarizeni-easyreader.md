@@ -1,7 +1,6 @@
 ---
 title: Čtecí zařízení EasyReader
 ---
-# Čtecí zařízení EasyReader
 
 [![](admin/upload/ER2012_1.jpg)](/soubory/ER2012_1.jpg) [![](admin/upload/ER2012_2.jpg)](/soubory/ER2012_2.jpg) Čtecí přístroj EasyReader od belgické firmy [Koba Vision](http://www.kobavision.be/en) [![](admin/upload/koba v3.png)](/soubory/koba v3.png)  
 je zařízení, které velmi rychle a přesně naskenuje a přečte texty například knihy, noviny, účty, faktury nebo příbalové letáky k lékům.  

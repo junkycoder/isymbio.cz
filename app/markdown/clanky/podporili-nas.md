@@ -1,7 +1,6 @@
 ---
 title: Podpořili nás
 ---
-# Podpořili nás
 
 Děkujeme těm co nás podpořili...  
   

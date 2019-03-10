@@ -1,7 +1,6 @@
 ---
 title: Zvětšovací program Magic
 ---
-# Zvětšovací program Magic
 
 Zvětšovací program Magic, vyvíjený americkou firmou Freedom Scientific, je určen pro slabozraké uživatele.  
 Program nabízí různé možnosti zvětšování obrazovky a široké spektrum nastavení barevných úprav pro zobrazení.  

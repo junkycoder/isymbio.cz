@@ -1,7 +1,6 @@
 ---
 title: Manuály / Příručky
 ---
-# Manuály / Příručky
 
 Zde naleznete všechny manuály a příručky ve formátu *pdf ke všem produktům.  
   

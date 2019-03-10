@@ -1,9 +1,8 @@
 ---
 title: Začínáme s iPhone / iPad
 ---
-# Začínáme s iPhone / iPad
 
-ÚVODNÍ NASTAVENÍ iPhone / iPad\[  
+ÚVODNÍ NASTAVENÍ iPhone / iPad
   
 Pro první spuštění nového zařízení je vyžadována SIM karta,  
 která nebude mít aktivovaný PIN. SIM karta musí být ve velikosti NANO SIM.  
@@ -26,7 +25,7 @@ https://appleid.apple.com/cz/
 kde po kliknutí na tlačítko Vytvořit APPLE ID jednoduše APPLE ID vytvoříte  
 krok za krokem v češtině.  
   
-UPOZORNĚNÍ : Na konci registrace je vyžadováno opsání kódu z obrázku.  
+**UPOZORNĚNÍ**: Na konci registrace je vyžadováno opsání kódu z obrázku.  
   
 Po vyplnění uživatelského jména a hesla k APPLE ID se můžete  
 přihlásit / registrovat do služby iCloud.  

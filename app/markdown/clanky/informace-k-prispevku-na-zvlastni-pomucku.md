@@ -1,7 +1,6 @@
 ---
-title: informace k příspěvku na zvláštní pomůcku
+title: Informace k příspěvku na zvláštní pomůcku
 ---
-# informace k příspěvku na zvláštní pomůcku
 
 Novelizovaný zákon 329/2011 Sb. o dávkách pro osoby se zdravotním postižením platný od  
 1\. 1. 2018, který se týká příspěvku na zvláštní pomůcku.  

@@ -1,7 +1,6 @@
 ---
 title: Kapesní lupy Zoomax
 ---
-# Kapesní lupy Zoomax
 
 [![](admin/upload/Logo Zoomax.jpg)](/soubory/Logo Zoomax.jpg)  
 Kapesní lupy od společnosti Zoomax jsou lupy, které díky kompaktním rozměrům mohou být kdykoliv při ruce.  
@@ -12,53 +11,53 @@ Lupy jsou vybaveny HDMI výstupem, takže lze připojit k jakémukoli jinému zo
 [![](admin/upload/M5TV.JPG)](/soubory/M5TV.JPG)    
 Součástí kapesních lup Zoomax je nejen HDMI kabel, ale i praktické pouzdro včetně další odnímatelné rukojeti.  
 Kapesní lupy Zoomax jsou nabízeny i ve variantách:  
-\- L - lupa + TV monitor 22"  
-\- XL - lupa + TV monitor 24"  
-\- XXL - lupa + TV monitor 32"  
+- L - lupa + TV monitor 22"  
+- XL - lupa + TV monitor 24"  
+- XXL - lupa + TV monitor 32"  
   
 
 ## Zoomax M5"
 
   
 [![](admin/upload/M5text.JPG)](/soubory/M5text.JPG)  
-\- Zvětšení 2,3x – 16x  
-\- Barevné zobrazení 10 kontrastních barevných zobrazení plus foto režim; tři oblíbená barevná zobrazení plus foto režim  
-\- Displej 5“ TFT dotykový displej, rozlišení 1280x720p  
-\- dvojí kamera; automaticky zaostřující ve vzdáleném pozorování; pevně zaostřující v blízkém pozorování  
-\- Plynulé zvětšení  
-\- Dohledová vzdálenost 4,8cm u blízkého pohledu; od 5 cm u vzdáleného pohledu  
-\- LED podsvícení  
-\- Vestavěný stojánek + odnímatelná rukojeť  
-\- Zmražení obrazu, možnost uložení  
+- Zvětšení 2,3x – 16x  
+- Barevné zobrazení 10 kontrastních barevných zobrazení plus foto režim; tři oblíbená barevná zobrazení plus foto režim  
+- Displej 5“ TFT dotykový displej, rozlišení 1280x720p  
+- dvojí kamera; automaticky zaostřující ve vzdáleném pozorování; pevně zaostřující v blízkém pozorování  
+- Plynulé zvětšení  
+- Dohledová vzdálenost 4,8cm u blízkého pohledu; od 5 cm u vzdáleného pohledu  
+- LED podsvícení  
+- Vestavěný stojánek + odnímatelná rukojeť  
+- Zmražení obrazu, možnost uložení  
   
 Parametry Zoomax M5"  
-\- Propojení TV, monitor pomocí HDMI  
-\- Nepřetržité použití: při plné baterii přibližně 4 hodiny (v závislosti na zvoleném barevném zobrazení a osvětlení displeje).  
-\- Doba nabíjení: přibližně 4,5 hodiny  
-\- Váha 265 g  
-\- Rozměry: šířka 173 mm, výška 80 mm, hloubka 20 mm  
+- Propojení TV, monitor pomocí HDMI  
+- Nepřetržité použití: při plné baterii přibližně 4 hodiny (v závislosti na zvoleném barevném zobrazení a osvětlení displeje).  
+- Doba nabíjení: přibližně 4,5 hodiny  
+- Váha 265 g  
+- Rozměry: šířka 173 mm, výška 80 mm, hloubka 20 mm  
   
 
 ## Zoomax Snow 7" HD
 
   
 [![](admin/upload/Snow7symbio.JPG)](/soubory/Snow7symbio.JPG)  
-\- Zvětšení 2,2x – 19x  
-\- Barevné zobrazení 12 kontrastních barevných zobrazení plus foto režim; 10 režimů se zvýšeným kontrastem  
-\- Displej 7"  
-\- dvojí kamera; automaticky zaostřující ve vzdáleném pozorování; pevně zaostřující v blízkém pozorování  
-\- Plynulé zvětšení  
-\- Dohledová vzdálenost 6,5 cm u blízkého pohledu; od 7 cm u vzdáleného pohledu  
-\- LED podsvícení  
-\- Vestavěný stojánek  
-\- Zmražení obrazu, možnost uložení  
+- Zvětšení 2,2x – 19x  
+- Barevné zobrazení 12 kontrastních barevných zobrazení plus foto režim; 10 režimů se zvýšeným kontrastem  
+- Displej 7"  
+- dvojí kamera; automaticky zaostřující ve vzdáleném pozorování; pevně zaostřující v blízkém pozorování  
+- Plynulé zvětšení  
+- Dohledová vzdálenost 6,5 cm u blízkého pohledu; od 7 cm u vzdáleného pohledu  
+- LED podsvícení  
+- Vestavěný stojánek  
+- Zmražení obrazu, možnost uložení  
   
 Parametry Zoomax Snow 7" HD  
-\- Propojení TV, monitor pomocí HDMI  
-\- Nepřetržité použití: při plné baterii přibližně 5 hodiny (v závislosti na zvoleném barevném zobrazení a osvětlení displeje).  
-\- Doba nabíjení: přibližně 4,5 hodiny  
-\- Váha 380 g  
-\- Rozměry: šířka 195 mm, výška 139 mm, hloubka 25 mm  
+- Propojení TV, monitor pomocí HDMI  
+- Nepřetržité použití: při plné baterii přibližně 5 hodiny (v závislosti na zvoleném barevném zobrazení a osvětlení displeje).  
+- Doba nabíjení: přibližně 4,5 hodiny  
+- Váha 380 g  
+- Rozměry: šířka 195 mm, výška 139 mm, hloubka 25 mm  
   
 
 ### Soubory ke stažení

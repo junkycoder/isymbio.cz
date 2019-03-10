@@ -1,7 +1,6 @@
 ---
 title: Vocatex Split Screen
 ---
-# Vocatex Split Screen
 
 Split Screen vám umožní rozdělení obrazu na monitoru kamerové zvětšovací lupy Vocatex Plus nebo na vašem počítači nebo notebooku.  
 Díky Split Screen můžete na jednom monitoru vidět vaší předlohu a zároveň obraz z počítače a zároveň tak souběžně na obou zařízení pracovat.  

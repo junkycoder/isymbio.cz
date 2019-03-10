@@ -1,7 +1,6 @@
 ---
 title: Odečítací program JAWS
 ---
-# Odečítací program JAWS
 
 Odečítací program JAWS, vyvíjený americkou firmou Freedom Scientific, představuje jeden z nejoblíbenějších a nejkomplexnějších programů pro zpřístupnění prostředí Windows nevidomým uživatelům. Jeho přednosti jsou patrné zejména při řešení složitějších úkolů (například v aplikacích sady Microsoft Office) a zvláště pak při prohlížení webových stránek v Microsoft Internet Exploreru. Kromě vestavěné řečové syntézy v mnoha jazycích podporuje JAWS rovněž širokou škálu braillských řádků včetně námi dodávaných braillských řádků esys.  
 [Braillské řádky Esys](/clanky/braillske-radky-esys/)    

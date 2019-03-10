@@ -1,7 +1,6 @@
 ---
 title: EmBraille - kompaktní tiskárna
 ---
-# EmBraille - kompaktní tiskárna
 
 [![](admin/upload/EmBraille.jpg)](/soubory/EmBraille.jpg)    
 VP EmBraille je malá a kompaktní tiskárna s možností braillského a reliéfního tisku, která se hodí jakémukoli uživateli braillského písma do domácnosti nebo kanceláře.  
@@ -15,14 +14,14 @@ Při instalaci se nahrají potřebné soubory a doplňky do MS Office, kde jedno
 ## Parametry VP EmBraille
 
   
-\- 25 Braillských znaků za sekundu  
-\- Jednostranný tisk  
-\- Možnost tisku na jednotlivé papíry nebo traktorový podavač 77 - 216 mm  
-\- 3 úrovně výšky braillského bodu  
-\- 17 DPI rozlišení braillské reliéfní grafiky  
-\- 7 úrovní vyobrazení grafiky  
-\- Rozměry: Výška 159 mm, šířka 359 mm, hloubka 285 mm  
-\- Váha 5 Kg  
-\- Připojení USB  
-\- Podpora Windows 7, 8, 8.1, 10  
-\- Cena 39 000 Kč
+- 25 Braillských znaků za sekundu  
+- Jednostranný tisk  
+- Možnost tisku na jednotlivé papíry nebo traktorový podavač 77 - 216 mm  
+- 3 úrovně výšky braillského bodu  
+- 17 DPI rozlišení braillské reliéfní grafiky  
+- 7 úrovní vyobrazení grafiky  
+- Rozměry: Výška 159 mm, šířka 359 mm, hloubka 285 mm  
+- Váha 5 Kg  
+- Připojení USB  
+- Podpora Windows 7, 8, 8.1, 10  
+- Cena 39 000 Kč

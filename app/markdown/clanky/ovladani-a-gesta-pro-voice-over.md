@@ -1,7 +1,6 @@
 ---
 title: Ovládání a gesta pro Voice Over
 ---
-# Ovládání a gesta pro Voice Over
 
 Základní navigace a ovládání v prostředí iOS  
 Funkce - gesto  

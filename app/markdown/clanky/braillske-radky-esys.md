@@ -1,7 +1,6 @@
 ---
 title: Braillské řádky Esys
 ---
-# Braillské řádky Esys
 
 Esys je řada 12 až 80 znakových braillských řádků s funkcemi zápisníku od Francouzské společnosti [EUROBRAILLE](http://www.eurobraille.com) [![](admin/upload/Logo + eurobraille fond blanc.png)](/soubory/Logo + eurobraille fond blanc.png)  
 Braillské řádky nabízí moderní design a mnoho oblastí užití.  

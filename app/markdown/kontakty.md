@@ -1,7 +1,6 @@
 ---
 title: Kontakty
 ---
-# Kontakty
 
 ## SYMBIO Access devices s.r.o.
 
@@ -26,17 +25,17 @@ Kancelář se nachází v 1. patře budovy, bezbariérový přístup.
 Informace o příspěvku na zvláštní pomůcky:  
 Tomáš Franěk  
 mobil: +420 739 094 745  
-[franek@isymbio.cz](mailform.php?mail=franek@isymbio.cz)  
+[franek@isymbio.cz](mailto:franek@isymbio.cz)  
   
 Technická podpora, specialista  
 Petr Bláha  
 Mobil: +420 732 264 282  
-[blaha@isymbio.cz](mailform.php?mail=blaha@isymbio.cz)  
+[blaha@isymbio.cz](mailto:blaha@isymbio.cz)  
 Skype: blaha_symbio  
   
 IT asistent  
 Tomáš Mareček  
 Mobil: +420 734 481 127  
-[marecek@isymbio.cz](mailform.php?mail=marecek@isymbio.cz)  
+[marecek@isymbio.cz](mailto:marecek@isymbio.cz)  
   
 Na výše uvedená telefoní čísla můžete volat Po - Pá 9:00 - 17:00

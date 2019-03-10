@@ -1,7 +1,6 @@
 ---
 title: Ceník produktů
 ---
-# Ceník produktů
 
 Níže naleznete ceny ke všem námi dodávaným produktům. V případě, že nějaký produkt nenaleznete, neváhejte nás kontaktovat, jsme schopni v případě možností vámi poptávaný produkt poptat a následně jej dodat.  
 Veškeré ceny jsou včetně 15% DPH.  

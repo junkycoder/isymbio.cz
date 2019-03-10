@@ -1,7 +1,6 @@
 ---
 title: Columbia - traktorový tisk
 ---
-# Columbia - traktorový tisk
 
 [![](admin/upload/Columbia.jpg)](/soubory/Columbia.jpg)    
 VP Columbia je braillská tiskárna nejen Braillova písma, ale i velmi kvalitní tiskárna reliéfní grafiky.  
@@ -16,14 +15,14 @@ Obsluha tiskárny je velmi snadná. Na těle jsou pouze čtyři hmatná tlačít
 ## Parametry VP Columbia
 
   
-\- 100 Braillských znaků za sekundu  
-\- 3 úrovně výšky braillského bodu  
-\- 100 DPI rozlišení braillské reliéfní grafiky  
-\- 7 úrovní vyobrazení grafiky  
-\- Oboustranný tisk  
-\- Traktorový papír 176 - 325 mm  
-\- Rozměry: Výška 158 mm, šířka 557 mm, hloubka 275 mm  
-\- Váha 9 Kg  
-\- Připojení USB, LAN  
-\- Podpora Windows 7, 8, 8.1, 10  
-\- Cena 89 000 Kč
+- 100 Braillských znaků za sekundu  
+- 3 úrovně výšky braillského bodu  
+- 100 DPI rozlišení braillské reliéfní grafiky  
+- 7 úrovní vyobrazení grafiky  
+- Oboustranný tisk  
+- Traktorový papír 176 - 325 mm  
+- Rozměry: Výška 158 mm, šířka 557 mm, hloubka 275 mm  
+- Váha 9 Kg  
+- Připojení USB, LAN  
+- Podpora Windows 7, 8, 8.1, 10  
+- Cena 89 000 Kč

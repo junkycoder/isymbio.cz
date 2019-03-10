@@ -1,7 +1,6 @@
 ---
 title: Apple Watch
 ---
-# Apple Watch
 
 Pro spuštění ani fungování Apple Watch není potřeba SIM karta. Hodinky fungují jako prodloužená ruka především pro iPhone, ale své uplatnění si najde i mezi ostatními Apple zařízeními jako je MacBook. Díky hodinkám je možné MacBook odemknout přímo ze zápěstí.  
 Apple Watch slouží hned k několika účelům. Hodinky se připojí k iPhone pomocí Bluetooth a všechna potřebná data si takto čerpají přímo z telefonu. Je tedy možné vyřizovat notifikace pohodlně přímo ze zápěstí. Hodinky také podporují zdravý životní styl a aktivní pohyb. V neposlední řadě vývojáři čím dál častěji vytváří aplikace, které je možné ovládat přímo z Apple Watch.  

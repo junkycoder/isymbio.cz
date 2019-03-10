@@ -1,7 +1,6 @@
 ---
 title: Spolupracujeme
 ---
-# Spolupracujeme
 
 Kvalitní život bez bariér [občanské sdružení BELUŠKA](http://www.beluska.cz) Pomáhající dětem a lidem s postižením, podporující integraci.  
   

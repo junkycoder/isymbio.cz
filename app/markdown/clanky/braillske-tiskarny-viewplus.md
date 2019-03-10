@@ -1,7 +1,6 @@
 ---
 title: Braillské tiskárny ViewPlus
 ---
-# Braillské tiskárny ViewPlus
 
 [![](admin/upload/logo_viewplus.jpg)](/soubory/logo_viewplus.jpg)    
 Braillské tiskárny od americké společnosti ViewPlus jsou skvělé řešení pro všechny uživatelé potřebující nejen tisk braillského písma, ale i reliéfní grafiky.  

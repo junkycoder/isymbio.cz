@@ -1,7 +1,6 @@
 ---
 title: Delta - běžný tisk
 ---
-# Delta - běžný tisk
 
 [![](admin/upload/Delta.jpg)](/soubory/Delta.jpg)    
 VP Delta je sestra braillské tiskárny VP Columbia s rozdílem tisku na běžný braillský papír.  
@@ -17,14 +16,14 @@ Obsluha tiskárny je velmi snadná. Na těle jsou pouze čtyři hmatná tlačít
 ## Parametry VP Delta
 
   
-\- 100 Braillských znaků za sekundu  
-\- 3 úrovně výšky braillského bodu  
-\- 100 DPI rozlišení braillské reliéfní grafiky  
-\- 7 úrovní vyobrazení grafiky  
-\- Oboustranný tisk  
-\- Běžný braillský papír 176 – 292 mm  
-\- Rozměry: Výška 158 mm, šířka 557 mm, hloubka 275 mm  
-\- Váha 9 Kg  
-\- Připojení USB, LAN  
-\- Podpora Windows 7, 8, 8.1, 10  
-\- Cena 99 000 Kč
+- 100 Braillských znaků za sekundu  
+- 3 úrovně výšky braillského bodu  
+- 100 DPI rozlišení braillské reliéfní grafiky  
+- 7 úrovní vyobrazení grafiky  
+- Oboustranný tisk  
+- Běžný braillský papír 176 – 292 mm  
+- Rozměry: Výška 158 mm, šířka 557 mm, hloubka 275 mm  
+- Váha 9 Kg  
+- Připojení USB, LAN  
+- Podpora Windows 7, 8, 8.1, 10  
+- Cena 99 000 Kč
