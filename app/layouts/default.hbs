@@ -31,6 +31,7 @@
         </a>
         <nav class="desktop-navigation">
             <a href="/">Úvodní stránka</a>
+            <a href="/novinky/">Novinky</a>
             <a href="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</a>
             <a href="/kontakty/">Kontakty</a>
             <a href="/cenik-produktu/">Ceník produktů</a>
@@ -39,6 +40,7 @@
         <select class="mobile-navigation" id="navigation">
             <option value="/" disabled selected>Hlavní navigace</option>
             <option value="/">Úvodní stránka</option>
+            <option value="/novinky/">Novinky</option>
             <option value="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</option>
             <option value="/kontakty/">Kontakty</option>
             <option value="/cenik-produktu/">Ceník produktů</option>
@@ -116,7 +118,7 @@
             <h1>{{{ title }}}</h1>
             {{{ contents }}}
             {{#if homepage}}
-                <h2 id="novinky">Novinky</h2>
+                <h2 id="novinky">Poslední novinky</h2>
                 {{#times 3}}
                     {{#with (lookup ../collections.news this)}}
                         <h3>{{ this.title }}</h3>
