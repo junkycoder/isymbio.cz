@@ -122,7 +122,7 @@ ul ul {
 }
 
 ol li {
-    text-indent: -1.45em;
+    text-indent: 0;
 }
 
 ol ol {

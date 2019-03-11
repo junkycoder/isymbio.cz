@@ -1,14 +1,35 @@
 {
-    "source": "./markdown",
+    "source": "markdown",
     "destination": "../web",
     "clean": false,
     "plugins": {
+        "metalsmith-collections": {
+            "news": {
+                "pattern": "novinky/*.md",
+                "sortBy": "date",
+                "reverse": true
+            }
+        },
         "metalsmith-markdown": true,
         "metalsmith-permalinks": {
             "pattern": ":type/:name"
         },
+        "metalsmith-pagination": {
+            "collections.news": {
+                "perPage": 999,
+                "layout": "default.hbs",
+                "first": "novinky/index.html",
+                "path": "novinky/:num/index.html",
+                "pageMetadata": {
+                    "title": "Novinky"
+                }
+            }
+        },
+        "metalsmith-register-helpers": {
+            "directory": "helpers"
+        },
         "metalsmith-layouts": {
-            "default": "article.hbs",
+            "default": "default.hbs",
             "engine": "handlebars"
         }
     }

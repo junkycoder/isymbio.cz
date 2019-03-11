@@ -3,8 +3,6 @@ title: SYMBIO Access devices
 homepage: true
 ---
 
-# Jsme SYMBIO Access devices
-
 Nabízíme kompenzační pomůcky pro zrakově postižené. Počítače, speciální lupy,
 APPLE produkty. To vše spřístupněno zrakově postiženým.
 
