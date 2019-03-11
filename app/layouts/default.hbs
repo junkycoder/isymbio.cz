@@ -37,6 +37,21 @@
             <a href="/cenik-produktu/">Ceník produktů</a>
             <a href="/manualy-prirucky/">Manuály a příručky</a>
         </nav>
+        <script>
+            (function () {
+                document.querySelectorAll('a[href]').forEach(function (link) {
+                    var href = link.href.replace(location.origin, '').replace('#', '');
+
+                    if (href != '/' && href[href.length - 1] != '/') {
+                        href += '/';
+                    }
+
+                    if (href.split('/')[1] == location.pathname.split('/')[1]) {
+                        link.classList.add('active');
+                    }
+                })
+            })()
+        </script>
         <select class="mobile-navigation" id="navigation">
             <option value="/" disabled selected>Hlavní navigace</option>
             <option value="/">Úvodní stránka</option>
@@ -133,21 +148,6 @@
                 {{/each}}
             </ul>
         </article>
-        <script>
-            (function () {
-                document.querySelectorAll('a[href]').forEach(function (link) {
-                    var href = link.href.replace(location.origin, '').replace('#', '');
-
-                    if (href != '/' && href[href.length - 1] != '/') {
-                        href += '/';
-                    }
-
-                    if (href == location.pathname) {
-                        link.classList.add('active');
-                    }
-                })
-            })()
-        </script>
     </main>
 </body>
 </html>
