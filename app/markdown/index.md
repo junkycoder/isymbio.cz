@@ -2,9 +2,8 @@
 title: SYMBIO Access devices
 homepage: true
 ---
-
-Nabízíme kompenzační pomůcky pro zrakově postižené. Počítače, speciální lupy,
-APPLE produkty. To vše spřístupněno zrakově postiženým.
+Jsme společnost, která se zabývá kompenzačními pomůckami pro zrakově postižené. Apple produkty, kamerové lupy, braillské řádky a tiskárny, nositelná elektronika, notebooky a desktopové počítače s operačním systémem Windows.
+Jsme sami nevidomý nebo těžce zrakově postižení, víme tedy, jak mají pomůcky fungovat a jsme schopni se plně přizpůsobit Vašim potřebám.
 
 ## Elektronické pomůcky
 
@@ -22,3 +21,13 @@ postižení a potřeb klienta. Konfigurace jednotlivých pomůcek s klientem
 konzultujeme, vyslechneme jeho představy, případně poradíme či doporučíme
 alternativy. V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 Naší ideou je individualita.
+
+## Proč my?
+
+- Individuální přístup ke klientovi nebo k organizaci
+- Technická podpora po dobu životnosti pomůcky
+- Nadstandardní servis v místě bydliště klienta
+- Zastoupení všech možných speciálních software pro zrakově postižené
+- Nadnárodní spolupráce s APR a AR Apple produktů
+- Smluvní servisy po celé České republice
+- Nečekáme na obdržení financí od UP, ale pomůcku jsme schopni zařídit / předat do pár dní od obdržení rozhodnutí o schválení příspěvku na zvláštní pomůcku
