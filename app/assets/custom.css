@@ -194,6 +194,19 @@ nav.desktop-navigation {
 }
 
 @media only screen and (min-width: 840px) {
+    .basic-contact {
+        padding: 0 2rem 2rem 2rem;
+    }
+}
+
+.basic-contact span {
+    padding: 0 0.8rem;
+    display: block;
+    font-size: 80%;
+}
+
+
+@media only screen and (min-width: 840px) {
     select.mobile-navigation {
         display: none;
     }

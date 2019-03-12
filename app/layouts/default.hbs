@@ -29,13 +29,13 @@
                 </g>
             </svg>
         </a>
-        <nav class="desktop-navigation">
+        <nav class="desktop-navigation" aria-label="Hlavní navigace">
             <a href="/">Úvodní stránka</a>
             <a href="/novinky/">Novinky</a>
             <a href="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</a>
-            <a href="/kontakty/">Kontakty</a>
             <a href="/cenik-produktu/">Ceník produktů</a>
             <a href="/manualy-prirucky/">Manuály a příručky</a>
+            <a href="/kontakty/">Kontakty</a>
         </nav>
         <script>
             (function () {
@@ -57,9 +57,9 @@
             <option value="/">Úvodní stránka</option>
             <option value="/novinky/">Novinky</option>
             <option value="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</option>
-            <option value="/kontakty/">Kontakty</option>
             <option value="/cenik-produktu/">Ceník produktů</option>
             <option value="/manualy-prirucky/">Manuály a příručky</option>
+            <option value="/kontakty/">Kontakty</option>
         </select>
         <script>
             (function () {
@@ -72,9 +72,15 @@
                 navigation.value = location.pathname;
             })()
         </script>
+        <div class="basic-contact" aria-label="Základní kontakty">
+            <span><strong>SYMBIO Access devices s.r.o.</strong></span>
+            <span>Jana Růžičky 1165/2A, 148 00 Praha 4</span>
+            <span>Telefon: +420 739 094 745</span>
+            <span>E-mail: info@isymbio.cz</span>
+        </div>
     </header>
     <main>
-        <aside class="toolbox">
+        <aside class="toolbox" aria-label="Nástroje přístupnosti">
             <a class="toolbox__button" href="#" id="toggle-invert-colors" role="button" title="Invertovat barvy">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
                     <g fill="#444">
@@ -129,7 +135,7 @@
                     })();
             </script>
         </aside>
-        <article>
+        <article aria-label="Hlavní obsah stránky">
             <h1>{{{ title }}}</h1>
             {{{ contents }}}
             {{#if homepage}}
@@ -137,7 +143,7 @@
                 {{#times 3}}
                     {{#with (lookup ../collections.news this)}}
                         <h3>{{ this.title }}</h3>
-                        <p>{{{ this.contents }}}</p>
+                        <p>{{{ content-perex this.contents }}}</p>
                     {{/with}}
                 {{/times}}
             {{/if}}
