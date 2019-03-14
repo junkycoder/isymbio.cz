@@ -167,6 +167,10 @@ header h1 {
     margin: 0;
 }
 
+header hr {
+    margin: 1rem 2rem;
+}
+
 .logo-link {
     display: block;
     text-align: center;
@@ -195,7 +199,7 @@ nav.desktop-navigation {
 
 @media only screen and (min-width: 840px) {
     .basic-contact {
-        padding: 0 2rem 2rem 2rem;
+        padding: 0 2rem 0 2rem;
     }
 }
 

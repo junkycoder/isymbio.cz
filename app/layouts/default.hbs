@@ -18,7 +18,7 @@
         <h1>
             Symbio Access devices
         </h1>
-        <a class="logo-link" href="/" title="Úvodní stránka SYMBIO Access devices">
+        <a class="logo-link" href="/" title="Úvodní stránka SYMBIO Access devices" aria-label="Logo iSymbio">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 112" version="1.1" width="304px" height="112px">
                 <title>Logo iSymbio</title>
                 <g transform="matrix(0.03040304034948349, 0, 0, 0.030403314158320427, -15.02403259277344, -14.293267250061035)">
@@ -29,7 +29,7 @@
                 </g>
             </svg>
         </a>
-        <nav class="desktop-navigation" aria-label="Hlavní navigace">
+        <nav class="desktop-navigation" aria-label="Hlavní menu">
             <a href="/">Úvodní stránka</a>
             <a href="/novinky/">Novinky</a>
             <a href="/elektronicke-pomucky-pro-zrakove-postizene/">Elektronické pomůcky</a>
@@ -72,6 +72,7 @@
                 navigation.value = location.pathname;
             })()
         </script>
+        <hr />
         <div class="basic-contact" aria-label="Základní kontakty">
             <span><strong>SYMBIO Access devices s.r.o.</strong></span>
             <span>Jana Růžičky 1165/2A, 148 00 Praha 4</span>
@@ -138,15 +139,6 @@
         <article aria-label="Hlavní obsah stránky">
             <h1>{{{ title }}}</h1>
             {{{ contents }}}
-            {{#if homepage}}
-                <h2 id="novinky">Poslední novinky</h2>
-                {{#times 3}}
-                    {{#with (lookup ../collections.news this)}}
-                        <h3>{{ this.title }}</h3>
-                        <p>{{{ content-perex this.contents }}}</p>
-                    {{/with}}
-                {{/times}}
-            {{/if}}
             {{!-- Pagination si used only for news, so other pages will now show following block --}}
             <ul>
                 {{#each pagination.files}}
