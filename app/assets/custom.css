@@ -162,7 +162,7 @@ main {
 }
 
 header h1 {
-    text-indent: -200%;
+    text-indent: -2000px;
     line-height: 0;
     margin: 0;
 }
