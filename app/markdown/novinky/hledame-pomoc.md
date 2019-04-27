@@ -44,4 +44,4 @@ SYMBIO, o. s.
 Ester Balcarová a Tomáš Franěk  
 Tel: 739 094 745  
 E-mail:  
-[info@symbioos.cz](mailform.php?mail=info@symbioos.cz)
+[info@symbioos.cz](mailto:info@symbioos.cz)

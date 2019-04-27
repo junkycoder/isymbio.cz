@@ -26,9 +26,9 @@ Monitor vybíráme vždy individuálně ke zrakovým potřebám klienta.
 Digitální čtecí zařízení lze doplnit i o [Braillské řádky Esys](/clanky/braillske-radky-esys/)    
   
 Speciální programové vybavení digitálních čtecích zařízení:  
-[Odečítací program JAWS](clanky.php?id=25)  
+[Odečítací program JAWS](/clanky/odecitaci-program-jaws/)  
 Hlasové syntézy HLAS, Zuzana nebo Iveta  
-nebo [Hlasový výstup Eliška InfoVox 4](clanky.php?id=26)  
+nebo Hlasový výstup Eliška InfoVox 4
   
 Standartní programové vybavení digitálních čtecích zařízení:  
 - Windows 10  
@@ -43,4 +43,4 @@ Multifunkční zařízení Brother třídy DCP L2500DD, L2520DW.
 Samozřejmě lze celkovou sestavu konfigurovat dle požadavků klienta, zejména speciální programové vybavení pro odečítání obrazovky, či běžných aplikací se kterými klient běžně pracuje, popřípadě lze konfigurovat hardwarové vybavení včetně dalších vstupních a výstupních zařízení.  
   
 Celková cena čtecího zařízení se odvíjí od hardwarové konfigurace a výběru speciálního programového vybavení pro nevidomé.  
-Pro cenovou nabídku nás kontaktujte na [info@symbio-ops.cz](mailform.php?mail=info@symbio-ops.cz)
+Pro cenovou nabídku nás kontaktujte na [info@symbio-ops.cz](mailto:info@symbio-ops.cz)

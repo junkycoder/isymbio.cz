@@ -17,7 +17,7 @@ K vidění, vyzkoušení včetně odborného výkladu budou k dispozici pomůcky
 Prezentace se koná ve dnech pondělí a úterý 20. a 21. června 2016 od 10:00 do 20:00 hodin v příjemném prostředí Vinného baru Slámovka, Spálená 31, Praha 1, kde pro Vás bude připraveno několik druhů vína, včetně dalšího občerstvení a u některých produktů tematické překvapení.  
 Důležité informace:  
 Vinný bar Slámovka se nachází ve Spálené ulici na Národní třídě cca 100 metrů od tramvajové zastávky ve směru Karlovo náměstí.  
-Doprovod bude zajištěn od tramvajové zastávky Národní třída, nebo ze stanice metra Národní třída. Pro objednání doprovodu nebo jakýchkoliv dotazů pište na mail: [info@isymbio.cz](mailform.php?mail=info@isymbio.cz) nebo volejte na telefon 739 094 745.  
+Doprovod bude zajištěn od tramvajové zastávky Národní třída, nebo ze stanice metra Národní třída. Pro objednání doprovodu nebo jakýchkoliv dotazů pište na mail: [info@isymbio.cz](mailto:info@isymbio.cz) nebo volejte na telefon 739 094 745.  
 Ve dnech konání prezentace v případě potřeby doprovodu volejte na  
 telefon: 222 517 318.  
 Když se rozhodnete nás na prezentaci navštívit, budeme rádi za informaci o vaší účasti. Můžeme se tak lépe na vás připravit a nestane se, že by došlo občerstvení... :-).  
@@ -26,8 +26,8 @@ https://www.facebook.com/symbioos/
 nebo na webových stránkách:  
 www.isymbio.cz  
 a pozvánka ve formátu *pdf je zde:  
-[http://isymbio.cz/admin/upload/SYMBIO_Pozvanka.pdf](/soubory/SYMBIO_Pozvanka.pdf)  
+[http://isymbio.cz//soubory/SYMBIO_Pozvanka.pdf](/soubory/SYMBIO_Pozvanka.pdf)  
   
 Na setkání se těší Tomáš Franěk a kolektiv SYMBIO Access devices  
 Telefon: 739 094 745  
-E-mail: [info@isymbio.cz](mailform.php?mail=info@isymbio.cz)
+E-mail: [info@isymbio.cz](mailto:info@isymbio.cz)

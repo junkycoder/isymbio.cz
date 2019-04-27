@@ -22,6 +22,7 @@ Technické specifikace
 - 16 barevných kontrastních kombinací  
 - Napájení: Aku baterie (> 3 hod. provozu); síť.adaptér 120-240 V / 5V;2A.  
 - Rozměry (mm) a hmotnost: 137 x 88 x 23 ; 294 g.  
+
 [Uživatelská příručka Compact 4"HD](/soubory/Compact_4HD_manual.pdf)  
   
 
@@ -45,4 +46,5 @@ Technické specifikace
 - 16 barevných kontrastních kombinací  
 - Napájení: Aku baterie (> 3 hod. provozu); síť.adaptér 120-240 V / 5V;2A.  
 - Rozměry (mm) a hmotnost: 137 x 88 x 23 ; 294 g.  
-[Uživatelská příručka Compact 5 HD](/soubory/manual_Compact_5 _HD.pdf)
+
+[Uživatelská příručka Compact 5 HD](/soubory/manual_Compact_5%20_HD.pdf)

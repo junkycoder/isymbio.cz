@@ -8,9 +8,9 @@ Notebooky vybíráme vždy dle potřeb klienta (velikost displeje, váha, bez č
 Digitální zápisník je možné doplnit o [Braillské řádky Esys](/clanky/braillske-radky-esys/) , které převádějí elektronický text z obrazovky do bodového písma pro nevidomé.  
   
 Speciální programové vybavení digitálních zápisníků:  
-[Odečítací program JAWS](clanky.php?id=25)    
+[Odečítací program JAWS](/clanky/odecitaci-program-jaws/)    
 Hlasové syntézy HLAS, Zuzana nebo Iveta  
-nebo [Hlasový výstup Eliška InfoVox 4](clanky.php?id=26)  
+nebo [Hlasový výstup Eliška InfoVox 4](/clanky/hlasova-synteza-eliska/)  
   
 Standartní programové vybavení digitálních zápisníků:  
 Windows 10  

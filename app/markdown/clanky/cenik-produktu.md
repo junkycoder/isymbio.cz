@@ -89,7 +89,7 @@ SpotDot, tiskárna se soutiskem Braillu a barevného tisku - 151 000 Kč
 ## Hlasový výstup JAWS
 
   
-[Odečítací program JAWS](clanky.php?id=25)  
+[Odečítací program JAWS](/clanky/odecitaci-program-jaws/)  
 JAWS Home Edition - 50 000 Kč  
 SMA Upgrade o dvě verze 8 000 Kč  
 JAWS Professional Edition - 65 000 Kč  
@@ -126,7 +126,7 @@ ZoomText Zvětšovač s hlasovou podporou odečítače SMA UPG USB - 50 000 Kč
 1 hlas Kobaspeech 3 - 2 500 Kč  
 2 hlasy Kobaspeech 3 - 4 200 Kč  
 Každý další hlas Kobaspeech 3 - 1 300 Kč  
-[Hlasový výstup Eliška InfoVox 4](clanky.php?id=26)  
+[Hlasový výstup Eliška InfoVox 4](/clanky/hlasova-synteza-eliska/)  
 Eliška InfoVox - 12 000 Kč  
   
 

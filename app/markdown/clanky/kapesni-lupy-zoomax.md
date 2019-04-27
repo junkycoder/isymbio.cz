@@ -2,13 +2,13 @@
 title: Kapesní lupy Zoomax
 ---
 
-[![](admin/upload/Logo Zoomax.jpg)](/soubory/Logo Zoomax.jpg)  
+[![](/soubory/Logo%20Zoomax.jpg)](/soubory/Logo%20Zoomax.jpg)  
 Kapesní lupy od společnosti Zoomax jsou lupy, které díky kompaktním rozměrům mohou být kdykoliv při ruce.  
 Lupy mají vestavěný stojánek, který je v těle lup zapuštěný tak, že prakticky nepřekáží při přenášení a velmi jednoduše ho můžete vyklopit, když je potřeba. Kapesní lupy nejen, že vám umožní číst věci kdekoliv a kdykoliv, ale jsou vybaveny vestavěnou kamerou do dálky, kterou můžete využít, když potřebujete přečíst například ceduli nebo jakoukoli informaci, která není ve vaší bezprostřední blízkosti.  
 Vámi prohlíženou předlohu či věc, která je od Vás vzdálená, můžete jedním tlačítkem vyfotit a poté si jej v klidu prohlídnout, upravovat zobrazovací režim, či detailně zvětšit.  
 Lupy jsou vybaveny HDMI výstupem, takže lze připojit k jakémukoli jinému zobrazovacímu zařízení : TV, PC monitor.  
-[![](admin/upload/Snow7TV.JPG)](/soubory/Snow7TV.JPG)    
-[![](admin/upload/M5TV.JPG)](/soubory/M5TV.JPG)    
+[![](/soubory/Snow7TV.JPG)](/soubory/Snow7TV.JPG)    
+[![](/soubory/M5TV.JPG)](/soubory/M5TV.JPG)    
 Součástí kapesních lup Zoomax je nejen HDMI kabel, ale i praktické pouzdro včetně další odnímatelné rukojeti.  
 Kapesní lupy Zoomax jsou nabízeny i ve variantách:  
 - L - lupa + TV monitor 22"  
@@ -19,7 +19,7 @@ Kapesní lupy Zoomax jsou nabízeny i ve variantách:
 ## Zoomax M5"
 
   
-[![](admin/upload/M5text.JPG)](/soubory/M5text.JPG)  
+[![](/soubory/M5text.JPG)](/soubory/M5text.JPG)  
 - Zvětšení 2,3x – 16x  
 - Barevné zobrazení 10 kontrastních barevných zobrazení plus foto režim; tři oblíbená barevná zobrazení plus foto režim  
 - Displej 5“ TFT dotykový displej, rozlišení 1280x720p  
@@ -41,7 +41,7 @@ Parametry Zoomax M5"
 ## Zoomax Snow 7" HD
 
   
-[![](admin/upload/Snow7symbio.JPG)](/soubory/Snow7symbio.JPG)  
+[![](/soubory/Snow7symbio.JPG)](/soubory/Snow7symbio.JPG)  
 - Zvětšení 2,2x – 19x  
 - Barevné zobrazení 12 kontrastních barevných zobrazení plus foto režim; 10 režimů se zvýšeným kontrastem  
 - Displej 7"  

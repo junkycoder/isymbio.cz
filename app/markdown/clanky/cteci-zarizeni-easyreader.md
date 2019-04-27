@@ -2,9 +2,9 @@
 title: Čtecí zařízení EasyReader
 ---
 
-[![](admin/upload/ER2012_1.jpg)](/soubory/ER2012_1.jpg) [![](admin/upload/ER2012_2.jpg)](/soubory/ER2012_2.jpg) Čtecí přístroj EasyReader od belgické firmy [Koba Vision](http://www.kobavision.be/en) [![](admin/upload/koba v3.png)](/soubory/koba v3.png)  
+[![](/soubory/ER2012_1.jpg)](/soubory/ER2012_1.jpg) [![](/soubory/ER2012_2.jpg)](/soubory/ER2012_2.jpg) Čtecí přístroj EasyReader od belgické firmy [Koba Vision](http://www.kobavision.be/en) [![](/soubory/koba%20v3.png)](/soubory/koba%20v3.png)  
 je zařízení, které velmi rychle a přesně naskenuje a přečte texty například knihy, noviny, účty, faktury nebo příbalové letáky k lékům.  
-EasyReader je vybaven českou hlasovou sintézou [Eliška](http://www.symbio-ops.cz/clanky.php?id=26)  
+EasyReader je vybaven českou hlasovou sintézou [Eliška](/clanky/hlasova-synteza-eliska/)  
 od společnosti Acapela a českou hlasovou syntézou Zuzana včetně dalších jazyků a syntéz od společnosti Nuance pro čtení dokumentů v cizých jazycích.  
 Čtecí zařízení Easy Reader je jednoduché se snadno hmatnými, podsvícenými a nápovědou ozvučenými tlačítky, přičemž skener nabízí nejvyššímožné rozlišení.  
 Vestavěná baterie ( vydrží až 7 hodin ) a lehké opláštění umožňuje EasyReader využívat jako přenosné zařízení. Díky ideálnímu batohu, který je k EasyReader dodáván, je přístroj dobře sbalitelný a použitelný i na cestách. Vstup 3,5 Jack pro sluchátkazajišťuje soukromí při poslechu.  

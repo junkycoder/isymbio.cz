@@ -2,7 +2,7 @@
 title: Delta - běžný tisk
 ---
 
-[![](admin/upload/Delta.jpg)](/soubory/Delta.jpg)    
+[![](/soubory/Delta.jpg)](/soubory/Delta.jpg)    
 VP Delta je sestra braillské tiskárny VP Columbia s rozdílem tisku na běžný braillský papír.  
 VP Delta je braillská tiskárna nejen Braillova písma, ale i velmi kvalitní tiskárna reliéfní grafiky.  
 Díky možnosti rozlišení 100 DPI a 7 úrovní výšky grafiky lze vytisknout vámi vytvořený obrázek, který si i po delší době zachovává velmi dobrou kvalitu braillských bodů díky technologii VP Tiger.  

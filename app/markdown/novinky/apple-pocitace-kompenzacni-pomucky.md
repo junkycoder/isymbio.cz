@@ -9,21 +9,21 @@ Digitální zápisník
 - Digitální zvětšovací lupa  
   
 na které lze žádat příspěvek na zvláštní pomůcku u příslušného Úřadu práce.  
-[http://www.isymbio.cz/clanky.php?id=49](/clanky/apple-pocitace)  
+[odkaz na clanek zde](/clanky/apple-pocitace)  
 
 Počítače od společnosti Apple, které jsou stále oblíbenějšími zařízeními nejen mezi běžnými uživateli výpočetní techniky, ale i u zrakově postižených uživatelů.  
 Díky zpřístupnění samotného systému Mac OS, jehož součástí je hlasový výstup Voice Over, který je podobný jako JAWS nebo NVDA pro systémy Windows, a možnost zvětšování podobně jako jsou pro Windows Magic, ZoomText nebo SuperNova, můžete počítače Apple bez problému také ovládat.  
 Velká výhoda systému Mac OS je samotná součást právě zmiňovaných možností zpřístupnění podobně jako je u zařízení s iOS  
-[http://www.isymbio.cz/clanky.php?id=41]( /clanky/multifunkcni-elektronicka-komunikacni-pomucka)  
+[odkaz na clanek zde](/clanky/multifunkcni-elektronicka-komunikacni-pomucka)  
 takže odpadá nemalá finanční náročnost při pořizování kompenzačních pomůcek, kde se musí pořizovat speciální programové vybavení pro systém Windows.  
 Počítače Apple jsou díky svému operačnímu systému a hardwarovým konfiguracím naprosto dokonale optimalizovány pro ten nejlepší výkon a tak nedochází k nepříjemnému zamrznutí systému a práce s Macem je naprosto plynulá.  
 Díky širokému spektru počítačů a hardwarovým možnostem si každý uživatel najde svůj Mac, který mu bude plně vyhovovat.  
 
 Možnosti digitálních zápisníků, čtecích přístrojů nebo digitálních lup mohou být  
-[![](/soubory/MacBook Air.JPG)](/soubory/MacBook Air.JPG)  
+[![](/soubory/MacBook%20Air.JPG)](/soubory/MacBook%20Air.JPG)  
 MacBook AIR nebo parametrově lepší MacBook Pro jsou velmi kompaktní přenosné počítače v úhlopříčkách 13” nebo 15”. Další alternativou může být samotný MacBook o úhlopříčce 12,5”.  
 
-[![](/soubory/MacBook Pro.JPG)](/soubory/MacBook Pro.JPG)  
+[![](/soubory/MacBook%20Pro.JPG)](/soubory/MacBook%20Pro.JPG)  
 iMac může být alternativou Vašeho stolního počítače All-in-One (vše v jednom), kde veškeré komponenty jsou přímo v monitoru s možnostmi 21,5” a 27” úhlopříček.  
 
 Další alternativa stolního počítače může být Mac Pro, kde si další periferie můžete zvolit sami a připojíte k Macu vlasní monitor a další vstupní nebo výstupní zařízení.  
@@ -39,7 +39,7 @@ Microsoft Office a Abbyy fine reader je samozřejmostí.
 Dále lze do Macu nainstalovat i jako druhý systém Windows v případě, že máte strach z ostrého přechodu na Mac OS a kdykoli se můžete do něj přepnout po restartování Macu nebo lze použít program Parallels desktop což je virtualizační nástroj, který Vám umožní mít spuštěné oba systémy najednou.  
 Nezbytnou součástí pro pohodlnou práci je program NTFS Tuxera která do Mac OS přidá formát NTFS, který je běžný na discích a externích úložištích uživatelů, kteří pracují s Windows. Díky Tuxeře nebudete mít problém přenosu a zápisu souborů na úložiště.  
 V neposlední řadě je samozřejmá kompatibilita s běžně používanými braillskými řádky včetně námi dodávaných braillských řádku Esys  
-[http://www.isymbio.cz/clanky.php?id=30](/clanky/braillske-radky-esys)  
+[odkaz na clanek zde](/clanky/braillske-radky-esys)  
 
 Ovládání systému MAC OS je odlišné než na Windows, ale po chvíli používání si zvyknete a vyzdvihnete výhody Apple zařízení a jejich možností zpřístupnění.  
 Nemusí te se bát, že na to budete sami. V rámci předání pomůcek a zařízení Apple probíhá školení s produktem a jeho ovládání včetně ovládání hlasového výstupu Voice Over a možností zvětšování.  
