@@ -3,11 +3,11 @@ title: KNFB Reader Enterprise
 ---
 
 Aplikace KNFB Reader Enterprise  
-[![](/soubory/KNFB ikona.jpg)](/soubory/KNFB ikona.jpg)  
+[![](/soubory/KNFB%20ikona.jpg)](/soubory/KNFB%20ikona.jpg)  
 OCR čtečka dokumentů ve vašem chytrém telefonu.  
 KNFB Reader vám umožní přečíst vámi vyfocený text, ať už se jedná o poštovní zásilku, smlouvy, návody k použití a spousty dalších věcí, které běžně máte kolem sebe.  
 Podobně jako skenujete, tak můžete předlohu vyfotit. OCR ihned rozpozná text a zobrazí jej a může ihned předčítat v několika světových jazycích včetně češtiny, a to vše bez nutnosti připojení k internetu. Důležitá data a slovníky si totiž KNFB Reader Enterprise stáhne do telefonu při instalaci. Samotná instalace má pouze okolo 100 MB.  
-[![](/soubory/KNFB cteni.PNG)](/soubory/KNFB cteni.PNG)    
+[![](/soubory/KNFB%20cteni.PNG)](/soubory/KNFB%20cteni.PNG)    
 S vyfoceným a rozpoznaným textem můžete dále pracovat:  
 - V rámci dalších textových aplikací lze dokument formátovat  
 - Uložení vyfoceného a rozpoznaného dokumentu  
@@ -19,7 +19,7 @@ Funkce KNFB Reader Enterprise:
 - Orientace na šířku  
 - Automatický blesk  
 - Průzkumník souborů  
-[![](/soubory/KNFB pruzkumnik.PNG)](/soubory/KNFB pruzkumnik.PNG)    
+[![](/soubory/KNFB%20pruzkumnik.PNG)](/soubory/KNFB%20pruzkumnik.PNG)    
 - Nastavení automatického čtení  
 - Zvýraznění čtených slov  
 - Typ, velikost, barva textu  

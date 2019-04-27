@@ -14,7 +14,7 @@ Voice Over - Hlasový výstup pro nevidomé.
 Voice Over s vestavěnou hlasovou syntézou Zuzana vám pomocí dotykových gest umožní plně ovládat prostředí iPhone.  
 Zvětšení, podobné jako znáte například u programů v prostředí Windows je také samozřejmostí. 
 Díky zvětšení a pomocí pár jednoduchých tahů po displeji si můžete zvětšovat aktuální část, či celý displej. Lze také nastavit základní barevné schémata prostředí jako je pozitiv či negativ.  
-[![](/soubory/iPhone 6 Plus.JPG)](/soubory/iPhone 6 Plus.JPG)
+[![](/soubory/iPhone%206%20Plus.JPG)](/soubory/iPhone%206%20Plus.JPG)
 Velké množství aplikací v App store, které jsou také zpřístupněny zrakově postiženým a ovládání Voice Overem je samozřejmostí, vám umožní z iPhone udělat ještě více osobního kamaráda do kapsy.  
 Nejoblíbenější aplikace:
 Blind Square - Vyhledávač různých míst, restaurace, úřady, zastávky, hotely atd. Možnost číst a vkládat recenze u vyhledaných míst, volat přímo do vámi vyhledaného místa nebo se pomocí navigace nechat k němu dovést.  

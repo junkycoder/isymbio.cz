@@ -13,4 +13,4 @@ Využití programu Split Screen je podmíněno vybavením počítače speciáln�
   
 [Nastavení Split Screen](/soubory/priloha_1_vocatex_split_screen.pdf)  
 [WinPcap 4.1](/soubory/WinPcap_4_1_2.exe)  
-[Vocatex Video Stream Installer](/soubory/Vocatex Video Stream Installer v1.0.1.zip)
+[Vocatex Video Stream Installer](/soubory/Vocatex%20Video%20Stream%20Installer%20v1.0.1.zip)

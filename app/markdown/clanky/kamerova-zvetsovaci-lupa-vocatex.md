@@ -3,7 +3,7 @@ title: Kamerová zvětšovací lupa VOCATEX
 ---
 
 [![](/soubory/Vocatex.jpg)](/soubory/Vocatex.jpg)  
-Kamerová zvětšovací lupa "VOCATEX" je s dílny Belgické společnosti [Koba Vision](http://www.kobavision.be/en) [![](/soubory/koba v3.png)](/soubory/koba v3.png)  
+Kamerová zvětšovací lupa "VOCATEX" je s dílny Belgické společnosti [Koba Vision](http://www.kobavision.be/en) [![](/soubory/koba%20v3.png)](/soubory/koba%20v3.png)  
 Jednou z hlavních předností VOCATEX je jeho hlasový výstup a funkce čtení.  
 Pomocí OCR programu, který je jeho součástí si po stisknutí tlačítka můžete nechat přečíst text, který vidíte na obrazovce. Jednoduše si tak můžete nechat předčítat knihy, dokumenty, poštovní zásilky nebo noviny a nemusíte tak zbytečně namáhat váš zrak.  
 VOCATEX se skládá z FULL HD kamery a z LCD LED FULL HD monitoru.  

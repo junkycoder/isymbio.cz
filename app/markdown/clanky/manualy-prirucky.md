@@ -29,7 +29,7 @@ Zde naleznete všechny manuály a příručky ve formátu *pdf ke všem produkt�
 
   
 [Uživatelská příručka Compact 4](/soubory/Compact_4HD_manual.pdf)    
-[Uživatelská příručka Compact 5 HD](/soubory/manual_Compact_5 _HD.pdf)  
+[Uživatelská příručka Compact 5 HD](/soubory/manual_Compact_5%20_HD.pdf)  
   
 
 ## Braillské řádky (displeje) Esys
@@ -43,18 +43,18 @@ Zde naleznete všechny manuály a příručky ve formátu *pdf ke všem produkt�
   
 [Snow 7](/soubory/Snow_7_HD_manual.pdf)    
 [M5](/soubory/M5_manual.pdf)  
-[Zoomax Snow 7"Plus Text to speech](/soubory/ZooMax Snow7Plus Text to speech.pdf)    
-[M5 Plus](/soubory/Zoomax M 5 Plus manual.pdf)    
+[Zoomax Snow 7"Plus Text to speech](/soubory/ZooMax%20Snow7Plus%20Text%20to%20speech.pdf)    
+[M5 Plus](/soubory/Zoomax%20M%205%20Plus%20manual.pdf)    
   
 
 ## Apple iPhone / iPad / Watch
 
   
-[Začínáme s iPhone nebo iPad](/soubory/Prvni spusteni gesta pro ovladani iOS1.pdf)  
+[Začínáme s iPhone nebo iPad](/soubory/Prvni%20spusteni%20gesta%20pro%20ovladani%20iOS1.pdf)  
   
 
 ## Speciální programové vybavení
 
   
-[Super Nova 16, klávesové zkratky](/soubory/Supernova 16 - zkratky.pdf)    
-[ZoomText 11, klávesové zkratky](/soubory/ZoomText 11 - zkratky.pdf)
+[Super Nova 16, klávesové zkratky](/soubory/Supernova%2016%20-%20zkratky.pdf)    
+[ZoomText 11, klávesové zkratky](/soubory/ZoomText%2011%20-%20zkratky.pdf)
