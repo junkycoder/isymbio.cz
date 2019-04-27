@@ -4,7 +4,7 @@ date: 2017-07-03
 ---
 
 Vážení přátelé,  
-  
+
 Poslanecká sněmovna dnes schválila návrh zákona kterým se mění zákon č. 329/ 2011 Sb., o poskytování dávek osobám se zdravotním postižením. Návrh byl podán v září 2016. Poté probíhaly konzultace s MPSV ČR, kde poslanci významně pomohli s prosazením jednotlivých změn.  
   
 Poslanecký návrh vycházel z podkladů samotných uživatelů a přináší tyto zásadní změny, týkající se příspěvků na zvláštní pomůcky:  

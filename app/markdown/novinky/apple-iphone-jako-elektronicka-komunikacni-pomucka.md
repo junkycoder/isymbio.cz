@@ -3,8 +3,8 @@ title: APPLE iPhone jako elektronická komunikační pomůcka
 date: 2016-02-19
 ---
 
-[![](/soubory/iPhone 6.JPG)](/soubory/iPhone 6.JPG)
-[![](/soubory/printscreen iPhone 6.PNG)](/soubory/printscreen iPhone 6.PNG)
+[![](/soubory/iPhone%206.JPG)](/soubory/iPhone%206.JPG)
+[![](/soubory/printscreen%20iPhone%206.PNG)](/soubory/printscreen%20iPhone%206.PNG)
 iPhone jako elektronická komunikační pomůcka pro nevidomé.  
 Chytré mobilní telefony od společnosti APPLE se více a více řadí mezi nejoblíbenější zařízení, které využívají těžce zrakově postižení.  
 Díky výbornému zpřístupnění právě pro lidi s těžkým zrakovým handicapem můžete iPhone využívat nejen pro běžné telefonování či psaní textových zpráv, ale bez problému lze využívat pokročilé funkce jako psát e-maily, využívat navigaci, fotografovat, surfovat na internetu a podobně.  
