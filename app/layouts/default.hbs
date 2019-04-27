@@ -66,11 +66,15 @@
                 var navigation = document.querySelector('#navigation');
 
                 navigation.addEventListener('change', function (e) {
-                    location.href = e.target.value
+                    location.href = e.target.value;
                 });
 
-                navigation.value = location.pathname;
-            })()
+                var isLocationInNavigation = !!navigation.querySelector('[value="' + location.pathname + '"]');
+
+                if (isLocationInNavigation) {
+                    navigation.value = location.pathname;
+                }
+            })();
         </script>
         <hr />
         <div class="basic-contact" aria-label="Základní kontakty">
