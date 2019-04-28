@@ -1,7 +1,7 @@
 {
-    "source": "markdown",
+    "source": "src",
     "destination": "../web",
-    "clean": false,
+    "clean": true,
     "plugins": {
         "metalsmith-collections": {
             "news": {
@@ -12,7 +12,8 @@
         },
         "metalsmith-markdown": true,
         "metalsmith-permalinks": {
-            "pattern": ":type/:name"
+            "pattern": ":type/:name.html",
+            "relative": false
         },
         "metalsmith-pagination": {
             "collections.news": {
@@ -30,7 +31,8 @@
         },
         "metalsmith-layouts": {
             "default": "default.hbs",
-            "engine": "handlebars"
+            "engine": "handlebars",
+            "pattern": "**/*.html"
         }
     }
 }

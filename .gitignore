@@ -61,9 +61,7 @@ typings/
 .next
 
 # Generated static website
-#  ignore just generated content
-web/**/*.html
-web/assets/
+web/
 
 # Temporary dir
 tmp/
