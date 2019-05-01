@@ -147,7 +147,7 @@ body.invert-colors .toolbox__button.is-on svg g {
 body {
     display: flex;
     max-width: 82em;
-    margin: 0px auto;
+    margin: 0.8rem auto;
     flex-direction: column;
     padding: 8px;
 }
