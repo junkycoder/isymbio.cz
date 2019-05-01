@@ -146,8 +146,11 @@
             {{!-- Pagination si used only for news, so other pages will now show following block --}}
             {{#each pagination.files}}
                 <section>
-                    <h2><a href="/{{ this.path }}">{{this.title}}</a></h2>
-                    <p>{{{ content-perex this.contents }}}</p>
+                    <h2><a href="/{{ this.path }}">{{this.title}}</a> (<em>{{ article-date date }}</em>)</h2>
+                    {{!-- <div class="post-meta">
+                        <strong><em>{{ article-date date }}</em></strong>
+                    </div> --}}
+                    <p>{{{ article-perex this.contents }}}</p>
                 </section>
             {{/each}}
             </ul>
