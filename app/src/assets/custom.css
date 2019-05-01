@@ -48,7 +48,7 @@ body.invert-colors {
 }
 
 a {
-    color: #cb6d1b;
+    color: #aa5d00;
     transition: color 0.2s ease;
 }
 
@@ -84,7 +84,7 @@ header svg g path {
 }
 
 header svg:hover g path {
-    fill: #cb6d1b !important;
+    fill: #aa5d00 !important;
 }
 
 body.invert-colors header svg g path {
@@ -100,7 +100,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #cb6d1b;
+    background-color: #aa5d00;
     color: #fcfcfc;
 }
 
@@ -135,7 +135,7 @@ body.invert-colors .toolbox__button svg g {
 }
 
 .toolbox__button.is-on svg g {
-    fill: #cb6d1b;
+    fill: #aa5d00;
 }
 
 body.invert-colors .toolbox__button.is-on svg g {
