@@ -29,6 +29,9 @@
         "metalsmith-register-helpers": {
             "directory": "helpers"
         },
+        "metalsmith-fingerprint-ignore": {
+            "pattern": "assets/*.css"
+        },
         "metalsmith-layouts": {
             "default": "default.hbs",
             "engine": "handlebars",
