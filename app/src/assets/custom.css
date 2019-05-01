@@ -54,6 +54,7 @@ h2,
 h3 {
     color: #333;
     transition: color 0.2s ease;
+    line-height: 1.6;
 }
 
 body.invert-colors h1,
