@@ -155,7 +155,7 @@
             {{!-- Pagination si used only for news, so other pages will now show following block --}}
             {{#each pagination.files}}
                 <section>
-                    <h2><a href="/{{ this.path }}">{{this.title}}</a> (<em>{{ article-date date }}</em>)</h2>
+                    <h2><a href="/{{ this.path }}">{{this.title}}</a> <em class="article-date">({{ article-date date }})</em></h2>
                     <p>{{{ article-perex this.contents }}}</p>
                 </section>
             {{/each}}

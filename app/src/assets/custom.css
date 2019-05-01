@@ -30,6 +30,10 @@ article img {
     line-height: 1.6;
 }
 
+.article-date {
+    white-space: nowrap;
+}
+
 /* Colors */
 
 body {
