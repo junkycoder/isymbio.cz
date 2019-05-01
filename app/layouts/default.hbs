@@ -20,9 +20,17 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content="/assets/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-</head>
 
+</head>
 <body>
+    <script>
+        if (localStorage.getItem('accessibility-invert')) {
+            document.body.classList.add('invert-colors');
+        }
+        if (localStorage.getItem('accessibility-zoom')) {
+            document.body.classList.add('zoom-font-size');
+        }
+    </script>
     <header>
         <h1>
             Symbio Access devices - PC a Kompenzační pomůcky pro zrakově postižené
@@ -124,11 +132,9 @@
                         var zoomButton = document.querySelector('#toggle-zoom-font');
 
                         if (localStorage.getItem('accessibility-invert')) {
-                            document.body.classList.add('invert-colors');
                             invertButton.classList.add('is-on');
                         }
                         if (localStorage.getItem('accessibility-zoom')) {
-                            document.body.classList.add('zoom-font-size');
                             zoomButton.classList.add('is-on');
                         }
 
