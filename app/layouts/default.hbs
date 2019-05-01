@@ -94,9 +94,12 @@
         </div>
         <div class="show-on-desktop">
             <hr />
-            <div class="facebook-friends">
-                <iframe title="Facebook stránka" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsymbioos&amp;width=280&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;appId=166045326799670" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-            </div>
+            <div id="lazy-facebook-iframe" class="facebook-friends"></div>
+            <script>
+                setTimeout(function () {
+                    document.getElementById('lazy-facebook-iframe').innerHTML = '<iframe title="Facebook stránka" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsymbioos&amp;width=280&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;appId=166045326799670" scrolling="no" frameborder="0" allowtransparency="true"></iframe>';
+                }, 50);
+            </script>
         </div>
     </header>
     <main>
