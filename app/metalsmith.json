@@ -1,6 +1,6 @@
 {
     "source": "src",
-    "destination": "../web",
+    "destination": "../docs",
     "clean": true,
     "plugins": {
         "metalsmith-collections": {
