@@ -169,7 +169,16 @@ header h1 {
 
 header hr {
     margin: 1rem 2rem;
+    width: 280px;
 }
+
+@media screen and (max-width: 840px) {
+    header hr {
+        margin: 1rem 0.5rem;
+        width: inherit;
+    }
+}
+
 
 .logo-link {
     display: block;
@@ -298,4 +307,26 @@ nav a:hover {
         margin-left: 1rem;
         margin-right: 0;
     }
+}
+
+.show-on-desktop {
+    display: none;
+}
+
+@media only screen and (min-width: 840px) {
+    .show-on-desktop {
+        display: block;
+    }
+}
+
+.facebook-friends {
+    box-sizing: content-box;
+    padding: 1rem 2rem;
+    height: 320px;
+    width: 280px;
+    text-align: center
+}
+
+.facebook-friends iframe {
+    height: 100%;
 }
