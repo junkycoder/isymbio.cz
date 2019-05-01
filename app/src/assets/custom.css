@@ -237,10 +237,10 @@ nav.desktop-navigation {
 }
 
 article h2 {
-    margin-top: 2em;
+    /* margin-top: 2em; */
 }
 article h3 {
-    margin-top: 1em;
+    /* margin-top: 1em; */
 }
 
 @media only screen and (min-width: 420px) {
