@@ -2,13 +2,14 @@ const FtpDeploy = require('ftp-deploy');
 const ftpDeploy = new FtpDeploy();
 
 const config = {
-    username: process.env.FTPUSERNAME,
+    user: process.env.FTPUSERNAME,
     password: process.env.FTPPASS,
     host: process.env.FTPHOST,
     port: 21,
     localRoot: __dirname + '/../web/',
-    remoteRoot: '/beta/',
+    remoteRoot: '/subdomains/beta/',
     include: ['*'],
+    forcePasv: true,
 };
 
 ftpDeploy.deploy(config, error => {
