@@ -14,7 +14,7 @@ const config = {
 ftpDeploy.deploy(config, error => {
     if (error) {
         console.log('error', error);
-        process.exit(0);
+        process.exit(1);
     } else {
         console.log('finished');
     }
