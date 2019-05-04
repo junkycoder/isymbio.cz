@@ -6,6 +6,6 @@ node_modules: package.json
 
 local:
 	open http://localhost:6969/
-	pushd ../web; python -m SimpleHTTPServer 6969; popd
+	pushd ./web; python -m SimpleHTTPServer 6969; popd
 
-.PHONY: generate
+.PHONY: web
