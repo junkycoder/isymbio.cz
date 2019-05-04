@@ -25,6 +25,11 @@ article img {
     width: 320px;
 }
 
+article p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
 .zoom-font-size article {
     font-size: 24px;
     line-height: 1.6;
@@ -241,6 +246,9 @@ article h2 {
 }
 article h3 {
     /* margin-top: 1em; */
+}
+article h4 {
+    margin-bottom: 0.2rem;
 }
 
 @media only screen and (min-width: 420px) {
