@@ -12,6 +12,10 @@ const config = {
 };
 
 ftpDeploy.deploy(config, error => {
-    if (error) console.log('error', error);
-    else console.log('finished');
+    if (error) {
+        console.log('error', error);
+        process.exit(0);
+    } else {
+        console.log('finished');
+    }
 });
