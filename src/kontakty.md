@@ -46,4 +46,4 @@ Naše kancelář je v 2. podlaží kancelářské budovy OC Merkaz,
 která je vzdálená 50 metrů od autobusové zastávky U Kunratického lesa.  
 
 BUS 177 4 minuty jízdy ze stanice Metra Chodov nebo Opatov  
-BUS 203 5 minut ze stanice Roztyly.  
+BUS 203 5 minut ze stanice Roztyly..
