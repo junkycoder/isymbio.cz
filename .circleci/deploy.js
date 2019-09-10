@@ -7,7 +7,7 @@ const config = {
     host: process.env.FTPHOST,
     port: 21,
     localRoot: __dirname + '/../web/',
-    remoteRoot: '/subdomains/beta/',
+    remoteRoot: '/subdomains/www/',
     include: ['*'],
     forcePasv: true,
 };
