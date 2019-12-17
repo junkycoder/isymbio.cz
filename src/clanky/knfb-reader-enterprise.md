@@ -37,7 +37,7 @@ KNFB Reader Enterprise je pro dvě zařízení
 iOS nebo ANDROID  
 Aktivace probíhá pomocí unikátního odkazu a aktivačního kódu, kde uživatel projde jednoduchou registrací.  
 Po úspěšné registraci je potřeba z App Store nebo Google Play stáhnout aplikaci "KNFB Reader Enterprise" a po stažení vyplnit přihlašovací údaje, které si uživatel zvolil při registraci. Zařízení lze měnit, ale před aktivací jiného je třeba přímo v aplikaci stávající zařízení odebrat.  
-Cena KNFB Reader Enterprise 2 990 Kč včetně DPH.  
+Cena KNFB Reader Enterprise 2 490 Kč včetně DPH.  
 Aplikaci lze pořídit jako součást zvláštní pomůcky Elektronické komunikační nebo orientační zařízení pro nevidomé.  
 Aplikace je také vhodná pro všechny slabozraké nebo pro lidi, kteří mají se čtením jakékoli jiné problémy.  
 Díky všem výše popsaným funkcím může KNFB Reader sloužit jako skvělí a užitečný doplněk při práci s dokumenty a být jako součást vaší kanceláře.  
