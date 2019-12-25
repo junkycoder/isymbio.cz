@@ -134,6 +134,6 @@ Eliška InfoVox - 12 000 Kč
 
   
 [KNFB Reader Enterprise](/clanky/knfb-reader-enterprise/)  
-KNFB Reader Enterprise - 2 990 Kč  
+KNFB Reader Enterprise - 2 490 Kč  
 Blind Square včetně instalace a zaškolení - 1 500 Kč  
-Voice Dream reader, iDos, Text Grabber, MBraille – na vyžádání
+Voice Dream reader nebo scaner,iDos, Text Grabber, MBraille – na vyžádání
