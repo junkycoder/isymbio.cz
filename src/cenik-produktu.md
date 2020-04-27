@@ -76,7 +76,7 @@ Nožní pedál - 2 500 Kč
 
   
 [Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
-EmBraille, kompaktní tiskárna s možností tisku na normální papír nebo traktorový podavač - 39 000 Kč  
+EmBraille, kompaktní tiskárna s možností tisku na normální papír nebo traktorový podavač - 44 000 Kč  
 Columbia, traktorový tisk - 89 000 Kč  
 Delta, tisk na normální papír - 99 000 Kč  
 SpotDot, tiskárna se soutiskem Braillu a barevného tisku - 151 000 Kč  
