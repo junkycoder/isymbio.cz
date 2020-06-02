@@ -14,14 +14,14 @@ Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme ve
 
   
 [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
-Vocatex Standard 22" - 105 900 Kč  
-Vocatex Standard 28" - 110 900 Kč  
-Vocatex Standard 32" - 114 900 Kč  
-Vocatex Standard 40" - 118 900 Kč  
-Vocatex Plus 22"- 119 900 Kč  
-Vocatex Plus 28" - 124 900 Kč  
-Vocatex Plus 32" - 128 900 Kč  
-Vocatex Plus 40" - 132 900 Kč  
+Vocatex Standard 22" - 109 900 Kč  
+Vocatex Standard 28" - 115 900 Kč  
+Vocatex Standard 32" - 119 900 Kč  
+Vocatex Standard 40" - 123 900 Kč  
+Vocatex Plus 22"- 124 900 Kč  
+Vocatex Plus 28" - 129 900 Kč  
+Vocatex Plus 32" - 133 900 Kč  
+Vocatex Plus 40" - 137 900 Kč  
   
 
 ## Kapesní kamerové lupy Zoomax
@@ -76,10 +76,10 @@ Nožní pedál - 2 500 Kč
 
   
 [Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
-EmBraille, kompaktní tiskárna s možností tisku na normální papír nebo traktorový podavač - 39 000 Kč  
-Columbia, traktorový tisk - 89 000 Kč  
-Delta, tisk na normální papír - 99 000 Kč  
-SpotDot, tiskárna se soutiskem Braillu a barevného tisku - 151 000 Kč  
+EmBraille, kompaktní tiskárna s možností tisku na normální papír nebo traktorový podavač - 49 000 Kč  
+Columbia, traktorový tisk - 99 000 Kč  
+Delta, tisk na normální papír - 109 000 Kč  
+SpotDot, tiskárna se soutiskem Braillu a barevného tisku - 159 000 Kč  
   
 
 ## Programové vybavení / speciální software pro zrakově postižené

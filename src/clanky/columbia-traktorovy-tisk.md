@@ -25,4 +25,3 @@ Obsluha tiskárny je velmi snadná. Na těle jsou pouze čtyři hmatná tlačít
 - Váha 9 Kg  
 - Připojení USB, LAN  
 - Podpora Windows 7, 8, 8.1, 10  
-- Cena 89 000 Kč

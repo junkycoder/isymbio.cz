@@ -24,4 +24,3 @@ Při instalaci se nahrají potřebné soubory a doplňky do MS Office, kde jedno
 - Váha 5 Kg  
 - Připojení USB  
 - Podpora Windows 7, 8, 8.1, 10  
-- Cena 39 000 Kč
