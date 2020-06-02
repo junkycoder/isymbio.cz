@@ -95,15 +95,6 @@ SMA Upgrade o dvě verze 10 000 Kč
 JAWS Professional Edition - 69 000 Kč  
 SMA Upgrade o dvě verze - 15 000 Kč  
   
-
-## SuperNova
-
-  
-[Zvětšovací a odečítací program SuperNova](/clanky/zvetsovaci-a-odecitaci-program-supernova/)  
-SuperNova zvětšovač SMA 2 UPG - 25 300 Kč  
-SuperNova Zvětšovač s hlasovou podporou SMA 2 UPG - 33 900 Kč  
-SuperNova Zvětšovač a odečítač SMA 2 UPG - 56 000 Kč  
-SuperNova Zvětšovač a odečítač USB SMA 2 UPG - 59 000 Kč  
   
 
 ## ZoomText
