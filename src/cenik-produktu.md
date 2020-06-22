@@ -15,13 +15,13 @@ Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme ve
   
 [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
 Vocatex Standard 22" - 109 900 Kč  
-Vocatex Standard 28" - 115 900 Kč  
+Vocatex Standard 27" - 115 900 Kč  
 Vocatex Standard 32" - 119 900 Kč  
-Vocatex Standard 40" - 123 900 Kč  
+Vocatex Standard 43" - 123 900 Kč  
 Vocatex Plus 22"- 124 900 Kč  
-Vocatex Plus 28" - 129 900 Kč  
+Vocatex Plus 27" - 129 900 Kč  
 Vocatex Plus 32" - 133 900 Kč  
-Vocatex Plus 40" - 137 900 Kč  
+Vocatex Plus 43" - 137 900 Kč  
   
 
 ## Kapesní kamerové lupy Zoomax
