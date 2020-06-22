@@ -6,10 +6,11 @@ title: Kamerová zvětšovací lupa VOCATEX
 Kamerová zvětšovací lupa "VOCATEX" je s dílny Belgické společnosti [Koba Vision](http://www.kobavision.be/en) [![](/soubory/koba%20v3.png)](/soubory/koba%20v3.png)  
 Jednou z hlavních předností VOCATEX je jeho hlasový výstup a funkce čtení.  
 Pomocí OCR programu, který je jeho součástí si po stisknutí tlačítka můžete nechat přečíst text, který vidíte na obrazovce. Jednoduše si tak můžete nechat předčítat knihy, dokumenty, poštovní zásilky nebo noviny a nemusíte tak zbytečně namáhat váš zrak.  
-VOCATEX se skládá z FULL HD kamery a z LCD LED FULL HD monitoru.  
+VOCATEX se skládá z kamery a z LED 4K monitoru.  
 Dle vašeho zrakového postižení je možné zvolit velikost monitoru  
-22", 28", 32" a dokonce i 37".  
+22", 27", 32" a  43".  
 Ergonomie monitoru Vám umožní nastavení výšky a sklopení ještě pro pohodlnější práci.  
+Lze také připojit jakýkoli monitor nebo TV s HDMI vstupem, kterou máte doma.
 Práce s VOCATEX je velmi jednoduchá. Na posuvný čtecí stolek, který je pod kamerou, položíte text a hned jej vidíte na monitoru, který je umístěn nad kamerou.  
 Před spodní částí monitoru je umístěn ovládací panel, který má podsvícená a velmi dobře hmatná tlačítka.  
 VOCATEX je vybaven různými funkcemi pro zobrazování textů.  
@@ -17,7 +18,7 @@ Včetně standartního reálného režimu zde samozřejmě nechybí funkce
 pozitiv / negativ s možností dalších barevných nebo zvýrazňovacích možností.  
 Pro práci s textem a hlasovým odečítáním je VOCATEX samozřejmě vybaven 3,5 sluchátkovým vstupem pro práci v kolektivu.  
 VOCATEX je vybaven VGA a HDMI vstupy, můžete tak VOCATEX připojit k vašemu PC či notebooku. Ve školách se dá VOCATEX připojit k projektorům či elektronickým tabulím.  
-VOCATEX je lokalizován do českého jazyka.  
+Vocatex pracuje s programem ZoomText od verze 2019, lze tedy rozdělit obrazovku několika způsoby a to jak na lupě tak na vašem PC.
   
 
 ## Zobrazovací funkce VOCATEX:
@@ -27,6 +28,7 @@ VOCATEX je lokalizován do českého jazyka.
 - Čtecí linka  
 - Čtecí rámeček  
 - Čtecí okno (Tikr)  
+- Zvýrazněný výřez pro ještě větší text, který si sami nebo jeho část určíte
 - Funkce fotorežim / pozitiv / negativ  
 - Auto fokus  
 - Nastavení pozadí  
@@ -39,7 +41,8 @@ VOCATEX je lokalizován do českého jazyka.
 - České hlasové syntézy Eliška a Zuzana  
 - Více než 30 dalších jazyků na výběr  
 - Více než 60 hlasových syntéz  
-- Režim sloupcového čtení- Automatické rozpoznání jazyka  
+- Režim sloupcového čtení
+- Automatické rozpoznání jazyka  
 - Nastavení hlasitosti a rychlosti čtení  
 - Aktualizace slova ve čtecím rámečku  
 - Nepřetržité čtení  
@@ -54,7 +57,3 @@ Verze Standard nabízí z funkcí pro čtení režimy fotorežim / pozitiv / neg
 barevné kombinace a funkce pro režim sloupce.  
 Ve verzi Vocatex Plus je od roku 2015 zahrnuta i možnost rozdělení obrazovky pomocí funkce  
 [Vocatex Split Screen](/clanky/vocatex-split-screen/)  
-
-### Uživatelské příručky ke stažení:
-
-[Manual Vocatex](/soubory/uzivatelska_prirucka_Vocatex.pdf) [Manual Vocatex obrazovka](/soubory/uzivatelska_prirucka_Vocatex_obrazovka.pdf)
