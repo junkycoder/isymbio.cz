@@ -24,10 +24,14 @@ Vocatex Plus 32" - 133 900 Kč
 Vocatex Plus 43" - 137 900 Kč  
   
 
+## Digitální čtecí kamera OrCam
+
+[OrCam Myey 2](/clanky/orcam-myeye-2/)
+OrCam Myey 2 - 134 550 Kč
 ## Kapesní kamerové lupy Zoomax
 
   
-[Kapesní lupy Zoomax](/clanky/kapesni-lupy-zoomax/)  
+[Kapesní lupy Zoomax/clanky/kapesni-lupy-zoomax/)  
 Zoomax M5" - 21 000 Kč  
 Zoomax M5" L - 23 000 Kč  
 Zoomax M5" XL - 25 000 Kč  
