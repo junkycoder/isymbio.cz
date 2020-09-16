@@ -346,3 +346,14 @@ nav a:hover {
 .facebook-friends iframe {
     height: 100%;
 }
+
+/* Embedded content like youtube  */
+iframe {
+    width: 100%;
+    height: 360px;
+}
+@media only screen and (min-width: 1024px) {
+    iframe {
+        height: 480px;
+    }
+}
