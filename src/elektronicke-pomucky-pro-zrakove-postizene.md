@@ -28,6 +28,7 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
 [Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
 [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
+[OrCam MyEye 2](/clanky/orcam-myeye-2/)
 [Čtecí zařízení EasyReader](/clanky/cteci-zarizeni-easyreader/)  
 [Kapesní kamerové lupy](/clanky/kapesni-kamerove-lupy/)  
 [Speciální programové vybavení](/clanky/specialni-programove-vybaveni/)
