@@ -9,7 +9,6 @@ Zde naleznete všechny manuály a příručky ve formátu *pdf ke všem produkt�
 
   
 [Manual Vocatex](/soubory/uzivatelska_prirucka_Vocatex.pdf)  
-[Manual Vocatex obrazovka](/soubory/uzivatelska_prirucka_Vocatex_obrazovka.pdf)  
   
 
 ## Čtečka dokumentů Easy Reader
