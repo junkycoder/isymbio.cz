@@ -5,8 +5,11 @@ title: Manuály / Příručky
 Zde naleznete všechny manuály a příručky ve formátu *pdf ke všem produktům.  
   
 
-## Kamerová zvětšovací lupa Vocatex s hlasovým výstupem
+  
+## Digitální čtecí kamera OrCam MyEye 2  
+[Uživatelská příručka OrCam MyEye 2](/soubory/orcam-manual-8.2-cz.pdf)  
 
+## Kamerová zvětšovací lupa Vocatex s hlasovým výstupem
   
 [Manual Vocatex](/soubory/uzivatelska_prirucka_Vocatex.pdf)  
   
