@@ -25,7 +25,7 @@ V reálném čase umí OrCam rozpoznat obličeje a předměty, které si sami dl
 Sami si namluvíte jméno osoby nebo název předmětu, či jejich popis.
 
 ## Určení barev
-Ukážete-li na nějaké místo, povrch , předmět a prst tam podržíte, obratem se dozvíte jejich barvu.
+Ukážete-li na nějaké místo, povrch, předmět, a prst tam podržíte, obratem se dozvíte jejich barvu.
 
 ## Datum a čas
 Opět jednoduchým gestem, podobně jako když se díváte  na hodinky, zjistíte aktuální čas a datum.
@@ -46,3 +46,4 @@ Lze ale pochopitelně OrCam využít jako doplněk i k dioptrickým brýlím neb
 - Váha 22,5 g
 
 Součástí dodávky kromě samotné kamery OrCam MyEye 2 jsou základní nedioptrické brýle,  ochranné pouzdro, tři magnetické držáčky na další brýle, magnetický napájecí kabel s nabíječkou, příručka v černotisku nebo v braillu v češtině a šňůrka na krk.
+Dále lze s kamerou pořídit bluetoth sluchátka pro zachování soukromí a power banka pro nabítí OrCam kdykoliv a kdekoliv.
