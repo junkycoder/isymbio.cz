@@ -2,8 +2,9 @@
 title: OrCam MyEye 2
 ---
 
+[![](/soubory/orcam-logo.jpg)](/soubory/orcam-logo.jpg
 [![](/soubory/orcam-kamera.jpg)](/soubory/orcam-kamera.jpg)    
-
+)    
 Čtecí kamera OrCam MyEye 2 je novodobé revoluční zařízení pro těžce zrakově postižené, pro lidi se zbytky zraku, ale jeho přednosti využijí i lidé úplně nevidomý.
 Malinká kamera a umělá inteligence v miniaturním zařízení, které je vybaveno hlasovým výstupem vám přečte text, rozpozná bankovky, obličeje nebo předměty.
 
