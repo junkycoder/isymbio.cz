@@ -46,4 +46,7 @@ Lze ale pochopitelně OrCam využít jako doplněk i k dioptrickým brýlím neb
 - Váha 22,5 g
 
 Součástí dodávky kromě samotné kamery OrCam MyEye 2 jsou základní nedioptrické brýle,  ochranné pouzdro, tři magnetické držáčky na další brýle, magnetický napájecí kabel s nabíječkou, příručka v černotisku nebo v braillu v češtině a šňůrka na krk.
-Dále lze s kamerou pořídit bluetoth sluchátka pro zachování soukromí a power banka pro nabítí OrCam kdykoliv a kdekoliv.
+Dále lze s kamerou pořídit bluetoth sluchátka pro zachování soukromí a power banka pro nabítí OrCam kdykoliv a kdekoliv.  
+
+##### Příspěvek na OrCam MyEye 2  
+Dle ustanovení lze na tuto pomůcku v příloze vyhlášky neuvedenou  nahlížet z hlediska jejího využití jako srovnatelnou a využitelnou s jinými typy a druhy zvláštních pomůcek v příloze vyhlášky uvedené
