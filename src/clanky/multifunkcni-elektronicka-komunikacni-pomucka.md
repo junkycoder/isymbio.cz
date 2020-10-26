@@ -1,8 +1,6 @@
 ---
 title: Multifunkční elektronická komunikační pomůcka
 ---
-# Multifunkční elektronická komunikační pomůcka
-
 [![](/soubory/iPhone%206.JPG)](/soubory/iPhone%206.JPG)    
 [![](/soubory/printscreen%20iPhone%206.PNG)](/soubory/printscreen%20iPhone%206.PNG)    
 
