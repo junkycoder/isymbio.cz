@@ -101,19 +101,15 @@ SMA Upgrade o dvě verze - 15 000 Kč
   
   
 
-## ZoomText
+## ZoomText  
 
+(aktuální ceník programu ZoomText zajistí podporu min. 5 let)
+ZoomText Zvětšovač včetně 4x UPG - 22 000 Kč
+ZoomText Zvětšovač a odečítač včetně 4x UPG - 31 000 Kč
+UPG 4x ZoomText Zvětšovač - 19 0000 Kč
+UPG 4x ZoomText Zvětšovač a odečítač - 28 000 Kč 
   
-ZoomText Zvětšovač obrazovky - 20 500 Kč  
-ZoomText Zvětšovač obrazovky USB - 25 500 Kč  
-ZoomText Zvětšovač s hlasovou podporou odečítače - 28 900 Kč  
-ZoomText Zvětšovač s hlasovou podporou odečítače USB - 34 100 Kč  
-ZoomText Zvětšovač SMA UPG - 24 800 Kč  
-ZoomText Zvětšovač SMA UPG USB - 38 400 Kč  
-ZoomText Zvětšovač s hlasovou podporou odečítače SMA UPG - 34 700 Kč  
-ZoomText Zvětšovač s hlasovou podporou odečítače SMA UPG USB - 50 000 Kč  
   
-
 ## Hlasové syntézy
 
   

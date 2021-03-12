@@ -2,7 +2,7 @@
 title: Apple počítače
 ---
 
-## MacBook, MacBook Pro, MacBook AIR, iMac, Mac Pro nebo Mac mini jako Vaše kompenzační pomůcka
+## MacBook AIR, MacBook Pro, iMac, Mac Pro nebo Mac mini jako Vaše kompenzační pomůcka
 
   
 Digitální zápisník  
@@ -16,10 +16,9 @@ Počítače Apple jsou díky svému operačnímu systému a hardwarovým konfigu
 Díky širokému spektru počítačů a hardwarovým možnostem si každý uživatel najde svůj Mac, který mu bude plně vyhovovat.  
 Možnosti digitálních zápisníků, čtecích přístrojů nebo digitálních lup mohou být  
 [![](/soubory/MacBook%20Air.JPG)](/soubory/MacBook%20Air.JPG)  
-MacBook AIR nebo parametrově lepší MacBook Pro jsou velmi kompaktní přenosné počítače v úhlopříčkách 13” nebo 15”. Další alternativou může být samotný MacBook o úhlopříčce 12,5”.  
+MacBook AIR nebo parametrově lepší MacBook Pro jsou velmi kompaktní přenosné počítače v úhlopříčkách 13” nebo 16".  
 [![](/soubory/MacBook%20Pro.JPG)](/soubory/MacBook%20Pro.JPG)  
 iMac může být alternativou Vašeho stolního počítače All-in-One (vše v jednom), kde veškeré komponenty jsou přímo v monitoru s možnostmi 21,5” a 27” úhlopříček. [![](/soubory/iMac.JPG)](/soubory/iMac.JPG)  
-Další alternativa stolního počítače může být Mac Pro, kde si další periferie můžete zvolit sami a připojíte k Macu vlasní monitor a další vstupní nebo výstupní zařízení.  
 Mac mini je nejlevnější Mac na trhu, vstupenka do světa Mac OS systému, hodí se pro začínající uživatele nebo třeba do obývacího pokoje jako multimediální centrum,  
 které lze propojit s televizí, domácí repro soustavou, atd.  
 Apple má ve svém portfoliu i další příslušenství jako je Apple Magic Mouse (myš) nebo Trackpad (externí touchpad), které mohou ocenit uživatelé, kteří využívají při práci na počítači zrak.  
