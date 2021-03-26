@@ -11,7 +11,7 @@ Zde naleznete všechny manuály a příručky ve formátu *pdf ke všem produkt�
 
 ## Kamerová zvětšovací lupa Vocatex s hlasovým výstupem
   
-[Manual Vocatex](/soubory/uzivatelska_prirucka_Vocatex.pdf)  
+[Manual Vocatex](/soubory/vocatex-manual.pdf)  
   
 
 ## Čtečka dokumentů Easy Reader
