@@ -7,8 +7,8 @@ title: Hlasové syntézy
   
 Kvalitní hlasové syntézy využívají rozhraní SAPI a lze je využívat nejen ve speciálních programech pro zrakově postižené, ale i v aplikacích třetích stran.  
 Třicetidení zkušební verze ke stažení:  
-[Iveta](http://www.kobaspeech.com/en/component/weblinks/weblink/8-kobaspeech-3/94-kobaspeech-3-with-vocalizer-iveta-czech?Itemid=101&task=weblink.go)  
-[Zuzana](http://www.kobaspeech.com/en/component/weblinks/weblink/8-kobaspeech-3/95-kobaspeech-3-with-vocalizer-zuzana-czech?Itemid=101&task=weblink.go)  
+[Iveta](https://download.kobavision.be/KobaSpeech4/KobaSpeech%204%20With%20Vocalizer%20Iveta%20-%20Czech.msi)  
+[Zuzana](https://download.kobavision.be/KobaSpeech4/KobaSpeech%204%20With%20Vocalizer%20Zuzana%20-%20Czech.msi)  
 Další hlasy jiných jazyků ke stažení naleznete na stránkách [Koba speech](http://www.kobaspeech.com/en/download-voices)  
 V případě zájmu o pořízení licence pro hlasovou syntézu nás prosím kontaktujte.  
 V rámci zakoupené licence obdržíte aktivační kód, který není vázaný na konkrétní hlas, ale je to licence k používání hlasové syntézy. Můžete tedy nainstalovat konkrétní hlas a když po čase zjistíte, že vám nevyhovuje, lze odinstalovat a nainstalovat jiný.  
@@ -19,11 +19,11 @@ Cena licence pro dva hlasy: 4 200 Kč
 Každý další hlas: 1 300 Kč  
   
 
-### Instalace hlasů KobaSpeech 3
+### Instalace hlasů KobaSpeech 4
 
   
 1. Spusťte instalační soubor hlasu - například:  
-kobaSpeech 3 With Vocalizer Zuzana - Czech.exe  
+kobaSpeech 4 With Vocalizer Zuzana - Czech.exe  
 2. Na první obrazovce instalátoru potvrďte tlačítko "Next".  
 3. Na druhé obrazovce se klávesou Tab přesuňte na přepínač a šipkou dolů vyberte možnost  
 "I accept the terms in the license agreement",  
@@ -38,7 +38,7 @@ Chcete-li na některé z nich jakýkoli parametr změnit, tlačítkem "Back" se 
 
   
 1. V nabídce start pod položkou Všechny programy vyberte složku KobaSpeech a rozbalte ji.  
-2. Zvolte položku KobaSpeech 3 activation a potvrďte enterem.  
+2. Zvolte položku KobaSpeech 4 activation a potvrďte enterem.  
 3. klávesou Tab se přesuňte do políčka Activation a vložte do něj vaše aktivační číslo.  
 4. Klávesou Tab se přesuňte na tlačítko "OK" a potvrďte jej.  
 5. Licence je nyní aktivovaná a plně funkční.  
