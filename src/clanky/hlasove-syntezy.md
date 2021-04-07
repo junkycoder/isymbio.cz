@@ -9,7 +9,7 @@ Kvalitní hlasové syntézy využívají rozhraní SAPI a lze je využívat neje
 Třicetidení zkušební verze ke stažení:  
 [Iveta](https://download.kobavision.be/KobaSpeech4/KobaSpeech%204%20With%20Vocalizer%20Iveta%20-%20Czech.msi)  
 [Zuzana](https://download.kobavision.be/KobaSpeech4/KobaSpeech%204%20With%20Vocalizer%20Zuzana%20-%20Czech.msi)  
-Další hlasy jiných jazyků ke stažení naleznete na stránkách [Koba speech](http://www.kobaspeech.com/en/download-voices)  
+Další hlasy jiných jazyků ke stažení naleznete na stránkách [Koba speech](https://www.kobaspeech.com/downloads/)  
 V případě zájmu o pořízení licence pro hlasovou syntézu nás prosím kontaktujte.  
 V rámci zakoupené licence obdržíte aktivační kód, který není vázaný na konkrétní hlas, ale je to licence k používání hlasové syntézy. Můžete tedy nainstalovat konkrétní hlas a když po čase zjistíte, že vám nevyhovuje, lze odinstalovat a nainstalovat jiný.  
 Upozornění: V počítači nesmí být nainstalováno více hlasů, než zakoupený počet licencí k syntézám. Máte-li zakoupené tři licence, plnohodnotně budou fungovat právě ty první tři, které nainstalujete.  
