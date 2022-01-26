@@ -16,7 +16,7 @@ BlueTooth připojení podporuje až čtyři zařízení najednou, mezi kterými 
 
 Vestavěná baterie zajišťuje provoz na jedno nabití po dobu více než 15 hodin, díky USB C a podpoře standardu Power delivery 2.0 je pak nabíjení velmi rychlé - 30% úrovně nabití lze dosáhnout už za 25 minut, 80% za 90 minut.
 
-##Varianty##
+## Varianty
 V závislosti na potřebách uživatele je možné vybírat ze třech konfigurací:
 1. B.note Standard - je nejvybavenější, nabízí veškeré funkce (klávesnice, USB, BlueTooth, poznámky, správce souborů).
 Je možné vybýrat ze dvou velikostí, a to 20 nebo 40 znaků.
@@ -24,7 +24,7 @@ Je možné vybýrat ze dvou velikostí, a to 20 nebo 40 znaků.
 3. B.note Light - je vybaven interními funkcemi, avšak neobsahuje klávesnici, slouží tedy jen ke čtení výstupu odečítače, nebo dokumentů v interní aplikaci Poznámky.
 Nabízen ve variantě 40 znaků.
 
-##Ovládání a kompatibilita##
+## Ovládání a kompatibilita
 B.note je kompatibilní s nejrozšířenějšími odečítači obrazovky na našem trhu a to  Jaws, NVDA, super nova, Voiceover, talk-back / braille-back,
 brltty a orca.
 K ovládání lze použít  směrová tlačítka umístěná na každém konci B.note nebo navigační kurzorové klávesy, které mají dvě úrovně stisku a tak je možné jim přiřadit různé funkce v závislosti na preferencích uživatele.
@@ -32,21 +32,21 @@ Toto se hodí zejména při čtení dlouhých textů, kdy je možné pro posun o
 Braillská klávesnice obsahuje deset tlačítek - osm braillských bodů, backspace a mezerník. Slouží nejen pro zápis braillských znaků v 6 nebo 8 bodovém formátu, ale také k pokročilému ovládání odečítačů obrazovky či interních aplikací s použitím klávesových zkratek.
 Jednotlivé klávesy jsou velké, oválné a poměrně výrazně vystupují z těla zařízení, což zajišťuje pohodlné ovládání i uživatelům s horším hmatem či problémy s motorikou.
 
-Interní aplikace
-- Správce souborů
+### Interní aplikace
+#### Správce souborů
 Umožňuje organizovat data v rámci vnitřní paměti zařízení, nabízí funkce jako vytváření souborů a složek, kopírování, přesouvání, přejmenování, komprimace / dekomprimace, vytváření záloh, koš atd.
 
-- Textový editor
+#### Textový editor
 Umožňuje číst, vytvářet a editovat dokumenty, Otevírá soubory formátů: .txt, .mbe, .docx, .xlsx, .odt, .pdf, .brf, .epub .rtf.
 Dokumenty lze číst jak v počítačovém bodovém písmu, tak i ve zkratkopisu, který se sice v Češtině nevyužívá, důležitý je ale např. v Angličtině, nebo Němčině.
 Z běžnějších funkcí obsahuje editor možnosti vyhledání a nahrazení textu, vytváření záložek, znovu / zpět, nebo třeba zobrazení statistik dokumentu.
 Velkou výhodou a předností B.note je funkce "předčítání textů" hlasovou syntézou. Tato funkce je velmi užitečná při čtení delších dokumentů včetně cizojazyčních.
 Textový editor si poradí i s matematickými výrazy, krom běžných aritmetických operací nabízí mimo jiného  goniometrické funkce, statistické funkce a mnoho dalších.
 
-- Nastavení a přizpůsobení
+#### Nastavení a přizpůsobení
 V nastavení B.note můžeme měnit jazyk celého zařízení, použitou braillskou tabulku, chování navigačních kurzorů, režim klávesnice a celou řadu dalších parametrů.
 
-##Vlastnosti a parametry##
+## Vlastnosti a parametry
 - Procesor STM32L1 / ARM Cortex-A53, čtyřjádrový, 1.4GHz
 - Operační paměť: 512MB LPDDR2 (900MHz)
 - Úložiště: Micro SD karta 64GB
@@ -65,14 +65,14 @@ V nastavení B.note můžeme měnit jazyk celého zařízení, použitou braills
 40 znaků (Standard, Light, Basic)
 šířka 365 mm, hloubka 105 mm, výška 27 mm, hmotnost 600 g.
 
-##Dodávané příslušenství##
+## Dodávané příslušenství
 - USB-C napájecí a datový kabel
 - USB-A na USB-C napájecí a datový kabel
 - Napájecí adaptér s vyměnitelnými koncovkami
 - Sluchátka,
 - Ochranné pouzdro.
 
-###Ceník:###
-B.note Standard 20 - 59 000 Kč
-B.note Standard 40 - 99 000 Kč
+## Ceník
+B.note Standard 20 - 59 000 Kč  
+B.note Standard 40 - 99 000 Kč  
 B.note 40 light/basic - 82 000 Kč
