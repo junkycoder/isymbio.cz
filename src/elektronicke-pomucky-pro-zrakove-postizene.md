@@ -25,6 +25,7 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 - [Apple produkty](/clanky/apple-produkty/)  
 - [Digitální čtecí přístroje](/clanky/digitalni-cteci-pristroje/)  
 - [Digitální zápisníky pro nevidomé](/clanky/digitalni-zapisniky-pro-nevidome/)  
+- [Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
 - [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
 - [Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
 - [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  

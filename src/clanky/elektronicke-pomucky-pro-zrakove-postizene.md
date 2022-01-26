@@ -21,13 +21,15 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 
 ## Kategorie produktů
 
-  
-[Apple produkty](/clanky/apple-produkty/)  
-[Digitální čtecí přístroje](/clanky/digitalni-cteci-pristroje/)  
-[Digitální zápisníky pro nevidomé](/clanky/digitalni-zapisniky-pro-nevidome/)  
-[Braillské řádky Esys](/clanky/braillske-radky-esys/)  
-[Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
-[Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
-[Čtecí zařízení EasyReader](/clanky/cteci-zarizeni-easyreader/)  
-[Kapesní kamerové lupy](/clanky/kapesni-kamerove-lupy/)  
-[Speciální programové vybavení](/clanky/specialni-programove-vybaveni/)
+
+- [Apple produkty](/clanky/apple-produkty/)  
+- [Digitální čtecí přístroje](/clanky/digitalni-cteci-pristroje/)  
+- [Digitální zápisníky pro nevidomé](/clanky/digitalni-zapisniky-pro-nevidome/)  
+- [Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
+- [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
+- [Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
+- [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
+- [OrCam MyEye 2](/clanky/orcam-myeye-2/)
+- [Čtecí zařízení EasyReader](/clanky/cteci-zarizeni-easyreader/)  
+- [Kapesní kamerové lupy](/clanky/kapesni-kamerove-lupy/)  
+- [Speciální programové vybavení](/clanky/specialni-programove-vybaveni/)
