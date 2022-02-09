@@ -114,9 +114,9 @@ UPG 4x ZoomText Zvětšovač a odečítač - 28 000 Kč
 
   
 [Hlasové syntézy](/clanky/hlasove-syntezy/)  
-1 hlas Kobaspeech 3 - 2 500 Kč  
-2 hlasy Kobaspeech 3 - 4 200 Kč  
-Každý další hlas Kobaspeech 3 - 1 300 Kč  
+1 hlas Kobaspeech 4 - 2 500 Kč  
+2 hlasy Kobaspeech 4 - 4 200 Kč  
+Každý další hlas Kobaspeech 4 - 1 300 Kč  
 [Hlasový výstup Eliška InfoVox 4](/clanky/hlasova-synteza-eliska/)  
 Eliška InfoVox - 12 000 Kč  
   
