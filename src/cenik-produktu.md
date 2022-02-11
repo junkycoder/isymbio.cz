@@ -55,8 +55,13 @@ Compact 5" HD - 30 000 Kč
   
 
 ## Braillské řádky / displeje / zápisníky
-
   
+[Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
+  B.note Standard 20 - 59 000 Kč  
+  B.note Standard 40 - 99 000 Kč  
+  B.note 40 light / basic - v82 000 Kč  
+  
+    
 [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
 Esys 12 - 35 000 Kč  
 Esys 24 - 68 000 Kč  
