@@ -59,7 +59,7 @@ Compact 5" HD - 30 000 Kč
 [Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
   B.note Standard 20 - 59 000 Kč  
   B.note Standard 40 - 99 000 Kč  
-  B.note 40 light / basic - v82 000 Kč  
+  B.note 40 light / basic - 82 000 Kč  
   
     
 [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
