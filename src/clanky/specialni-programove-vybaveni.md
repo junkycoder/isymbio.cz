@@ -16,4 +16,4 @@ Pro konkrétní informace včetně ceníku speciálních programů si vyberte s 
 ## Speciální aplikace pro chytré telefony
 
   
-[OneStep Reader Multi])/clanky/onestep-reader-multi/)
+[OneStep Reader Multi](/clanky/onestep-reader-multi/)
