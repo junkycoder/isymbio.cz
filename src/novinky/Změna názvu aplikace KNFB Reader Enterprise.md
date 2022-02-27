@@ -11,5 +11,4 @@ Aplikaci můžete stahovat na těchto odkaze:
 
 [OneStep Reader Multi pro ANDROID](https://play.google.com/store/apps/details?id=com.sensotec.knfbreaderEnterprise&hl=en_IN&gl=US)
     
-[OneStep Reader Multi pro Windows](https://www.microsoft.com/cs-cz/p/onestep-reader-multi/9nblggh5308l?activetab=pivot:overviewtab)
-
+[OneStep Reader Multi pro Windows](https://microsoft.com/cs-cz/p/onestep-reader-multi/9nblggh5308l?activetab=pivot:overviewtab)
