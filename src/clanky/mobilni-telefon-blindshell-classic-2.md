@@ -43,7 +43,7 @@ BlindShell Classic 2 má klávesnici s velkými, hmatnými tlačítky, speciáln
 
 Příslušenství:
 - - Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
-[![](/soubory/flypové-pouzdro.png)](/soubory/flypové-pouzdro.png)
+[![](/soubory/flypove-pouzdro.png)](/soubory/flypove-pouzdro.png)
 - Ochranné pouzdro zadní kryt (vanička) - 390 Kč
 [![](/soubory/zadni-kryt.png)](/soubory/zadni-kryt.png)
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
