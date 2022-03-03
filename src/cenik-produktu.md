@@ -27,8 +27,21 @@ Vocatex Plus 43" - 137 900 Kč
 ## Digitální čtecí kamera OrCam  
 
 [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
-OrCam Myey 2 - 134 550 Kč
+OrCam Myey 2 - 134 550 Kč  
 
+  ##Mobilní telefon BlindShell Clasic 2  
+[Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/) 
+  
+    - Blind Shell Classic 2 - 10 990 Kč  
+
+Příslušenství BlindShell 
+- - Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
+- Ochranné pouzdro zadní kryt (vanička) - 390 Kč
+- Lokalizační přívěšek BlindShell Beep - 750 Kč  
+- Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč
+- Nabíjecí kolébka - 650 Kč  
+
+  
 ## Kapesní kamerové lupy Zoomax
 
 [Kapesní lupy Zoomax](/clanky/kapesni-lupy-zoomax/)  
