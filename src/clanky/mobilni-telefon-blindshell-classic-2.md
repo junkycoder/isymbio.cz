@@ -65,8 +65,8 @@ Příslušenství:
   
   
 ### Technické parametry  
-  - Rozměry: 135,2 x 54,6 x 16,7 mm
-- Hmotnost: 100 g (telefon), 49 g (baterie)
+  - Rozměry: 135,2 x 54,6 x 16,7 mm  
+  - Hmotnost: 100 g (telefon), 49 g (baterie)
 - Displej: 2,83" (480 x 640)
 - Paměť (RAM): 2 GB
 - Vnitřní paměť: 16 GB
