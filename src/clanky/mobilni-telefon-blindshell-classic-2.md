@@ -15,8 +15,7 @@ Díky kvalitnímu fotoaparátu 13 MPx můžete použít třeba lupu pro předč�
 Součástí telefonu blindShell Classic 2 jsou tzv. asistivní pomůcky jako je třeba možnost označování MFC předmětů.
 BlindShell Classic 2 má klávesnici s velkými, hmatnými tlačítky, speciálně navrženými pro pohodlné ovládaní telefonu.  
   
-
-##Hlavní funkce
+## Hlavní funkce  
 - Hovory a historie hovorů
 - SMS, a to i více příjemcům
 - Kontakty, jejich záloha, nastavení oblíbených kontaktů, inport a export
@@ -29,17 +28,17 @@ BlindShell Classic 2 má klávesnici s velkými, hmatnými tlačítky, speciáln
 - SOS tlačítko
 - BlindShell katalog aplikací
 - Servisní menu, doživotní aktualizace  
-
-
-##Balení obsahuje:  
-- -  Mobilní telefon v červené nebo černé barvě
+  
+  
+## Balení obsahuje:  
+  - -  Mobilní telefon v červené nebo černé barvě
 - Baterie
 - Adaptér pro dobíjení, USB-C kabel a nabíjecí kolébka
 - Sluchátka
 - Poutko, 3 x NNFC samolepky  
   
 
-##Ceny produktů
+## Ceny produktů  
 - Blind Shell Clasic 2 - 10 990 Kč  
 
 Příslušenství:
@@ -50,9 +49,9 @@ Příslušenství:
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
 - Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč
 - Nabíjecí kolébka - 650 Kč  
-  
 
-###Konektivita
+
+### Konektivita  
 - GSM (2G): 850/900/1800/1900 MHz  
 - WCDMA (3G): B1/B2/B4/B5/B8
 -F  DD-LTE (4G):
@@ -62,13 +61,11 @@ Příslušenství:
 - WiFi: 2,4 GHz + 5 GHz (802.11 a/b/g/n/ac)
 - GNSS: GPS, Galileo, BeiDou
 - Rádiový přijímač FM
-- NFC
-
- 
-
-###Technické parametry  
-
-- Rozměry: 135,2 x 54,6 x 16,7 mm
+- NFC  
+  
+  
+### Technické parametry  
+  - Rozměry: 135,2 x 54,6 x 16,7 mm
 - Hmotnost: 100 g (telefon), 49 g (baterie)
 - Displej: 2,83" (480 x 640)
 - Paměť (RAM): 2 GB
@@ -87,7 +84,7 @@ Příslušenství:
 - LED Svítilna  
 
 
-### Senzory
+### Senzory  
 - Magnetometr
 - Barometr
 - Akcelerometr
@@ -95,7 +92,7 @@ Příslušenství:
 - Snímač přiblížení  
 
 
-###Všeobecné informace
+### Všeobecné informace
 Na mobilní telefon BlindShell Classic 2 se dá žádat jako o příspěvek na zvláštní pomůcku u příslušného úřadu práce, a to i zpětně, nejdéle však do jednoho roku od pořízení.
 Máte-li zájem o prezentaci mobilního telefonu, samozřejmě nás kontaktujte.
 Ve vyjmečných případech můžeme i mobilní telefon zapůjčit na zkoušku nebo v případě, že nemáte jiný mobilní telefon, který by vám vyhovoval se můžeme domluvit na zápůjčce na období, kdy si nový telefon pořídíte nebo než se vyřídí případná žádost u úřadu práce.
