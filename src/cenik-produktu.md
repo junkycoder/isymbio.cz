@@ -29,7 +29,7 @@ Vocatex Plus 43" - 137 900 Kč
 [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
 OrCam Myey 2 - 134 550 Kč  
 
-  ##Mobilní telefon BlindShell Clasic 2  
+## Mobilní telefon BlindShell Clasic 2  
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/) 
   
     - Blind Shell Classic 2 - 10 990 Kč  
