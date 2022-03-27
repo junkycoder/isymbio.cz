@@ -2,8 +2,8 @@
 title: Informace k příspěvku na zvláštní pomůcku
 ---
 
-Novelizovaný zákon 329/2011 Sb. o dávkách pro osoby se zdravotním postižením platný od  
-1\. 1. 2018, který se týká příspěvku na zvláštní pomůcku.  
+Legislativní změna  442/2021 Sb nahrazuje 388/2011 Sb zákona 329/2011 Sb, vyhlášku . o dávkách pro osoby se zdravotním postižením platný od  
+1. 1. 2022, který se týká příspěvku na zvláštní pomůcku.  
 Kdo má na příspěvek na zvláštní pomůcku nárok?  
 Jsou to osoby s vadou nosného či pohybového ústrojí, dále osoby s těžkým postižením zraku a sluchu, přičemž toto postižení musí mít charakter dlouhodobě nepříznivého zdravotního stavu. Za dlouhodobě nepříznivý zdravotní stav se v souladu s jinými právními předpisy i v tomto zákoně považuje zdravotní stav, který podle poznatků lékařské vědy trvá či má trvat déle než jeden rok.  
   
@@ -43,8 +43,9 @@ g) hlasové popisovače pro nevidomé a hluchoslepé,
 h) digitální čtecí přístroj pro nevidomé s hlasovým výstupem.  
   
 3\. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. a) až c) přílohy k zákonu, je určena tato zvláštní pomůcka:  
-diktafon.  
-  
+a) diktafon.  
+b) Kamera s hlasovým výstupem  
+ 
 4\. Osobám se zdravotním postižením, které je uvedeno v části I bodě 2 písm. b) až d) přílohy k zákonu, jsou určeny tyto zvláštní pomůcky:  
 a) kamerová zvětšovací lupa,  
 b) digitální zvětšovací lupa.  
@@ -64,7 +65,8 @@ Ze zákonem určené desetiprocentní spoluúčasti je možné stanovit výjimku
 Příspěvek na pomůcku je ohraničen výší 350 000 Kč u všech typů pomůcek a to nejen u zrakově postižených a však celkový součet příspěvků nesmí přesáhnout za uplynulých 60 měsíců 800 000 Kč.  
   
 Řízení se zahajuje podáním žádosti na tiskopisu předepsaném Ministerstvem práce a sociálních věcí (MPSV). Formulář ve formátu PDF je opět dostupný na webových stránkách MPSV.  
-[zde](https://formulare.mpsv.cz/oksluzby/cs/form/edit.jsp?FN=OZPPnZP180101572&CMD=EditForm&SSID=dHbslB5RhUxB2bWuyn.~6~hRxesVLMR5)  
+[zde](https://www.mpsv.cz/-/zadost-o-prispevek-na-zvlastni-pomucku)  
+  
 žádost je třeba podat na místně příslušné Krajské pobočce Úřadu práce. Zákon stanoví tyto náležitosti:  
 jméno a příjmení, datum narození, rodné číslo, rodinný stav, místo trvalého pobytu žadatele a v případě žádosti o zvláštní pomůcky, jejichž cena je nižší než  
 10 000 Kč nebo v případě snížení spoluúčasti obdobné údaje o společně posuzovaných osobách včetně dokladů dokazující příjmy za poslední čtvrtletí před kalendářním měsícem, kdy byla žádost podána.  
