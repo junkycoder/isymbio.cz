@@ -1,6 +1,6 @@
 ---
 title: Změna v legislativě  
-date: 2022-03-027
+date: 2022-03-27
 ---
 
 Od 1. 1. 2022 došlo ke změnám v legislativě, kdy 442/2021 Sb. nahradila 388/2011Sb. 
