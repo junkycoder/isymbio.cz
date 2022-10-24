@@ -31,15 +31,14 @@ OrCam Myey 2 - 134 550 Kč
 
 ## Mobilní telefon BlindShell Clasic 2  
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/) 
-  
-    - Blind Shell Classic 2 - 11 990 Kč  
+Blind Shell Classic 2 - 11 990 Kč  
 
 Příslušenství BlindShell 
-- - Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
-- Ochranné pouzdro zadní kryt (vanička) - 390 Kč
-- Lokalizační přívěšek BlindShell Beep - 750 Kč  
-- Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč
-- Nabíjecí kolébka - 650 Kč  
+Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
+Ochranné pouzdro zadní kryt (vanička) - 390 Kč
+Lokalizační přívěšek BlindShell Beep - 750 Kč  
+Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč
+Nabíjecí kolébka - 650 Kč  
 
   
 ## Kapesní kamerové lupy Zoomax
