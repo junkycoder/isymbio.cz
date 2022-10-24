@@ -39,7 +39,7 @@ BlindShell Classic 2 má klávesnici s velkými, hmatnými tlačítky, speciáln
   
 
 ## Ceny produktů  
-- Blind Shell Classic 2 - 10 990 Kč  
+- Blind Shell Classic 2 - 11 990 Kč  
 
 Příslušenství:
 - - Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
