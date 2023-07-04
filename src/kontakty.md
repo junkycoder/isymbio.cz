@@ -27,10 +27,9 @@ Telefon: +420 739 094 745
 Telefon: +420 732 264 282  
 [blaha@isymbio.cz](mailto:blaha@isymbio.cz)  
   
-#### Tomáš Mareček  
-(Instalace Windows, technická podpora IOS zařízení)  
-Telefon: +420 734 481 127  
-[marecek@isymbio.cz](mailto:marecek@isymbio.cz)  
+#### Tomáš Koudelka  
+(Instalace Windows, Apple, technická podpora IOS zařízení)  
+[koudelka@isymbio.cz](mailto:koudelka@isymbio.cz)  
 
 ### Asistence, řízení žádostí
 #### Pavel Krejčíček
