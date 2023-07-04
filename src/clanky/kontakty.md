@@ -19,9 +19,9 @@ OC MERKAZ
 Jana Růžičky 1165/2a  
 148 00, Praha 4 - Kunratice  
 Budova OC MERKAZ je vzdálená 100 m od zastávky U Kunratického lesa BUS 177 ze stanice metra C Chodov.  
-Kancelář se nachází v 1. patře budovy, bezbariérový přístup.  
+Kancelář se nachází v 2. patře budovy, bezbariérový přístup.  
   
-Ředitel společnosti  
+Jednatel společnosti  
 Informace o příspěvku na zvláštní pomůcky:  
 Tomáš Franěk  
 mobil: +420 739 094 745  
@@ -34,8 +34,7 @@ Mobil: +420 732 264 282
 Skype: blaha_symbio  
   
 IT asistent  
-Tomáš Mareček  
-Mobil: +420 734 481 127  
-[marecek@isymbio.cz](mailto:marecek@isymbio.cz)  
+Tomáš Koudelka  
+[koudelka@isymbio.cz](mailto:koudelka@isymbio.cz)  
   
 Na výše uvedená telefoní čísla můžete volat Po - Pá 9:00 - 17:00
