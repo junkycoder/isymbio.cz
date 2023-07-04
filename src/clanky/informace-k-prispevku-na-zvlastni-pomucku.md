@@ -13,9 +13,8 @@ Na tomto místě však čtenáře důrazně upozorňujeme, že příspěvek na p
 Aby osoba měla na příspěvek na zvláštní pomůcku nárok, musí splnit ještě následující podmínky:  
 • zvláštní pomůcka umožní osobě sebeobsluhu nebo ji potřebuje k realizaci pracovního uplatnění, k přípravě na budoucí povolání, k získávání informací, vzdělávání anebo ke styku s okolím;  
 • osoba může zvláštní pomůcku využívat ve svém sociálním prostředí.  
-My se na dále budeme věnovat pouze příspěvkům pro zrakově postižené, kompletní novelizovaný zákon naleznete na odkaze:  
-[http://www.zmenyzakonu.cz/zakon.aspx?id=34765]( http://www.zmenyzakonu.cz/zakon.aspx?id=34765)  
-Kategorie zrakového postižení  
+My se na dále budeme věnovat pouze příspěvkům pro zrakově postižené, kompletní informace jsou na    
+[tomto odkazu](/https://www.mpsv.cz/-/prispevek-na-zvlastni-pomucku/)  
 Zákon o poskytování dávek osobám se zdravotním postižením (dále zákon o dávkách) obsahuje přílohu, v níž jsou uvedeny jednotlivé druhy zdravotního postižení odůvodňující přiznání příspěvku na zvláštní pomůcku a také tzv. kontraindikace, tedy zdravotní stavy přiznání příspěvku vylučující. Těžké zrakové postižení je uvedeno pod bodem 2. přílohy a je rozděleno do čtyř kategorií, a) až d). Jde o následující kategorie:  
 a. úplná nevidomost obou očí, ztráta zraku zahrnující stavy od naprosté ztráty světlocitu až po zachování světlocitu s chybnou světelnou projekcí,  
 b. praktická nevidomost obou očí, zraková ostrost s optimální korekcí v intervalu 1/60 (0,02) - světlocit s jistou projekcí nebo omezení zorného pole do 5 - 10 stupňů od bodu fixace, bez omezení zrakové ostrosti,  

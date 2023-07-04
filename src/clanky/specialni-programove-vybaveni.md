@@ -7,10 +7,7 @@ Díky speciálním programům může uživatel efektivně pracovat s kancelářs
   
 Pro konkrétní informace včetně ceníku speciálních programů si vyberte s následujících možností.  
 [Odečítací program JAWS](/clanky/odecitaci-program-jaws/)    
-[Zvětšovací program Magic](/clanky/zvetsovaci-program-magic/)    
-[Zvětšovací a odečítací program SuperNova](/clanky/zvetsovaci-a-odecitaci-program-supernova/)  
 [Hlasové syntézy](/clanky/hlasove-syntezy/)  
-[Hlasová syntéza Eliška](/clanky/hlasova-synteza-eliska/)    
   
 
 ## Speciální aplikace pro chytré telefony
