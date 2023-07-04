@@ -35,10 +35,10 @@ Blind Shell Classic 2 - 12 690 Kč
 
 Příslušenství BlindShell 
 Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
-Ochranné pouzdro zadní kryt (vanička) - 390 Kč
-Lokalizační přívěšek BlindShell Beep - 750 Kč  
-Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč
-Nabíjecí kolébka - 650 Kč  
+Ochranné pouzdro zadní kryt (vanička) - 450 Kč
+Lokalizační přívěšek BlindShell Beep - 690 Kč  
+Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč
+Nabíjecí kolébka - 690 Kč  
 
   
 ## Kapesní kamerové lupy Zoomax
@@ -54,11 +54,8 @@ Nabíjecí kolébka - 650 Kč
   B.note 40 light / basic - 82 000 Kč  
   
     
-[Braillské řádky Esys](/clanky/braillske-radky-esys/)  
-Esys 12 - 35 000 Kč  
-Esys 24 - 68 000 Kč  
-Esys Light - 82 000 Kč  
-Esys 40 - 99 000 Kč  
+[Braillské řádky Esys](/clanky/braillske-radky-esys/)
+V nabídce pouze již :  
 Esys 64 - 152 000 Kč  
 Esys 64 Plus - 161 000 Kč  
 Esys 80 - 185 000 Kč  
@@ -114,8 +111,6 @@ UPG 4x ZoomText Zvětšovač a odečítač - 28 000 Kč
 1 hlas Kobaspeech 4 - 2 500 Kč  
 2 hlasy Kobaspeech 4 - 4 200 Kč  
 Každý další hlas Kobaspeech 4 - 1 300 Kč  
-[Hlasový výstup Eliška InfoVox 4](/clanky/hlasova-synteza-eliska/)  
-Eliška InfoVox - 12 000 Kč  
   
 
 ## Speciální aplikace pro iOS
@@ -124,4 +119,4 @@ Eliška InfoVox - 12 000 Kč
 [KNFB Reader Enterprise](/clanky/knfb-reader-enterprise/)  
 KNFB Reader Enterprise - 2 490 Kč  
 Blind Square včetně instalace a zaškolení - 1 500 Kč  
-Voice Dream reader nebo scaner,iDos, Text Grabber, MBraille – na vyžádání
+Další libovolné aplikace v rámci AppStore na vyžádání
