@@ -30,6 +30,7 @@ Telefon: +420 732 264 282
 #### Tomáš Koudelka  
 (Instalace Windows, Apple, technická podpora IOS zařízení)  
 [koudelka@isymbio.cz](mailto:koudelka@isymbio.cz)  
+Telefon: +420 602 389 928  
 
 ### Asistence, řízení žádostí
 #### Pavel Krejčíček
