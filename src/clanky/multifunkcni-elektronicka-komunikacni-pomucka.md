@@ -41,16 +41,16 @@ Rozhodnete-li se pro pořízení iPhone, zde jsou informace jak začít a seznam
 
 ### Aktuálně nabízené modely
 - iPhone Se 2022
-- iPhone 13 mini
-- iPhone 14
-- iPhone 14 Plus
-- iPhone 14 Pro a Pro Max  
+- iPhone 15 6,1"  
+- iPhone 15 Plus 6,7"
+- Prémiové iPhone 15 Pro a 15 Pro Max  
 Jednotlivé modely se liší jak výbavou, tak velikosti displeje, od 4,7" začínající u iPhone Se až po velikost 6,7" u iPhone Pro Max.  
  Vždy záleží na zrakovém postižení a potřebách uživatele. Mnohým postačí iPhone Se, ale jsou tací, kteří iPhone využívají na maximum a je to spíše jejich počítač než telefon, tam určitě je dobré se zamyslet na lepší řadě, stejně tak na využitelnosti kapacity paměti. Standardně platí, že většině uživatelům postačí základních 128 GB paměti, ale jsou i tací, kteří bez problémů využijí větší kapacity, ale obecně vzato, postačuje 64 GB nebo 128 GB varianta. \V případě ještě větších kapacit je už dobré si odůvodnit proč a na co potřebuji tolik úložiště, vzláště při žádosti o příspěvek na vzláštní pomůcku.  
 Standardně námi dodávané varianty:
 
 
 
-- Vámi vybraný model iPhone
-+ volitelné aplikace: KNFB Reader, Blind square, Voice Dream reader
-+ volitelné aplikace: KNFB Reader, Blind square, Voice Dream reader a scaner, EnVision.
+- Vámi vybraný model iPhone včetně napájecího adatperu 20w
++ volitelné aplikace: OneStep reader Multi, Blind square.
+Samozřejmostí je asistence při předání, to je školení, přenos veškerých možných dat z vašeho stávajícího telefonuz jakékoli platformy. 
+
