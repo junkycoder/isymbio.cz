@@ -96,6 +96,7 @@ SMA Upgrade o dvě verze - 15 000 Kč
   
 
 ## ZoomText  
+[ZoomText](/clanky/zoomtext/)  
 
 (aktuální ceník programu ZoomText zajistí podporu min. 5 let)  
 ZoomText Zvětšovač včetně 4x UPG - 22 000 Kč  

@@ -27,7 +27,7 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 - [Digitální zápisníky pro nevidomé](/clanky/digitalni-zapisniky-pro-nevidome/)  
 - [Mobilní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  
 - [Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
-  - [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
+- [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
 - [Braillské tiskárny ViewPlus](/clanky/braillske-tiskarny-viewplus/)  
 - [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
 - [OrCam MyEye 2](/clanky/orcam-myeye-2/)
