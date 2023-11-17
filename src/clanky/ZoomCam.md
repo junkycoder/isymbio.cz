@@ -1,6 +1,7 @@
 ---
 title: Kamerová zvětšovací lupa ZoomCam
 ---
+
 Přenosná čtecí kamera s hlasovým výstupem ZoomCam pro počítače, iPady a tablety.
 Novinka od belgické společnosti KobaVision, která je známá především kamerovými lupami Vocatex vyvinula minimalistickou čtecí kameru ZoomCam,kterou můžete využívat takřka kdekoliv se svým počítačem, Macem, monitorem, TV, iPadem nebo jiným tabletem.
 Právě s iPadem je tato přenosná lupa velmi oblíbená.
