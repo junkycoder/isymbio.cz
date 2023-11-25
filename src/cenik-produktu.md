@@ -41,9 +41,10 @@ Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč
 Nabíjecí kolébka - 690 Kč  
 
   
-## Kapesní kamerové lupy Zoomax
-
-[Kapesní lupy Zoomax](/clanky/kapesni-lupy-zoomax/)  
+## Kapesní kamerové lupy ZooMax Luna  
+- [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
+- Luna 6" - 14 900 Kč  
+- Luna 8" - 22 900 Kč  
   
 
 ## Braillské řádky / displeje / zápisníky
