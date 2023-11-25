@@ -1,5 +1,5 @@
 ---
-title: Vánoční akce Blinshell Clasic 2 s rárkem
+title: Vánoční akce Blinshell Clasic 2 včetně power banky
 date: 2023-11-25
 ---
 
