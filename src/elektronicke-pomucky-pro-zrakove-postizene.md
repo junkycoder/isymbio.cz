@@ -32,5 +32,6 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 - [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
 - [OrCam MyEye 2](/clanky/orcam-myeye-2/)
 - [Čtecí zařízení EasyReader](/clanky/cteci-zarizeni-easyreader/)  
-- [Kapesní kamerové lupy](/clanky/kapesni-kamerove-lupy/)  
+- [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
 - [Speciální programové vybavení](/clanky/specialni-programove-vybaveni/)
+  
