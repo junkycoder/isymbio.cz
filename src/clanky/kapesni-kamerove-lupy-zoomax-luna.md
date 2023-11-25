@@ -9,7 +9,7 @@ Díky vestavěnému stojánku a rukojeti u Luny 6" lze lehce číst jakékoliv d
 Luna 8" je trochu větší, takže se spíše používá při čtení dokumentů, knih a větších předloh, ale použití v terénu se také samozřejmě nevylučuje.  
 Obě lupy disponují kromě standardní kamery na blízko, také kamerou do dálky na prohlížení vzdálených předmětů, tabulí atd.  
 
-[![](/soubory/luna6.png](/soubory/luna6)
+[![](/soubory/luna6.png)](soubory/luna6)
 ## Specifikace a funkce Luna 6"  
 •LCD displej 6" HD 1280 x 720p  
 • Bezdrátové a kabelové nabíjení  
@@ -26,7 +26,7 @@ Obě lupy disponují kromě standardní kamery na blízko, také kamerou do dál
 • Rozměry: 160 x 80 x 11 mm  
 • Hmotnost 210 g  
 
-[![](/soubory/luna8.png](/soubory/luna8)
+[![](/soubory/luna8.png)](soubory/luna8)
 ## Specifikace a funkce Luna 8"  
 •LCD displej 8" HD 1280 x 800p  
 • Vestavěný stojánek  
