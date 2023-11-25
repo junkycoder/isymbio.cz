@@ -34,15 +34,15 @@ OrCam Myey 2 - 134 550 Kč
 Blind Shell Classic 2 - 12 690 Kč  
 
 Příslušenství BlindShell 
-Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
-Ochranné pouzdro zadní kryt (vanička) - 450 Kč
+Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč  
+Ochranné pouzdro zadní kryt (vanička) - 450 Kč  
 Lokalizační přívěšek BlindShell Beep - 690 Kč  
-Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč
+Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč  
 Nabíjecí kolébka - 690 Kč  
 
   
-## Kapesní kamerové lupy ZooMax Luna  
-- [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
+## Kapesní kamerové lupy ZooMax luna  
+[Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
 - Luna 6" - 14 900 Kč  
 - Luna 8" - 22 900 Kč  
   
@@ -50,9 +50,9 @@ Nabíjecí kolébka - 690 Kč
 ## Braillské řádky / displeje / zápisníky
   
 [Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
-  B.note Standard 20 - 59 000 Kč  
-  B.note Standard 40 - 99 000 Kč  
-  B.note 40 light / basic - 82 000 Kč  
+B.note Standard 20 - 59 000 Kč  
+B.note Standard 40 - 99 000 Kč  
+B.note 40 light / basic - 82 000 Kč  
   
     
 [Braillské řádky Esys](/clanky/braillske-radky-esys/)
