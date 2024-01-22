@@ -12,7 +12,7 @@ Orcam Read kdykoliv a kdekoliv přečte tištěný i digitální text ať už to
 4 hmatná tlačítka umožňují velmi jednoduché ovládání.
 Uživatelé, kteří ještě trochu vidí mohou využít laserové navádění pro ještě lepší výsledek, ale i zcela nevidomí po krátkém zacvičení mohou Orcam Read využívat naplno a využít tak jeho funkce.
 
-##Technické informace
+## Technické informace
 - USB-C konektor
 - Fyzická tlačítka pro snadné ovládání
 - Vestavěný reproduktor, 3,5 Jack, připojení bezdrátových sluchátek

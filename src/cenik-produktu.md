@@ -23,8 +23,11 @@ Vocatex Plus 27" - 129 900 Kč
 Vocatex Plus 32" - 133 900 Kč  
 Vocatex Plus 43" - 137 900 Kč  
   
-
-## Digitální čtecí kamera OrCam  
+## Kamera s hlasovým výstupem Orcam Read
+[Orcam Read](/clanky/orcam-read/)
+Orcam Read - 54 900 Kč  
+  
+## Kamera s hlasovým výstupem OrCam MyEye 2
 
 [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
 OrCam Myey 2 - 134 550 Kč  
