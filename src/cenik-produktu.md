@@ -3,8 +3,8 @@ title: Ceník produktů
 ---
 
 Níže naleznete ceny ke všem námi dodávaným produktům. V případě, že nějaký produkt nenaleznete, neváhejte nás kontaktovat, jsme schopni v případě možností vámi poptávaný produkt poptat a následně jej dodat.  
-Veškeré ceny jsou včetně 15% DPH.  
-Ceny u speciálního software jsou včetně 21% DPH, ale v případě, že je software v rámci pořízení zvláštní pomůcky jako její součást cena je ponížena na 15% DPH u kompletní sestavy zvláštní pomůcky.  
+Veškeré ceny jsou včetně 12% DPH.  
+Ceny u speciálního software jsou včetně 21% DPH, ale v případě, že je software v rámci pořízení zvláštní pomůcky jako její součást cena je ponížena na 12% DPH u kompletní sestavy zvláštní pomůcky.  
   
 Pro sestavy Digitálních zápisníků, čtecích přístrojů nebo digitálních lup nás prosím kontaktujte. Ke každému klientovi přistupujeme individuálně a výslednou cenu jsme schopni říci po vyslechnutí požadavků klienta a přizpůsobení pomůcky vzhledem k jeho zrakovému postižení.  
 Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme velké skladové zásoby z důvodu rychlého stárnutí počítačových komponentů. Každému chceme nabídnout to nejaktuálnější na trhu.  
