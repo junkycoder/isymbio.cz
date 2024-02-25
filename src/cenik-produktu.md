@@ -25,12 +25,12 @@ Vocatex Plus 43" - 137 900 Kč
   
 ## Kamera s hlasovým výstupem Orcam Read
 [Orcam Read](/clanky/orcam-read/)
-Orcam Read - 54 900 Kč  
+Orcam Read - 57 996 Kč  
   
 ## Kamera s hlasovým výstupem OrCam MyEye 2
 
 [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
-OrCam Myey 2 - 134 550 Kč  
+OrCam Myey 2 - 131 040 Kč  
 
 ## Mobilní telefon BlindShell Clasic 2  
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/) 

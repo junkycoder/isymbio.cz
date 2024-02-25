@@ -23,5 +23,5 @@ Uživatelé, kteří ještě trochu vidí mohou využít laserové navádění p
 - Automatické aktualizace přez Wi-Fi  
 - Příslušenství: Ochranné pouzdro, bezpečnostní šňůrka, drátová sluchátka, síťová nabíječka, USB-C kabel  
 
-Cena Orcam Read - 54 900 Kč
+Cena Orcam Read - 57 996 Kč
 
