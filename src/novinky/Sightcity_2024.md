@@ -1,5 +1,5 @@
 ---
-title: Sightcity 2024 Největší veletr kompenzačních pomůcek 
+title: Sightcity 2024 Největší veletrch kompenzačních pomůcek 
 date: 2024-05-13
 ---
 Ve dnech 15 a 16. 5 se opět zúčastníme celosvětového veletrhu kompenzačních pomůcek Sightcity 2024 ve Frankfurtu
