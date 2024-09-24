@@ -2,6 +2,8 @@
 title: Digitální kamerová lupa Snow Pad
 ---
 Zoomax Snow Pad je skládací přenosná lupa nové generace pro všechny slabozraké uživatele, kteří chtějí využívat nejmodernější technologie.  
+[![Snow Pad](/soubory/snow-pad-predni-pohled.jpg)](/soubory/snow-pad-predni-pohled.jpg)
+
 Snow Pad s vaším iPadem nebo tabletem udělá lupu na blízko a do dálky včetně dalších funkcí jako je OCR a převod textu na řeč.  
 Vhodný pro všechny slabozraké uživatele, studenty, pracovníky, ale samozřejmě i na domácí práce a podobně.  
 U většiny slabozrakých uživatelů je každodenním pomocníkem iPad nebo tablet a díky Snow Padu se z vašeho zařízení může stát během chvilky stolní kamerová lupa, která umí snímat z velké dálky, například z tabule, sledovat vyučujícího, sledovat projektor, prostě cokoliv vás napadne.  
