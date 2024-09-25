@@ -30,11 +30,19 @@ klíčem k používání lupy Snow Pad je jednoduše váš iPad nebo tablet s ap
 - Rozdělení obrazu na vertikální a horizontální  
 - Přizpůsobení gest  
 - Práce se soubory, prohlížení,hledání, vyplnování do předloh, dokumentů  
-- Přenositelné, snadno složíte a rozložíte
+- Přenositelné, snadno složíte a rozložíte  
+- Baterie cca 6 hodin provozu  
 - Kompatibilita pro všechny iPady od 2019  
 - Hmotnost 2,4 Kg  
 - Rozměry: (šířka x hloubka x výška) složené 309 x 312 x 55 mm, rozložené 295 x 312 x 296 + 66 mm kamera  
   
+## Příslušenství
+- USB-C kabel na propojení a druhý na dobíjení  
+- Lightning kabel pro propojení se staršími iPady  
+- Magnetické podložky pro iPady na nalepení nebo do pouzdra  
+- Cestovní pouzdro pro Snow Pad včetně příslušenství  
+
 ## Součástí dodání digitální lupy Snow Pad může být samozřejmě i iPad dle vašeho výběru a preferencí.  
 Na tuto zvláštní pomůcku lze žádat u příslušnéhho úřadu práce, ato jako Digitální kamerová lupa s vhodným iPadem nebo i o samostatný Snow Pad.  
-Pro bližší možnosti konfigurace nás prosím kontaktujte.  
+Cena Snow Pad - 35 900 Kč
+Pro bližší možnosti konfigurace nás kontaktujte.  
