@@ -17,7 +17,7 @@ Snow Pad se dá v rámci školy, třídy, domácnosti nebo pracoviště sdílet 
 klíčem k používání lupy Snow Pad je jednoduše váš iPad nebo tablet s aplikací, která je přizpůsobena a nastavena dle vašich požadavků.
   
 [![Snow Pad](/soubory/snow-pad-rozdeleni-obrazovky.jpg)](/soubory/snow-pad-rozdeleni-obrazovky.jpg)
-[![Snow Pad](/soubory/snow-pad-slozeny.jpg)](/soubory/snow-pad-slozeny.jpg  
+[![Snow Pad](/soubory/snow-pad-slozeny.jpg)](/soubory/snow-pad-slozeny.jpg)  
 
 ## Funkce Snow Pad
 - Optický zoom automatické zaostření  

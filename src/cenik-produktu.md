@@ -7,11 +7,16 @@ Veškeré ceny jsou včetně 12% DPH.
 Ceny u speciálního software jsou včetně 21% DPH, ale v případě, že je software v rámci pořízení zvláštní pomůcky jako její součást cena je ponížena na 12% DPH u kompletní sestavy zvláštní pomůcky.  
   
 Pro sestavy Digitálních zápisníků, čtecích přístrojů nebo digitálních lup nás prosím kontaktujte. Ke každému klientovi přistupujeme individuálně a výslednou cenu jsme schopni říci po vyslechnutí požadavků klienta a přizpůsobení pomůcky vzhledem k jeho zrakovému postižení.  
-Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme velké skladové zásoby z důvodu rychlého stárnutí počítačových komponentů. Každému chceme nabídnout to nejaktuálnější na trhu.  
+Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme velké skladové zásoby z důvodu rychlého stárnutí počítačových komponentů. Každému chceme nabídnout to nejaktuálnější na trhu.
+
   
+## Digitální kamera Snow Pad
+  
+[Digitální kamerová lupa Snow Pad](/clanky/digitalni-kamerova-lupa-snow-pad/)  
+Snow Pad - 35 900 Kč  
+Pro konfiguraci s vhodným iPadem nás kontaktujte  
 
 ## Kamerové zvětšovací lupy Vocatex s hlasovým výstupem
-
   
 [Kamerová zvětšovací lupa VOCATEX](/clanky/kamerova-zvetsovaci-lupa-vocatex/)  
 Vocatex Standard 22" - 109 900 Kč  
@@ -24,15 +29,17 @@ Vocatex Plus 32" - 133 900 Kč
 Vocatex Plus 43" - 137 900 Kč  
   
 ## Kamera s hlasovým výstupem Orcam Read
+  
 [Orcam Read](/clanky/orcam-read/)
 Orcam Read - 57 996 Kč  
   
 ## Kamera s hlasovým výstupem OrCam MyEye 2
-
+  
 [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
 OrCam Myey 2 - 131 040 Kč  
 
-## Mobilní telefon BlindShell Clasic 2  
+## Mobilní telefon BlindShell Clasic 2
+  
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/) 
 Blind Shell Classic 2 - 12 690 Kč  
 

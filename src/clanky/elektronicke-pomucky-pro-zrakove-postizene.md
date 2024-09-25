@@ -25,6 +25,7 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 - [Apple produkty](/clanky/apple-produkty/)  
 - [Digitální čtecí přístroje](/clanky/digitalni-cteci-pristroje/)  
 - [Digitální zápisníky pro nevidomé](/clanky/digitalni-zapisniky-pro-nevidome/)  
+- [Digitální kamerová lupa Snow Pad](/clanky/digitalni-kamerova-lupa-snow-pad/)  
 - [Mobilní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  
 - [Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
 - [Braillské řádky Esys](/clanky/braillske-radky-esys/)  
