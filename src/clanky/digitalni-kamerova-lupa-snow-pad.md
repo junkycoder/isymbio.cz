@@ -14,7 +14,10 @@ Velmi jednoduchá a stabilní konstrukce se složí během chviličky, připojí
 Snow Pad je jednoduše přenositelný, takže není překážka střídání učeben, pracoviště nebo v domácnosti.  
 Tohle řešení iPadu nebo tabletu se zařízením Snow Pad plnohodnotně nahrazuje stolní nebo přenosné kamerové lupy, takže není potřeba mít další jiná zařízení.  
 Snow Pad se dá v rámci školy, třídy, domácnosti nebo pracoviště sdílet mezi více uživateli, protože 
-klíčem k používání lupy Snow Pad je jednoduše váš iPad nebo tablet s aplikací, která je přizpůsobena a nastavena dle vašich požadavků.  
+klíčem k používání lupy Snow Pad je jednoduše váš iPad nebo tablet s aplikací, která je přizpůsobena a nastavena dle vašich požadavků.
+  
+[![Snow Pad](/soubory/snow-pad-rozdeleni-obrazovky.jpg)](/soubory/snow-pad-rozdeleni-obrazovky.jpg)
+[![Snow Pad](/soubory/snow-pad-slozeny.jpg)](/soubory/snow-pad-slozeny.jpg  
 
 ## Funkce Snow Pad
 - Optický zoom automatické zaostření  
@@ -30,7 +33,7 @@ klíčem k používání lupy Snow Pad je jednoduše váš iPad nebo tablet s ap
 - Přenositelné, snadno složíte a rozložíte
 - Kompatibilita pro všechny iPady od 2019  
 - Hmotnost 2,4 Kg  
-- Rozměry: (šířka x hloubka x výška) složené 309 x 312 x 55 mm, rozložené 295 x 312 x 296 + 66 mm  
+- Rozměry: (šířka x hloubka x výška) složené 309 x 312 x 55 mm, rozložené 295 x 312 x 296 + 66 mm kamera  
   
 ## Součástí dodání digitální lupy Snow Pad může být samozřejmě i iPad dle vašeho výběru a preferencí.  
 Na tuto zvláštní pomůcku lze žádat u příslušnéhho úřadu práce, ato jako Digitální kamerová lupa s vhodným iPadem nebo i o samostatný Snow Pad.  
