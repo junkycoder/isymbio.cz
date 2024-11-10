@@ -9,7 +9,7 @@ Přes veškeré upgrady zůstává BlindShell Classic 3 velmi jednoduchý tlač�
 ## Aplikace Tandem
 Aplikace Tandem byla navržena týmem BlindShell speciálně pro nevidomé a zrakově postižené uživatele.  
 Jedná se o komunikační nástroj, podobně jako je WhatsApp nebo Messenger.  
-Navíc Tandem umožňuje tzv. vzdálenou podporu, takže vám kdokoliv po vašem schválení může pomoci s nastavením aplikace či s dalšími úkoly, a to i z jiných chytrých telefonů po stažení aplikace z Appstore nebo Googleplay, která je plně přístupná nevidomým uživatelům.  
+Navíc Tandem umožňuje vzdálenou podporu, takže vám kdokoliv po vašem schválení může pomoci s nastavením aplikace či s dalšími úkoly, a to i z jiných chytrých telefonů po stažení aplikace z Appstore nebo Googleplay, která je plně přístupná nevidomým uživatelům.  
 
 ## Aplikace třetích stran
 BlindShell Classic 3 nově umoˇžnuje stahování a instalaci aplikací třetích stran, pokud se tedy nespokojíte s katalogem aplikací BlindShell, můžete si stáhnout a nainstalovat aplikaci s jiných zdrojů.
@@ -20,8 +20,8 @@ Podobně jako je u jiných běžných chytrých telefonů virtuální asistent, 
 Telefon BlindShell Classic 3 nabízí unikátní hardware, hmatná tlačítka, velký dotikový displej s možností velkého zobrazení, ovládání hlasem a hlasitý, kvalitní reproduktor. To vše dělá z mobilního telefonu BlindShell Classic 3 skvělou volbu pro ty, kteří neholdují jenom dotikovým displejům a přesto chtějí být online a využívat dnes natolik běžné funkce jako umožňují chytré dotykové telefony.  
 Díky odečítání obrazovky nebo velkému displeji s možnostmi nastavení velkého písma můžete bez problémů procházet internet, řešit maily, využívat komunikační aplikace Messenger nebo WhatsApp. Jednoduše si spustíte YouTube, MP3 přehrávač nebo FM a Internetová rádia. Další aplikace si můžete stáhnout s BlindShell katalogu, který je neustále aktualizován a průběžně doplňován o další aplikace a vychytávky.  
 BlindShell Classic 3 disponuje hlasovým ovládáním nebo nastavení rychlého přístupu, takže práce s ním je velmi rychlá a efektivní. Díky kvalitnímu fotoaparátu 13 MPx můžete použít třeba lupu pro předčítání předloh, detekci barev a samozřejmě fotografovat.  
-Součástí telefonu blindShell Classic 3 jsou  asistivní pomůcky jako je třeba možnost označování MFC předmětů.  B
-lindShell Classic 3 má klávesnici s velkými, hmatnými tlačítky, speciálně navrženými pro pohodlné ovládaní telefonu.  
+Součástí telefonu blindShell Classic 3 jsou  asistivní pomůcky jako je třeba možnost označování MFC předmětů.  
+BlindShell Classic 3 má klávesnici s velkými, hmatnými tlačítky, speciálně navrženými pro pohodlné ovládaní telefonu.  
 
 ## Funkce
 - Hovory, rychlá volba, SMS, kontakty, budík, kalendář, časovač, poznámky, servisní menu, počasí  
@@ -60,7 +60,7 @@ lindShell Classic 3 má klávesnici s velkými, hmatnými tlačítky, speciáln�
 - Indikační LED  
 - LED svítilna  
 - Konektivita: LTE, Bluetooth, Wi-Fi, GP, FM Rádio, MFC  
-Senzory: světelný senzor, magnetometr, barometr, akcelerometr, gyroskop, senzor přiblížení  
+- Senzory: světelný senzor, magnetometr, barometr, akcelerometr, gyroskop, senzor přiblížení  
 - Rozměry: 135,2 x 54,6 x 16,7 mm  
 - Hmotnost: 100 g (telefon), 49 g (baterie)  
 
@@ -69,3 +69,21 @@ Senzory: světelný senzor, magnetometr, barometr, akcelerometr, gyroskop, senzo
 - Baterie  
 - Nabíjecí kabel USB-C, nabíjecí kolébka a adapter  
 - Poutko na telefon, 3 NFC samolepky, sluchátka  
+
+## Ceny produktů  
+- Blind Shell Classic 3 - 15990 Kč  
+
+Příslušenství:  
+- - Ochranné pouzdro flypové (knížka) - 750 Kč  
+- Ochranné pouzdro zadní kryt (vanička) - 390 Kč  
+- Lokalizační přívěšek BlindShell Beep - 750 Kč  
+- Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč  
+- Nabíjecí kolébka - 650 Kč  
+
+### Všeobecné informace
+Na mobilní telefon BlindShell Classic 3 se dá žádat jako o příspěvek na zvláštní pomůcku u příslušného úřadu práce, a to i zpětně, nejdéle však do jednoho roku od pořízení.
+Máte-li zájem o prezentaci mobilního telefonu, samozřejmě nás kontaktujte.
+Ve vyjmečných případech můžeme i mobilní telefon zapůjčit na zkoušku nebo v případě, že nemáte jiný mobilní telefon, který by vám vyhovoval se můžeme domluvit na zápůjčce na období, kdy si nový telefon pořídíte nebo než se vyřídí případná ž
+ádost u úřadu práce.
+
+<
