@@ -2,6 +2,9 @@
 title: Mobilní telefon BlindShell Classic 3
 ---
 
+[![BlindShell Classic 3](/soubory/1.bs3.jpg)](/soubory/1.bs3.jpg)
+[![BlindShell Classic 3](/soubory/2.bs3.jpg)](/soubory/2.bs3.jpg)
+  
 BlindShell Classic 3 představuje nové funkce, jako je aplikace Tandem, virtuální asistentka Lunaa podpora aplikací třetích stran.  
 Přes veškeré upgrady zůstává BlindShell Classic 3 velmi jednoduchý tlačítkový chytrý telefon prozrakově postižené nebo pro seniory, jako znáte u předchozího modelu  
 [BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  

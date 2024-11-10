@@ -37,14 +37,18 @@ Orcam Read - 57 996 Kč
   
 [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
 OrCam Myey 2 - 131 040 Kč  
+  
+## Mobilní telefon BlindShell Clasic 3  
+[Mobillní telefon BlindShell Classic 3](/clanky/mobilni-telefon-blindshell-classic-3/)  
+Blind Shell Classic 3 - 15 990 Kč  
 
 ## Mobilní telefon BlindShell Clasic 2
   
-[Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/) 
+[Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  
 Blind Shell Classic 2 - 12 690 Kč  
 
-Příslušenství BlindShell 
-Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč  
+Příslušenství BlindShell  
+Ochranné pouzdro flypové (knížka) černá, červená, modrá, béžová - 750 Kč  
 Ochranné pouzdro zadní kryt (vanička) - 450 Kč  
 Lokalizační přívěšek BlindShell Beep - 690 Kč  
 Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč  
