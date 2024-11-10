@@ -85,7 +85,7 @@ Příslušenství:
 
 ### Všeobecné informace
 Na mobilní telefon BlindShell Classic 3 se dá žádat jako o příspěvek na zvláštní pomůcku u příslušného úřadu práce, a to i zpětně, nejdéle však do jednoho roku od pořízení.  
-Máte-li zájem o prezentaci mobilního telefonu, samozřejmě nás kontaktujte.  
+Máte-li zájem o prezentaci mobilního telefonu, samozřejmě nás [kontaktujte](/clanky/kontakty/)  
 Ve vyjmečných případech můžeme i mobilní telefon zapůjčit na zkoušku nebo v případě, že nemáte jiný mobilní telefon, který by vám vyhovoval,  
 se můžeme domluvit na zápůjčce na období, kdy si nový telefon pořídíte nebo než se vyřídí případná žádost u úřadu práce.  
 
