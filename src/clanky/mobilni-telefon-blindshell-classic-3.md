@@ -74,7 +74,7 @@ BlindShell Classic 3 má klávesnici s velkými, hmatnými tlačítky, speciáln
 - Blind Shell Classic 3 - 15990 Kč  
 
 Příslušenství:  
-- - Ochranné pouzdro flypové (knížka) - 750 Kč  
+- Ochranné pouzdro flypové tmavě modré nebo béžové (knížka) - 750 Kč  
 - Ochranné pouzdro zadní kryt (vanička) - 390 Kč  
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
 - Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč  
