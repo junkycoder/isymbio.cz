@@ -133,6 +133,6 @@ Každý další hlas Kobaspeech 4 - 1 300 Kč
 
   
 [One Step Reader Multi](/clanky/onestep-reader-multi/)  
-One Step Reader Multi - 2 490 Kč  
+One Step Reader Multi - 2 790 Kč  
 Blind Square včetně instalace a zaškolení - 1 500 Kč  
 Další libovolné aplikace v rámci AppStore na vyžádání

@@ -40,13 +40,14 @@ Rozhodnete-li se pro pořízení iPhone, zde jsou informace jak začít a seznam
 [Ovládání a gesta pro Voice Over](/clanky/ovladani-a-gesta-pro-voice-over/)
 
 ### Aktuálně nabízené modely
-- iPhone Se 2022
+- iPhone 16e
 - iPhone 16 6,1"  
 - iPhone 16 Plus 6,7"
 - Prémiový iPhone 16 Pro 6,3"  
 - Prémiový 16 Pro Max 6,9"  
-Jednotlivé modely se liší jak výbavou, tak velikosti displeje, od 4,7" začínající u iPhone Se až po velikost 6,9" u iPhone Pro Max.  
- Vždy záleží na zrakovém postižení a potřebách uživatele. Mnohým postačí iPhone Se, ale jsou tací, kteří iPhone využívají na maximum a je to spíše jejich počítač než telefon, tam určitě je dobré se zamyslet na lepší řadě, stejně tak na využitelnosti kapacity paměti. Standardně platí, že většině uživatelům postačí základních 128 GB paměti, ale jsou i tací, kteří bez problémů využijí větší kapacity, ale obecně vzato, postačuje 64 GB nebo 128 GB varianta. \V případě ještě větších kapacit je už dobré si odůvodnit proč a na co potřebuji tolik úložiště, vzláště při žádosti o příspěvek na vzláštní pomůcku.  
+Jednotlivé modely se liší jak výbavou, tak velikosti displeje, od 6,1" začínající u iPhone 16e až po velikost 6,9" u iPhone Pro Max.  
+ Vždy záleží na zrakovém postižení a potřebách uživatele. Mnohým postačí iPhone 16e, ale jsou tací, kteří iPhone využívají na maximum a je to spíše jejich počítač než telefon, tam určitě je dobré se zamyslet na lepší řadě, stejně tak na využitelnosti kapacity paměti. Standardně platí, že většině uživatelům postačí základních 128 GB paměti, ale jsou i tací, kteří bez problémů využijí větší kapacity, ale obecně vzato, postačuje 128 GB varianta.  
+V případě ještě větších kapacit je už dobré si odůvodnit proč a na co potřebuji tolik úložiště, vzláště při žádosti o příspěvek na vzláštní pomůcku.  
 Standardně námi dodávané varianty:  
 - Vámi vybraný model iPhone včetně napájecího adatperu 20w
 + volitelné aplikace: OneStep reader Multi, Blind square.
