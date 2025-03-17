@@ -40,9 +40,9 @@ Rozhodnete-li se pro pořízení iPhone, zde jsou informace jak začít a seznam
 [Ovládání a gesta pro Voice Over](/clanky/ovladani-a-gesta-pro-voice-over/)
 
 ### Aktuálně nabízené modely
-- iPhone 16e
+- iPhone 16e 6,1"  "
 - iPhone 16 6,1"  
-- iPhone 16 Plus 6,7"
+- iPhone 16 Plus 6,7"  
 - Prémiový iPhone 16 Pro 6,3"  
 - Prémiový 16 Pro Max 6,9"  
 Jednotlivé modely se liší jak výbavou, tak velikosti displeje, od 6,1" začínající u iPhone 16e až po velikost 6,9" u iPhone Pro Max.  
