@@ -37,10 +37,10 @@ OneStep Reader Multi můžete mít aktivován na dvou  zařízeních s operačn�
 iOS, ANDROID, windows  
 Aktivace probíhá pomocí unikátního odkazu a aktivačního kódu, kde uživatel projde jednoduchou registrací.  
 Po úspěšné registraci je potřeba z App Store nebo Google Play stáhnout aplikaci OneStep Reader Multi" a po stažení vyplnit přihlašovací údaje, které si uživatel zvolil při registraci. Zařízení lze měnit, ale před aktivací jiného je třeba přímo v aplikaci stávající zařízení odebrat.  
-Cena OneStep Reader Multi 2 490 Kč včetně DPH.  
+Cena OneStep Reader Multi 2 790 Kč včetně DPH.  
 Aplikaci lze pořídit jako součást zvláštní pomůcky Elektronické komunikační nebo orientační zařízení pro nevidomé.  
 Aplikace je také vhodná pro všechny slabozraké nebo pro lidi, kteří mají se čtením jakékoli jiné problémy.  
-Díky všem výše popsaným funkcím může OneStep Reader Multi sloužit jako skvělí a užitečný doplněk při práci s dokumenty a být jako součást vaší kanceláře.  
+Díky všem výše popsaným funkcím může OneStep Reader Multi sloužit jako skvělý a užitečný doplněk při práci s dokumenty a být jako součást vaší kanceláře.  
   
 **UPOZORNĚNÍ**  
 V App Store a Google Play naleznete i samostatnou verzi OneStep Reader (bez označení Multi) . Jedná se o stejný program od stejného výrobce, ale bez možnosti aktivace na více zařízeních.  
