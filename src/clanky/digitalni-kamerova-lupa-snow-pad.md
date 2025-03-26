@@ -44,5 +44,5 @@ klíčem k používání lupy Snow Pad je jednoduše váš iPad nebo tablet s ap
 
 ## Součástí dodání digitální lupy Snow Pad může být samozřejmě i iPad dle vašeho výběru a preferencí.  
 Na tuto zvláštní pomůcku lze žádat u příslušnéhho úřadu práce, ato jako Digitální kamerová lupa s vhodným iPadem nebo i o samostatný Snow Pad.  
-Cena Snow Pad - 35 900 Kč
+Cena Snow Pad - 59 900 Kč
 Pro bližší možnosti konfigurace nás kontaktujte.  

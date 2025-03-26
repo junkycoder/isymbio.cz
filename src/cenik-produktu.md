@@ -13,7 +13,7 @@ Ceny hardwarových komponentů se takřka každodenně mění a nepreferujeme ve
 ## Digitální kamera Snow Pad
   
 [Digitální kamerová lupa Snow Pad](/clanky/digitalni-kamerova-lupa-snow-pad/)  
-Snow Pad - 35 900 Kč  
+Snow Pad - 59 900 Kč  
 Pro konfiguraci s vhodným iPadem nás kontaktujte  
 
 ## Kamerové zvětšovací lupy Vocatex s hlasovým výstupem
