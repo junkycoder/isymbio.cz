@@ -103,10 +103,10 @@ SpotDot, tiskárna se soutiskem Braillu a barevného tisku - 159 000 Kč
 
   
 [Odečítací program JAWS](/clanky/odecitaci-program-jaws/)  
-JAWS Home Edition - 54 000 Kč  
-SMA Upgrade o dvě verze 10 000 Kč  
-JAWS Professional Edition - 69 000 Kč  
-SMA Upgrade o dvě verze - 15 000 Kč  
+JAWS Home Edition - 60 000 Kč  
+SMA Upgrade o dvě verze 12 000 Kč  
+JAWS Professional Edition - 75 000 Kč  
+SMA Upgrade o dvě verze - 18 000 Kč  
   
   
 
