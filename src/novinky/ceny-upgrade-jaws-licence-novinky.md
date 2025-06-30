@@ -1,10 +1,9 @@
 ---
 title: Informace k licenci a aktualizace cen hlasového výstup JAWS 
-date: 2024-05-13
+date: 2025-06-30
 ---
 
 Aktualizace cen Hlasového výstupu JAWS.  
-
 Výrobce hlasového výstupu JAWS společnost
 FreedomScientific oznámil nové ceny a podmínky aktualizací, které jsou v platné téměř okamžitě ☹  
 Nové ceny:  
