@@ -4,7 +4,7 @@ title: ZoomText Magnifier & Reader
 Zvětšovací program ZoomText vyvíjený americkou firmou Freedom Scientific je šikovný pomocník pro slabozraké uživatele. Kromě různých způsobů zvětšování obrazovky lze ve verzi s hlasovou podporou používat rovněž hlasovou podporu a snížit tak celkovou zrakovou zátěž při práci na počítači.
 
 Aktuální verze programu podporuje operační systém Windows 10 a 11.
-V rámci pořízení licence je zahrnuto tzv. 2 x SMA (Možnost aktualizace o další 4 verze), což znamená že jsou zajištěné bezplatné aktualizace a podpora až na 5 let.
+V rámci pořízení licence je zahrnuto tzv. 3 x SMA (Možnost aktualizace o další 4 verze), což znamená že jsou zajištěné bezplatné aktualizace a podpora až na 5 let.
 
 ## Obecné a vizuální funkce
 - Rozsah zvětšení 1x až 60x včetně zlomkových úrovní zvětšení mezi velikostmi 1x a 5x.
