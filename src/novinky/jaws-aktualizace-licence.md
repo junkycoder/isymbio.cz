@@ -2,6 +2,9 @@
 title: Změny pravidel aktualizací odečítacího programu JAWS
 date: 2025-07-17
 ---
+Přicházíme s dalšími informacemi a snad i s konečným schrnutím licenncí a podmínek odečítacího programu  
+[JAWS](/clanky/odecitaci-program-jaws/)  
+ 
 Každý rok vychází nová verze hlasového výstupu JAWS a několik menších aktualizací, pravidla zůstávala spousty let stejná.  
 Od letošního května resp. července byly výrobcem podmínky zásadně upraveny.  
 Na vaše stávající licence aktualizace podmínek nemá žádný vliv a JAWS můžete používat tak jako doposud.  
