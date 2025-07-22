@@ -10,7 +10,7 @@ Od letošního května resp. července byly výrobcem podmínky zásadně uprave
 Na vaše stávající licence aktualizace podmínek nemá žádný vliv a JAWS můžete používat tak jako doposud.  
 Všechny změny se týkají pouze aktualizací licencí na novější verze.  
 
-- Od května došlo k navíšení ceny nové licence a ceny SMA  
+- Od května došlo k navýšení ceny nové licence a ceny SMA  
 - Namísto původních SMA, které měly platnost podle konečné verze programu, je nově možné zakoupit pouze tzv. časové SMA ("Time-Based SMA") platné do konkrétního
 data. Časová SMA nově zahrnuje všechny budoucí upgrade programu po dobu dvou let bez ohledu na jejich číslování.  
 - Stávající SMA zůstávají v platnosti do oficiálního vydání následující verze programu, která již není v SMA zahrnuta. SMA platná do verze 2027 tedy bude
