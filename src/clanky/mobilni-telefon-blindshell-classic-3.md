@@ -1,7 +1,7 @@
 ---
 title: Mobilní telefon BlindShell Classic 3
 ---
-
+[![BlindShell Classic 3](/soubory/BlindShell-Classic-3-FeelVision-Logo.png)](/soubory/BlindShell-Classic-3-FeelVision-Logo.png)
 [![BlindShell Classic 3](/soubory/1.bs3.jpg)](/soubory/1.bs3.jpg)
 [![BlindShell Classic 3](/soubory/2.bs3.jpg)](/soubory/2.bs3.jpg)
   
