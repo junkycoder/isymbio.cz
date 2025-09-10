@@ -45,7 +45,7 @@ Blind Shell Classic 3 - 15 990 Kč
 ## Mobilní telefon BlindShell Clasic 2
   
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  
-Blind Shell Classic 2 - 12 690 Kč  
+Blind Shell Classic 2 - 11 990 Kč  
 
 Příslušenství BlindShell  
 Ochranné pouzdro flypové (knížka) černá, červená, modrá, béžová - 750 Kč  
@@ -104,9 +104,10 @@ SpotDot, tiskárna se soutiskem Braillu a barevného tisku - 159 000 Kč
   
 [Odečítací program JAWS](/clanky/odecitaci-program-jaws/)  
 JAWS Home Edition - 60 000 Kč  
-SMA Upgrade o dvě verze 12 000 Kč  
+Časové SMA 2 roky 12 000 Kč  
 JAWS Professional Edition - 75 000 Kč  
-SMA Upgrade o dvě verze - 18 000 Kč  
+Časové SMA 2 roky - 18 000 Kč  
+Pozor: Pořízení UPG SMA je možné tehdy, když je SMA stále aktivní  
   
   
 
