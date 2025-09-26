@@ -14,6 +14,12 @@ Aplikace Tandem byla navržena týmem BlindShell speciálně pro nevidomé a zra
 Jedná se o komunikační nástroj, podobně jako je WhatsApp nebo Messenger.  
 Navíc Tandem umožňuje vzdálenou podporu, takže vám kdokoliv po vašem schválení může pomoci s nastavením aplikace či s dalšími úkoly, a to i z jiných chytrých telefonů po stažení aplikace z Appstore nebo Googleplay, která je plně přístupná nevidomým uživatelům.  
 
+## Observo
+Nová funkce v telefonech Blindshell Classic 3 vám popíše velmi podrobně fotografii.  
+Třeba co máte na sobě, jak vypadá váš kamarád, co je okolo vás.  
+Observo vám popíše předměty, různá zařízení, včetně barev atd.  
+Tuto funkci najdete ve fotoaparátu, v prohlížeči obrázku, jako aplikaci v katalogu BlindShell, nebo ho jednoduše aktivujete přes Lunu. Stačí něco vyfotit a Observo vám hned řekne, co je na fotografii.  
+
 ## Aplikace třetích stran
 BlindShell Classic 3 nově umoˇžnuje stahování a instalaci aplikací třetích stran, pokud se tedy nespokojíte s katalogem aplikací BlindShell, můžete si stáhnout a nainstalovat aplikaci s jiných zdrojů.
 
