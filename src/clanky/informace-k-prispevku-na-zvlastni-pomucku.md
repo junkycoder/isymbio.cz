@@ -2,8 +2,8 @@
 title: Informace k příspěvku na zvláštní pomůcku
 ---
 
-Legislativní změna  442/2021 Sb nahrazuje 388/2011 Sb zákona 329/2011 Sb, vyhlášku . o dávkách pro osoby se zdravotním postižením platný od  
-1. 1. 2022, který se týká příspěvku na zvláštní pomůcku.  
+Legislativní změna 442/2021 Sb. nahrazuje 388/2011 Sb. zákona 329/2011 Sb., vyhlášku . o dávkách pro osoby se zdravotním postižením platný od  
+1.1.2022, který se týká příspěvku na zvláštní pomůcku.  
 Kdo má na příspěvek na zvláštní pomůcku nárok?  
 Jsou to osoby s vadou nosného či pohybového ústrojí, dále osoby s těžkým postižením zraku a sluchu, přičemž toto postižení musí mít charakter dlouhodobě nepříznivého zdravotního stavu. Za dlouhodobě nepříznivý zdravotní stav se v souladu s jinými právními předpisy i v tomto zákoně považuje zdravotní stav, který podle poznatků lékařské vědy trvá či má trvat déle než jeden rok.  
   
