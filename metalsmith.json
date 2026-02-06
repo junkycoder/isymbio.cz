@@ -29,7 +29,6 @@
         "metalsmith-feed": {
             "collection": "news",
             "destination": "feed.xml",
-            "limit": 20,
             "title": "Symbio Novinky",
             "description": "Nejnovější zprávy ze světa SYMBIO Access devices",
             "site_url": "https://isymbio.cz/"
