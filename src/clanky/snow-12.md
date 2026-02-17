@@ -31,9 +31,7 @@ Snow 12 lze také připojit ke kameře do dálky
 - Možnost ukládání dokumentů, paměť 1,5 GB  
 - Ozvučené menu, hlasová nápověda  
 - Skládací stojánek: Umožňuje pohodlné psaní, čtení a skenování přímo na stole  
-- Připojení: kamera Snow Eye
-[Snow Eye](/clanky/snow-Eye/)  
-PC, Mac, TV nebo k Monitoru pomocí HDMI nebo USB-C  
+- Připojení: kamera [Snow Eye](/clanky/snow-Eye/) , PC, Mac, TV nebo k Monitoru pomocí HDMI nebo USB-C  
 - Reproduktor, 3,5 jack na sluchátka  
 - Baterie: cca 3 hod provozu, doba nabíjení cca 2 hod.  
 - Rozměry: 29 x 22 x 2,4 cm  
