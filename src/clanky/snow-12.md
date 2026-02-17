@@ -3,7 +3,10 @@ title: Přenosná digitální lupa Snow 12
 
 ---
 
-Přenosná digitální lupa, která zobrazuje jakékoliv dokumenty, předměty a předlohy do digitálního zobrazení v té nejmožnější reálné formě.  
+Přenosná digitální lupa, která zobrazuje jakékoliv dokumenty, předměty a předlohy do digitálního zobrazení v té nejmožnější reálné formě.
+[![Luna 6](/soubory/luna6.png)](/soubory/luna6.png)
+
+  
 Snow 12 je nejprodávanější digitální lupa od společnosti ZooMax,  
 díky kompatibilitě, velkému 12" displeji a zároveň stále lehké přenositelnosti, která je vybavena funkcípřevod textu na řeč a to ve 20 jazycích včetně češtiny.  
 Snow 12 je všestrané zařízení pro slabozraké, které můžete používat kdekoliv a kdykoliv. Pro lepší pohodlí nebo při delší práci lupu dáte do skládacího stojanu, který je také přenosný.  
@@ -34,7 +37,7 @@ PC, Mac, TV nebo k Monitoru pomocí HDMI nebo USB-C
 - Reproduktor, 3,5 jack na sluchátka  
 - Baterie: cca 3 hod provozu, doba nabíjení cca 2 hod.  
 - Rozměry: 29 x 22 x 2,4 cm  
-Hmotnost: 960 g (bez stojanu)  
+- Hmotnost: 960 g (bez stojanu)  
 - Dodáváno s praktickým pouzdrem, stojanem, HDMI a USB-C kabely včetně redukcí  
 
 Pro více informací nebo praktickou ukázku nás neváhejte kontaktovat.
