@@ -11,6 +11,8 @@ Využítí v domácnosti, ve škole, v práci a samozřejmě i v terénu.
 Lupa umožňuje práci lidem s různým zrakovým postižením, a to například   
 makulární degenerace, glaukom, odchlípení sítnice, retinitis Pigmentosa, 
 katarakta, diabetická retinopatie, periferní vidění a další těžká zraková postižení.  
+Snow 12 lze také připojit ke kameře do dálky  
+[Snow Eye](/clanky/snow-eye/)  
 
 ## Technické specifikace
 - 12" dotikový displej  
@@ -26,7 +28,9 @@ katarakta, diabetická retinopatie, periferní vidění a další těžká zrako
 - Možnost ukládání dokumentů, paměť 1,5 GB  
 - Ozvučené menu, hlasová nápověda  
 - Skládací stojánek: Umožňuje pohodlné psaní, čtení a skenování přímo na stole  
-- Připojení: PC, Mac, TV, Monitor, a snow Eye pomocí HDMI nebo USB-C  
+- Připojení: kamera Snow Eye
+[Snow Eye](/clanky/snow-eye/)  
+ PC, Mac, TV nebo k Monitoru pomocí HDMI nebo USB-C  
 - Reproduktor, 3,5 jack na sluchátka  
 - Baterie: cca 3 hod provozu, doba nabíjení cca 2 hod.  
 - Rozměry: 29 x 22 x 2,4 cm  
@@ -36,7 +40,8 @@ Hmotnost: 960 g (bez stojanu)
 Pro více informací nebo praktickou ukázku nás neváhejte kontaktovat.
  
 ## Cena Snow 12 a Eye
-Snow 12 - 32 990 Kč
-Snow Eye - 8990 Kč
-Snow 12 a Eye zvýhodněná cena - 39 990 Kč
+Snow Eye - 8990 Kč  
+Snow 12 - 32 990 Kč  
+[Snow 12](/clanky/snow-12/)  
+Snow 12 a Eye zvýhodněná cena - 39 990 Kč  
 
