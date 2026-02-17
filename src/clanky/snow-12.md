@@ -3,13 +3,13 @@ title: Přenosná digitální lupa Snow 12
 
 ---
 
-Přenosná digitální lupa, která zobrazuje jakékoliv dokumenty, předměty a předlohy do digitálního zobrazení v té nejmožnější reálné formě.  
+Přenosná digitální lupa, která sobrazuje jakékoliv dokumenty, předměty a předlohy do digitálního zobrazení v té nejmožnější reálné formě.  
 [![Snow 12](/soubory/snow12.png)](/soubory/snow12.png)  
 Snow 12 je nejprodávanější digitální lupa od společnosti ZooMax,  
-díky kompatibilitě, velkému 12" displeji a zároveň stále lehké přenositelnosti, která je vybavena funkcípřevod textu na řeč a to ve 20 jazycích včetně češtiny.  
-Snow 12 je všestrané zařízení pro slabozraké, které můžete používat kdekoliv a kdykoliv. Pro lepší pohodlí nebo při delší práci lupu dáte do skládacího stojanu, který je také přenosný.  
+díky kompatibilitě, velkému 12" displeji a zároveň stále lehké přenositelnosti, která je vybavena funkcí převod textu na řeč a to ve 20 jazycích včetně češtiny.  
+Snow 12 je všestranné zařízení pro slabozraké, které můžete používat kdekoliv a kdykoliv. Pro lepší pohodlí nebo při delší práci lupu dáte do skládacího stojanu, který je také přenosný.  
 [![Snow 12 stojan](/soubory/snow12stojan.png)](/soubory/snow12stojan.png)  
-Využítí v domácnosti, ve škole, v práci a samozřejmě i v terénu.  
+Viužítí v domácnosti, ve škole, v práci a samozřejmě i v terénu.  
 Lupa umožňuje práci lidem s různým zrakovým postižením, a to například  
 makulární degenerace, glaukom, odchlípení sítnice, retinitis Pigmentosa, 
 katarakta, diabetická retinopatie, periferní vidění a další těžká zraková postižení.  
@@ -18,13 +18,13 @@ Snow 12 lze také připojit ke kameře do dálky
 [![Snow 12 Eye](/soubory/snow12eye.png)](/soubory/snow12eye.png)  
 
 ## Technické specifikace
-- 12" dotikový displej  
+- 12" dotikoví displej  
 - Pohodlné ovládání: dotyk, tlačítka, joystick  
 - Zvětšení 2,5 x 19  
 - Reálné zobrazení nebo 10 kontrastních režimů  
 - Horizontální a vertikální čtecí linka  
 - Rozlišení 1920 x 1080  
-- Posouvání obrazu pomocí dotiku nebo tlačítek  
+- Posouvání obrazu pomocí dotyku nebo tlačítek  
 - Kamera 13 MP s automatickým ostřením nebo dotykem  
 - Rozpoznávání OCR a čtení textů (20 jazyků včetně češtiny) automatické čtení  
 - Podpora formátů JPG, PDF, RTF, TXT  
