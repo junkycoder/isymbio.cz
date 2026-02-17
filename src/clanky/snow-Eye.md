@@ -13,7 +13,7 @@ nebo k vašemu počítači či monitoru.
 Snow Eye najde využití všude, tam kde potřebujete zobrazit informace s tabule, předměty či další informace z větších vzdáleností.  
 Uplatnění hlavně ve třídách, konferenčních místnostech, přednáškových sálech, ale i v domácnostech.
 Snow Eye udělá z vašeho osobního počítače, monitoru nebo TV lupu na blízko a do dálky, což je její velkou předností.  
-Snow Eye má velikou kompatybilitu možnosti připojení k zařízení pomocí HDMI nebo USB-C.  
+Snow Eye má velikou kompatibilitu možnosti připojení k zařízení pomocí HDMI nebo USB-C.  
 Může to být jako doplněk k lupě Snow 12
 nebo váš osobní počítač s Windows, MacBook, popřípadě Tablet nebo iPad.
 Velmi jednoduché ovládání, na těle lupy jsou 3 tlačítka a jedno tlačítko pro zapnutí / vypnutí.  
