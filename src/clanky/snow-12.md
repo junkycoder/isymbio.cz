@@ -1,8 +1,8 @@
 ---
-title: Snow 12
+title: Přenosná digitální lupa Snow 12
+
 ---
 
-Přenosná digitální lupa Snow 12
 Přenosná digitální lupa, která zobrazuje jakékoliv dokumenty, předměty a předlohy do digitálního zobrazení v té nejmožnější reálné formě.  
 Snow 12 je nejprodávanější digitální lupa od společnosti ZooMax,  
 díky kompatibilitě, velkému 12" displeji a zároveň stále lehké přenositelnosti, která je vybavena funkcípřevod textu na řeč a to ve 20 jazycích včetně češtiny.  
@@ -12,7 +12,7 @@ Lupa umožňuje práci lidem s různým zrakovým postižením, a to například
 makulární degenerace, glaukom, odchlípení sítnice, retinitis Pigmentosa, 
 katarakta, diabetická retinopatie, periferní vidění a další těžká zraková postižení.  
 
-Technické specifikace
+## Technické specifikace
 - 12" dotikový displej  
 - Pohodlné ovládání: dotyk, tlačítka, joystick  
 - Zvětšení 2,5 x 19  
@@ -35,4 +35,8 @@ Hmotnost: 960 g (bez stojanu)
 
 Pro více informací nebo praktickou ukázku nás neváhejte kontaktovat.
  
- 
+## Cena Snow 12 a Eye
+Snow 12 - 32 990 Kč
+Snow Eye - 8990 Kč
+Snow 12 a Eye zvýhodněná cena - 39 990 Kč
+
