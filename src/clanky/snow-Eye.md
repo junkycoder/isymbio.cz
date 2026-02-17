@@ -6,6 +6,10 @@ title: Kamera Snow Eye
 Snow Eye od společnosti Zoomax je výkonná, lehká a přenosná kamera na dálku, kterou můžete připojit jako příslušenství k lupě  
 [Snow 12](/clanky/snow-12/)  
 nebo k vašemu počítači či monitoru.  
+[![Snow Eye Monitor](/soubory/snoweyemonitor.png)](/soubory/snoweyemonitor.png)  
+  
+[![Snow 12 Eye](/soubory/snow12eye.png)](/soubory/snow12eye.png)  
+  
 Snow Eye najde využití všude, tam kde potřebujete zobrazit informace s tabule, předměty či další informace z větších vzdáleností.  
 Uplatnění hlavně ve třídách, konferenčních místnostech, přednáškových sálech, ale i v domácnostech.
 Snow Eye udělá z vašeho osobního počítače, monitoru nebo TV lupu na blízko a do dálky, což je její velkou předností.  
@@ -26,6 +30,7 @@ Velmi jednoduché ovládání,na těle lupy jsou 3 tlačítka a jedno tlačítko
 Pro více informací nebo praktickou ukázku nás neváhejte kontaktovat.  
 
 ## Cena Snow 12 a Eye
-Snow 12 - 32 990 Kč  
 Snow Eye - 8990 Kč  
+Snow 12 - 32 990 Kč  
+[Snow 12](/clanky/snow-12/)  
 Snow 12 a Eye zvýhodněná cena - 39 990 Kč  
