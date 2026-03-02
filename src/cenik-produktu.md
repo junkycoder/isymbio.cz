@@ -53,22 +53,28 @@ Ochranné pouzdro zadní kryt (vanička) - 450 Kč
 Lokalizační přívěšek BlindShell Beep - 690 Kč  
 Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč  
 Nabíjecí kolébka - 690 Kč  
-
   
-## Kapesní kamerové lupy ZooMax luna  
+## Kapesní kamerové lupy ZooMax luna
 [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
 - Luna 6" - 14 900 Kč  
 - Luna 8" - 22 900 Kč  
   
-
-## Braillské řádky / displeje / zápisníky
+## Kamerová přenosná lupa Snow 12
+[Kamerová přenosná lupa Snow 12](/clanky/snow-12/)  
+Snow 12 - 32 990 Kč  
+Snow 12 a Eye zvýhodněná cena - 39 990 Kč  
   
-[Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
+## Digitální kamera Snow Eye
+[Digitální přenosná kamera Snow Eye](/clanky/snow-Eye/)  
+Snow Eye - 8990 Kč  
+Snow 12 a Eye zvýhodněná cena - 39 990 Kč  
+  
+## Braillské řádky / displeje / zápisníky[
+Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
 B.note Standard 20 - 59 000 Kč  
 B.note Standard 40 - 99 000 Kč  
 B.note 40 light / basic - 82 000 Kč  
   
-    
 [Braillské řádky Esys](/clanky/braillske-radky-esys/)
 V nabídce pouze již :  
 Esys 64 - 152 000 Kč  
