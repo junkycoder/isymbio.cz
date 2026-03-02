@@ -36,5 +36,7 @@ V případě jakýchkoliv dotazů ohledně příspěvků nás kontaktujte.
 - [OrCam MyEye 2](/clanky/orcam-myeye-2/)  
 - [Čtecí zařízení EasyReader](/clanky/cteci-zarizeni-easyreader/)  
 - [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
+- [Kamerová přenosná lupa Snow 12](/clanky/snow-12/)  
+- [Digitální přenosná kamera Snow Eye](/clanky/snow-Eye/)  
 - [Speciální programové vybavení](/clanky/specialni-programove-vybaveni/)
   
