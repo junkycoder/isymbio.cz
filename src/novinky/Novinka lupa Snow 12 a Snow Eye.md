@@ -2,6 +2,7 @@
 title:Novinka lupa Snow 12 a Snow Eye 
 date: 2026-03-02
 ---
+
 Tak jako každý rok na přelomu zimy a jara, máme něco nového a to především pro slabozraké uživatele.  
 Velkou novinkou je 12“ lupa, která přes svou velikost je stále kompaktní, ale díky příslušenství s ní uděláte i pomůcku do školy, práce nebo jen tak na doma.
 Jedná se o lupu  
