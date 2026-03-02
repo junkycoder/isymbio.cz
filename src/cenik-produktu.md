@@ -56,8 +56,8 @@ Nabíjecí kolébka - 690 Kč
   
 ## Kapesní kamerové lupy ZooMax luna
 [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
-- Luna 6" - 14 900 Kč  
-- Luna 8" - 22 900 Kč  
+Luna 6" - 14 900 Kč  
+Luna 8" - 22 900 Kč  
   
 ## Kamerová přenosná lupa Snow 12
 [Kamerová přenosná lupa Snow 12](/clanky/snow-12/)  
