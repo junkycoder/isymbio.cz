@@ -37,10 +37,16 @@ Telefon: +420 602 389 928
 Telefon: +420 734 300 872  
 [krejcicek@isymbio.cz](mailto:krejcicek@isymbio.cz)  
 
-### Otevírací doba / technická podpora
-Po - Pá 8:00 - 16:00 nebo po domluvě  
-  
 
+### Technická podpora, dotazzy, získání informací po telefonu
+Pondělí - Čtvrtek 9:00 - 15:00 hod  
+Pátek 9:00 - 12:00 hod  
+
+### Návštěvní hodiny u nás vždy po předchozí domluvě
+Pondělí- Čtvrtek 8:00 - 16:00 v určitých případech se samozřejmě přizpůsobíme  
+Pátek 8:00 - 13:00 hod
+
+  
 ### Kancelář
 Naše kancelář je v 2. podlaží kancelářské budovy OC Merkaz,  
 která je vzdálená 50 metrů od autobusové zastávky U Kunratického lesa.  
