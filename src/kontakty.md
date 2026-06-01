@@ -39,13 +39,13 @@ Telefon: +420 734 300 872
 
 
 ### Technická podpora, dotazzy, získání informací po telefonu
-Pondělí - Čtvrtek 9:00 - 15:00 hod  
-Pátek 9:00 - 12:00 hod  
+Pondělí - Čtvrtek 9:00 - 15:00 hod.  
+Pátek 9:00 - 12:00 hod.  
 
 ### Návštěvní hodiny u nás vždy po předchozí domluvě
-Pondělí- Čtvrtek 8:00 - 16:00 v určitých případech se samozřejmě přizpůsobíme  
-Pátek 8:00 - 13:00 hod
-
+Pondělí- Čtvrtek 8:00 - 16:00 hod.  
+Pátek 8:00 - 13:00 hod.  
+v určitých případech se samozřejmě přizpůsobíme  
   
 ### Kancelář
 Naše kancelář je v 2. podlaží kancelářské budovy OC Merkaz,  
