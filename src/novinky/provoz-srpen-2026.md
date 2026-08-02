@@ -13,5 +13,4 @@ blaha@isymbio.cz
 koudelka@isymbio.cz  
 a to klidně všechny najednou.  
 Určitě se vždy někdo ozve, ale věříme, že co počkalo o prázdninách do teď určitě ještě počká :-).  
-
 Děkujeme za pochopení a přejeme krásnou druhou polovinu prázdnin.  
