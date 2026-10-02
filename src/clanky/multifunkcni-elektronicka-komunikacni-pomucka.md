@@ -40,14 +40,14 @@ Rozhodnete-li se pro pořízení iPhone, zde jsou informace jak začít a seznam
 [Ovládání a gesta pro Voice Over](/clanky/ovladani-a-gesta-pro-voice-over/)
 
 ### Aktuálně nabízené modely
-- iPhone 16e 6,1"  "
+- iPhone 17e 6,1"  "
 - iPhone 17 6,3"  
 - iPhone Air 6,5"  
-- Prémiový iPhone 17 Pro 6,3"  
-- Prémiový 17 Pro Max 6,9"  
-Jednotlivé modely se liší jak výbavou, tak velikosti displeje, od 6,1" začínající u iPhone 16e až po velikost 6,9" u iPhone Pro Max.  
- Vždy záleží na zrakovém postižení a potřebách uživatele. Mnohým postačí iPhone 16e, ale jsou tací, kteří iPhone využívají na maximum a je to spíše jejich počítač než telefon, tam určitě je dobré se zamyslet na lepší řadě, stejně tak na využitelnosti kapacity paměti. 
-Základní paměťová varianta je 128 GB u iPhone 16e, u modelů 17 je již v základní variantě 256 GB u všech modelů.
+- Prémiový iPhone 18 Pro 6,3"  
+- Prémiový 18 Pro Max 6,9"  
+Jednotlivé modely se liší jak výbavou, tak velikosti displeje, od 6,1" začínající u iPhone 17e až po velikost 6,9" u iPhone Pro Max.  
+ Vždy záleží na zrakovém postižení a potřebách uživatele. Mnohým postačí iPhone 17e, ale jsou tací, kteří iPhone využívají na maximum a je to spíše jejich počítač než telefon, tam určitě je dobré se zamyslet na lepší řadě, stejně tak na využitelnosti kapacity paměti.  
+Základní paměťová varianta je již u všech modelů 256 GB.  
 V případě ještě větších kapacit je už dobré si odůvodnit proč a na co potřebuji tolik úložiště, vzláště při žádosti o příspěvek na vzláštní pomůcku.  
 Standardně námi dodávané varianty:  
 - Vámi vybraný model iPhone včetně napájecího adatperu 20w
