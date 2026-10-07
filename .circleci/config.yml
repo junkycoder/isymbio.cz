@@ -1,17 +1,17 @@
-version: 2
+version: 2.1
+
 jobs:
-   build:
-     docker:
-       - image: circleci/node:latest
-     steps:
-       - checkout
-       - run: npm install
-       - run: npm start
-       - run: node .circleci/deploy.js
-       - run: echo "WE'RE ONLINE"
+  build:
+    docker:
+      - image: cimg/node:lts
+    steps:
+      - checkout
+      - run: npm install
+      - run: npm start
+      - run: node .circleci/deploy.js
+      - run: echo "WE'RE ONLINE"
 
 workflows:
-  version: 2
   deploy:
     jobs:
       - build:
