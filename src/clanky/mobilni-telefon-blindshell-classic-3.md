@@ -80,14 +80,15 @@ BlindShell Classic 3 má klávesnici s velkými, hmatnými tlačítky, speciáln
 - Poutko na telefon, sluchátka  
 
 ## Ceny produktů  
-- Blind Shell Classic 3 - 15990 Kč  
+- Blind Shell Classic 3 - 17 890 Kč  
 
 Příslušenství:  
-- Ochranné pouzdro flypové tmavě modré nebo béžové (knížka) - 750 Kč  
-- Ochranné pouzdro zadní kryt (vanička) - 450 Kč  
+- Ochranné pouzdro flypové tmavě modré nebo béžové (knížka) - 850 Kč  
+- Ochranné pouzdro zadní kryt (vanička) - 490 Kč  
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
 - Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč  
 - Nabíjecí kolébka - 650 Kč  
+Baterie - 850 Kč  
 
 ### Všeobecné informace
 Na mobilní telefon BlindShell Classic 3 se dá žádat jako o příspěvek na zvláštní pomůcku u příslušného úřadu práce, a to i zpětně, nejdéle však do jednoho roku od pořízení.  

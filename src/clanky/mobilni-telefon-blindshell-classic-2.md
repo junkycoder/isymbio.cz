@@ -39,17 +39,17 @@ BlindShell Classic 2 má klávesnici s velkými, hmatnými tlačítky, speciáln
   
 
 ## Ceny produktů  
-- Blind Shell Classic 2 - 11 990 Kč  
+- Blind Shell Classic 2 - 14 490 Kč  
 
-Příslušenství:
-- - Ochranné pouzdro flypové (knížka) černá , nebo červená - 750 Kč
+Příslušenství:  
+- - Ochranné pouzdro flypové (knížka) černá , nebo červená - 850 Kč  
 [![](/soubory/flypove-pouzdro.png)](/soubory/flypove-pouzdro.png)
-- Ochranné pouzdro zadní kryt (vanička) - 450 Kč
+- Ochranné pouzdro zadní kryt (vanička) - 490 Kč  
 [![](/soubory/zadni-kryt.png)](/soubory/zadni-kryt.png)
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
-- Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč
+- Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč  
 - Nabíjecí kolébka - 650 Kč  
-
+Baterie - 850 Kč  
 
 ### Konektivita  
 - GSM (2G): 850/900/1800/1900 MHz  

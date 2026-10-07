@@ -40,20 +40,21 @@ OrCam Myey 2 - 131 040 Kč
   
 ## Mobilní telefon BlindShell Clasic 3  
 [Mobillní telefon BlindShell Classic 3](/clanky/mobilni-telefon-blindshell-classic-3/)  
-Blind Shell Classic 3 - 15 990 Kč  
+Blind Shell Classic 3 - 17 890 Kč  
 
 ## Mobilní telefon BlindShell Clasic 2
   
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  
-Blind Shell Classic 2 - 11 990 Kč  
+Blind Shell Classic 2 - 14 490 Kč  
 
 Příslušenství BlindShell  
-Ochranné pouzdro flypové (knížka) černá, červená, modrá, béžová - 750 Kč  
-Ochranné pouzdro zadní kryt (vanička) - 450 Kč  
+Ochranné pouzdro flypové (knížka) černá, červená, modrá, béžová - 850 Kč  
+Ochranné pouzdro zadní kryt (vanička) - 490 Kč  
 Lokalizační přívěšek BlindShell Beep - 690 Kč  
 Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 090 Kč  
 Nabíjecí kolébka - 690 Kč  
-  
+Baterie do BS 2 a BS 3 - 850 Kč  
+
 ## Kapesní kamerové lupy ZooMax luna
 [Kamerové kapesní lupy ZooMax Luna 6" a 8"](/clanky/kapesni-kamerove-lupy-zoomax-luna/)  
 Luna 6" - 14 900 Kč  
