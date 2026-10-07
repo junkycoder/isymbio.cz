@@ -12,7 +12,7 @@ Velké změny byly provedeny i na hardwarové úrovni, především klávesnice 
 Pro hladký běh aplikací a celého prostředí byl u B.note použit operační systém Linux, jež poskytuje velký prostor a  řadu možností pro budoucí rozšiřování jeho funkčnosti na softwarové úrovni.
 
 B.note nabízí možnost připojení přes USB a BlueTooth.
-BlueTooth připojení podporuje až čtyři zařízení najednou, mezi kterými se lze rychle přepínat dle potřeby - např. notebook, tablet a mobilní telefon.
+BlueTooth připojení podporuje až pět zařízení najednou, mezi kterými se lze rychle přepínat dle potřeby - např. notebook, tablet a mobilní telefon.
 
 Vestavěná baterie zajišťuje provoz na jedno nabití po dobu více než 15 hodin, díky USB C a podpoře standardu Power delivery 2.0 je pak nabíjení velmi rychlé - 30% úrovně nabití lze dosáhnout už za 25 minut, 80% za 90 minut.
 
