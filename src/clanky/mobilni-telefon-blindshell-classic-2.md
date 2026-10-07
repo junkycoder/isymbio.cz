@@ -4,6 +4,7 @@ title: Mobilní telefon BlindShell Classic 2
 
 [![](/soubory/classic2red.jpg)](/soubory/classic2red.jpg)
 [![](/soubory/classic2black.jpg)](/soubory/classic2black.jpg)
+[![BlindShell Classic 2 a 3 nově záruka 3 roky](/soubory/bs3-3-roky-zaruka.png)](/soubory/bs3-3-roky-zaruka.png)
 
 Telefon BlindShell Classic 2 nabízí unikátní hardware, hmatná tlačítka, velký displej s možností velmi velkého zobrazení, ovládání hlasem a velmi hlasitý, kvalitní reproduktor. To vše dělá
 z mobilního telefonu BlindShell Classic 2 skvělou volbu nejen pro nevidomé nebo zrakově postižené, ale i pro seniory a pro ty, kteří neholdují dotikovým displejům a přesto chtějí být online a využívat dnes natolik běžné funkce jako umožňují chytré dotykové telefony.  
@@ -40,7 +41,7 @@ BlindShell Classic 2 má klávesnici s velkými, hmatnými tlačítky, speciáln
 
 ## Ceny produktů  
 - Blind Shell Classic 2 - 14 490 Kč  
-
+Záruka 3 roky
 Příslušenství:  
 - - Ochranné pouzdro flypové (knížka) černá , nebo červená - 850 Kč  
 [![](/soubory/flypove-pouzdro.png)](/soubory/flypove-pouzdro.png)
@@ -49,7 +50,7 @@ Příslušenství:
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
 - Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč  
 - Nabíjecí kolébka - 650 Kč  
-Baterie - 850 Kč  
+- Baterie - 850 Kč  
 
 ### Konektivita  
 - GSM (2G): 850/900/1800/1900 MHz  

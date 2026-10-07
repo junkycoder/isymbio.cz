@@ -46,7 +46,7 @@ Blind Shell Classic 3 - 17 890 Kč
   
 [Mobillní telefon BlindShell Classic 2](/clanky/mobilni-telefon-blindshell-classic-2/)  
 Blind Shell Classic 2 - 14 490 Kč  
-
+Záruka u obou modelů je 3 roky od výrobce  
 Příslušenství BlindShell  
 Ochranné pouzdro flypové (knížka) černá, červená, modrá, béžová - 850 Kč  
 Ochranné pouzdro zadní kryt (vanička) - 490 Kč  
@@ -71,7 +71,7 @@ Snow Eye - 8990 Kč
 Snow 12 a Eye zvýhodněná cena - 39 990 Kč  
   
 ## Braillské řádky / displeje / zápisníky[
-Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
+[Braillské řádky B.note](/clanky/braillske-radky-b.note/)  
 B.note Standard 20 - 59 000 Kč  
 B.note Standard 40 - 99 000 Kč  
 B.note 40 light / basic - 82 000 Kč  

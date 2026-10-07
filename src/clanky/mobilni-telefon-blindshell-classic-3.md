@@ -4,6 +4,8 @@ title: Mobilní telefon BlindShell Classic 3
 [![BlindShell Classic 3](/soubory/BlindShell-Classic-3-FeelVision-Logo.png)](/soubory/BlindShell-Classic-3-FeelVision-Logo.png)
 [![BlindShell Classic 3](/soubory/1.bs3.jpg)](/soubory/1.bs3.jpg)
 [![BlindShell Classic 3](/soubory/2.bs3.jpg)](/soubory/2.bs3.jpg)
+[![BlindShell Classic 2 a 3 nově záruka 3 roky](/soubory/bs3-3-roky-zaruka.png)](/soubory/bs3-3-roky-zaruka.png)
+[![BlindShell Classic 3 red nově záruka 3 roky](/soubory/red-bs3-3-roky-zaruka.png)](/soubory/red-bs3-3-roky-zaruka.png)
   
 BlindShell Classic 3 představuje nové funkce, jako je aplikace Tandem, virtuální asistentka Lunaa podpora aplikací třetích stran.  
 Přes veškeré upgrady zůstává BlindShell Classic 3 velmi jednoduchý tlačítkový chytrý telefon prozrakově postižené nebo pro seniory, jako znáte u předchozího modelu  
@@ -81,6 +83,7 @@ BlindShell Classic 3 má klávesnici s velkými, hmatnými tlačítky, speciáln
 
 ## Ceny produktů  
 - Blind Shell Classic 3 - 17 890 Kč  
+- Záruka 3 roky
 
 Příslušenství:  
 - Ochranné pouzdro flypové tmavě modré nebo béžové (knížka) - 850 Kč  
@@ -88,8 +91,8 @@ Příslušenství:
 - Lokalizační přívěšek BlindShell Beep - 750 Kč  
 - Lokalizační přívěšek BlindShell Beep balení 2 ks - 1 250 Kč  
 - Nabíjecí kolébka - 650 Kč  
-Baterie - 850 Kč  
-
+- Baterie - 850 Kč  
+- 
 ### Všeobecné informace
 Na mobilní telefon BlindShell Classic 3 se dá žádat jako o příspěvek na zvláštní pomůcku u příslušného úřadu práce, a to i zpětně, nejdéle však do jednoho roku od pořízení.  
 Máte-li zájem o prezentaci mobilního telefonu, samozřejmě nás [kontaktujte](/clanky/kontakty/)  
