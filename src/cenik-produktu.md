@@ -62,6 +62,7 @@ Luna 8" - 22 900 Kč
   
 ## Kamerová přenosná lupa Snow 12
 [Kamerová přenosná lupa Snow 12](/clanky/snow-12/)  
+
 Snow 12 - 32 990 Kč  
 Snow 12 a Eye zvýhodněná cena - 39 990 Kč  
   
